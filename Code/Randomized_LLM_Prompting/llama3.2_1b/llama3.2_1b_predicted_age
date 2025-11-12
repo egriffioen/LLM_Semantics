@@ -1,0 +1,111 @@
+model,shots,book,answer,ground_truth_age,predicted_age
+llama3.2:1b,0,"Skeen's Search (Skeen, #3)","Based on the emotion vector of the book description, I would recommend ""Skeen's Search (Skeen, #3)"" to teenagers aged 16-17 and above. This is because their normalised emotion vectors indicate a high level of excitement (""Surprise""), fear, and joy associated with the subject matter, which aligns with what they typically enjoy in book descriptions.",16-17,16-17
+llama3.2:1b,0,"Skeen's Search (Skeen, #3)","Based on the emotion vector of the book description, I would recommend the ""16-17"" age group for this book.",16-17,16-17
+llama3.2:1b,0,"Skeen's Search (Skeen, #3)","Based on the emotion vector of the book description, I would recommend the book to a ""16-17"" age group. The normalized emotion vector indicates a high level of anticipation and joy, which is consistent with the typical teenage reading preferences. Additionally, there are no strong negative emotions or feelings of disgust mentioned in the description, which also aligns with the emotional context of this age group.",16-17,16-17
+llama3.2:1b,0,"Skeen's Search (Skeen, #3)","Based on the emotion vector of the book description, I would recommend the ""16-17"" age group for the book ""Skeen's Search (Skeen, #3)"". The normalized emotion vectors suggest a strong anticipation and surprise in the description, which is more typical of this age group.",16-17,16-17
+llama3.2:1b,0,"Skeen's Search (Skeen, #3)","Based on the emotion vector of the book description, I would recommend ""Skeen's Search (Skeen, #3)"" to a 16-17 year old teenager. The high values for 'Anticipation', 'Surprise', and 'Joy' suggest that this age group would likely be excitedly anticipating the events of the book and being emotionally invested in the story.",16-17,16-17
+llama3.2:1b,1,"Skeen's Search (Skeen, #3)",12-13.,16-17,12-13
+llama3.2:1b,1,"Skeen's Search (Skeen, #3)","Based on the emotion vector of the book description, I would recommend the ""16-17"" age group for the book ""Skeen's Search (Skeen, #3)"".",16-17,16-17
+llama3.2:1b,1,"Skeen's Search (Skeen, #3)",12-13,16-17,12-13
+llama3.2:1b,1,"Skeen's Search (Skeen, #3)",12-13,16-17,12-13
+llama3.2:1b,1,"Skeen's Search (Skeen, #3)",12-13.,16-17,12-13
+llama3.2:1b,3,"Skeen's Search (Skeen, #3)",12-13,16-17,12-13
+llama3.2:1b,3,"Skeen's Search (Skeen, #3)",16-17,16-17,16-17
+llama3.2:1b,3,"Skeen's Search (Skeen, #3)",12-13,16-17,12-13
+llama3.2:1b,3,"Skeen's Search (Skeen, #3)",16-17,16-17,16-17
+llama3.2:1b,3,"Skeen's Search (Skeen, #3)",16-17,16-17,16-17
+llama3.2:1b,5,"Skeen's Search (Skeen, #3)",16-17,16-17,16-17
+llama3.2:1b,5,"Skeen's Search (Skeen, #3)",18+,16-17,18+
+llama3.2:1b,5,"Skeen's Search (Skeen, #3)",16-17,16-17,16-17
+llama3.2:1b,5,"Skeen's Search (Skeen, #3)",18+,16-17,18+
+llama3.2:1b,5,"Skeen's Search (Skeen, #3)",16-17,16-17,16-17
+llama3.2:1b,0,Pet Sematary,"Based on the emotion vector of the book description, I would recommend recommending ""Pet Sematary"" to teenagers aged 16-17 years old. This is because their normalized emotion vectors have a higher level of ""Fear"", indicating that this age group may be more likely to experience fear or anxiety when reading about the potential consequences of playing with forces beyond human control, as described in the book's plot.",16-17,16-17
+llama3.2:1b,0,Pet Sematary,"Based on the emotion context of the book description and comparing it to the emotion vectors of different age groups, I would recommend the ""16-17"" age group for the book ""Pet Sematary"". 
+
+The description implies that the story takes place in a rural setting, which may evoke feelings of nostalgia and connection to nature among younger readers. Additionally, the mention of pets and a family moving to a new home suggests a sense of uncertainty and potential loss, which is more relatable to this age group.",16-17,16-17
+llama3.2:1b,0,Pet Sematary,"Based on the emotion vectors of the book description and comparing them to the average emotion vectors of books that each age group of teenagers prefers in their book descriptions, I would recommend the book ""Pet Sematary"" to the 14-15 age group. The normalized emotion vector indicates a moderate level of anticipation (0.09396288466055908) and surprise (0.004416255579046276), suggesting that this age group may be interested in reading a story with unexpected twists or events. Additionally, the description's tone is somewhat dark and foreboding, which aligns with the typical themes found in horror and supernatural fiction enjoyed by this age group.",16-17,14-15
+llama3.2:1b,0,Pet Sematary,"Based on the emotion context of the book description and comparing it to the emotion vectors of different age groups, I would recommend ""Pet Sematary"" to teenagers aged 16-17. The description highlights the themes of mortality, loss, and discovery that are characteristic of this age range, which is consistent with their emotional preferences.",16-17,16-17
+llama3.2:1b,0,Pet Sematary,"Based on the emotion vectors provided, I would recommend the book ""Pet Sematary"" to the age group of ""14-15"". The normalized emotion vector for the description indicates a moderate level of anticipation and surprise, but also some sadness and disgust. These emotions are more commonly associated with younger teenagers, particularly those in the 12-13 and 14-15 age groups.",16-17,14-15
+llama3.2:1b,1,Pet Sematary,16-17,16-17,16-17
+llama3.2:1b,1,Pet Sematary,16-17,16-17,16-17
+llama3.2:1b,1,Pet Sematary,16-17,16-17,16-17
+llama3.2:1b,1,Pet Sematary,16-17,16-17,16-17
+llama3.2:1b,1,Pet Sematary,16-17,16-17,16-17
+llama3.2:1b,3,Pet Sematary,16-17.,16-17,16-17
+llama3.2:1b,3,Pet Sematary,18+,16-17,18+
+llama3.2:1b,3,Pet Sematary,16-17,16-17,16-17
+llama3.2:1b,3,Pet Sematary,18+,16-17,18+
+llama3.2:1b,3,Pet Sematary,16-17.,16-17,16-17
+llama3.2:1b,5,Pet Sematary,16-17,16-17,16-17
+llama3.2:1b,5,Pet Sematary,16-17,16-17,16-17
+llama3.2:1b,5,Pet Sematary,16-17,16-17,16-17
+llama3.2:1b,5,Pet Sematary,16-17,16-17,16-17
+llama3.2:1b,5,Pet Sematary,12-13,16-17,12-13
+llama3.2:1b,0,How to Photograph Dogs: A Comprehensive Guide,"Based on the emotion vector of the book description, I would recommend the book to the ""14-15"" age group. The normalized emotion vector shows a high level of anticipation (indicating interest and expectation) from the user, as well as trust in the author's expertise and the potential for great photographs.",18+,14-15
+llama3.2:1b,0,How to Photograph Dogs: A Comprehensive Guide,"Based on the emotion vector of the book description, I would recommend ""How to Photograph Dogs: A Comprehensive Guide"" to a teenager in their late teens or early twenties. The normalized emotion vector suggests that this age group is looking for information and guidance on photography, which aligns with the book's topic. Additionally, the tone of the description is informative and enthusiastic, suggesting that this age group would appreciate a comprehensive guide like the one described.",18+,
+llama3.2:1b,0,How to Photograph Dogs: A Comprehensive Guide,"Based on the emotion description of the book, I would recommend ""How to Photograph Dogs: A Comprehensive Guide"" to teenagers in the ""14-15"" age group. The tone is informative and encouraging, with a focus on teaching amateur photographers how to take great pictures of their dogs. The mention of Kerrin Winter and Dale Churchill's professional experience also appeals to teenagers interested in photography.",18+,14-15
+llama3.2:1b,0,How to Photograph Dogs: A Comprehensive Guide,"Based on the emotion vectors provided, it seems that the book description is most appealing to teenagers aged 16-17, as they have a strong preference for ""Joy"" and ""Surprise"". However, considering the context of the book being about dog photography, I would also recommend the 14-15 age group. They may be interested in learning how to take great pictures of their dogs, which could evoke feelings of joy and excitement.
+
+But if I had to choose one age group that would be most likely to enjoy this book, it would be the 16-17 age group.",18+,16-17
+llama3.2:1b,0,How to Photograph Dogs: A Comprehensive Guide,"Based on the emotion vectors provided, I would recommend the book ""How to Photograph Dogs: A Comprehensive Guide"" to the ""16-17"" age group. The normalized emotion vector indicates a high level of anticipation and excitement for the subject matter, as well as some joy and appreciation for the technical aspects mentioned in the description. These emotions align with what the ""16-17"" age group tends to enjoy in book descriptions.",18+,16-17
+llama3.2:1b,1,How to Photograph Dogs: A Comprehensive Guide,"The book description is very positive and engaging, suggesting that it would be recommended to teenagers who enjoy photography, dogs, or want a fun read about action shots and portraits. However, based on the emotion vectors provided for different age groups, I would recommend ""How to Photograph Dogs"" to 14-15 year olds.",18+,14-15
+llama3.2:1b,1,How to Photograph Dogs: A Comprehensive Guide,16-17.,18+,16-17
+llama3.2:1b,1,How to Photograph Dogs: A Comprehensive Guide,16-17,18+,16-17
+llama3.2:1b,1,How to Photograph Dogs: A Comprehensive Guide,16-17.,18+,16-17
+llama3.2:1b,1,How to Photograph Dogs: A Comprehensive Guide,16-17,18+,16-17
+llama3.2:1b,3,How to Photograph Dogs: A Comprehensive Guide,16-17.,18+,16-17
+llama3.2:1b,3,How to Photograph Dogs: A Comprehensive Guide,16-17.,18+,16-17
+llama3.2:1b,3,How to Photograph Dogs: A Comprehensive Guide,16-17,18+,16-17
+llama3.2:1b,3,How to Photograph Dogs: A Comprehensive Guide,16-17,18+,16-17
+llama3.2:1b,3,How to Photograph Dogs: A Comprehensive Guide,16-17,18+,16-17
+llama3.2:1b,5,How to Photograph Dogs: A Comprehensive Guide,18+,18+,
+llama3.2:1b,5,How to Photograph Dogs: A Comprehensive Guide,16-17,18+,16-17
+llama3.2:1b,5,How to Photograph Dogs: A Comprehensive Guide,16-17,18+,16-17
+llama3.2:1b,5,How to Photograph Dogs: A Comprehensive Guide,18+,18+,
+llama3.2:1b,5,How to Photograph Dogs: A Comprehensive Guide,18+,18+,
+llama3.2:1b,0,The Notebook,"Based on the emotion vector of the book description, I would recommend the ""18+"" age group for the book ""The Notebook"". The normalized emotion vector indicates a strong sense of nostalgia, sadness, and surprise, which are all common emotions associated with this age group. Additionally, the description hints at a deep emotional connection between the characters, which is also typical of young adults in this age range.",16-17,
+llama3.2:1b,0,The Notebook,"Based on the emotion description provided and comparing it to the average emotion vectors of books that each age group enjoyed, I would recommend the book ""The Notebook"" to a teenager in the ""14-15"" age group. The normalized emotion vector of the description aligns closely with the emotions associated with this age group, such as anticipation (indicating excitement or eagerness), joy, and trust, which are all present in the book description.",16-17,14-15
+llama3.2:1b,0,The Notebook,"Based on the emotion context of the book description and comparing it to the average emotion vectors of books that each age group preferred, I would recommend the ""16-17"" age group for the book ""The Notebook"".",16-17,16-17
+llama3.2:1b,0,The Notebook,"Based on the emotion vector of the book description, I would recommend ""The Notebook"" to teenagers aged 16-17. This is because the normalized emotion vector suggests a high level of Joy and Sadness, as well as some Surprise and Trust elements. These emotions are commonly associated with coming-of-age stories that explore complex relationships and heartbreak, which aligns with the themes of love and nostalgia presented in ""The Notebook"".",16-17,16-17
+llama3.2:1b,0,The Notebook,"Based on the emotion vector of the book description provided, it appears that the story of ""The Notebook"" would be most appealing to teenagers in their early teens to mid-teens. This is because the tone of the description seems to convey a sense of nostalgia and longing for a past love, which may resonate with this age group.
+
+While 12-13 year olds might also enjoy it due to the anticipation and excitement expressed throughout the book description, the overall emotional tone suggests that they may not be as deeply moved by the story. The emotions described in the vector do not seem to align closely enough with those preferred by teenagers aged 14-15 or 16-17.
+
+The 18+ age group's focus on disgust and anger does not appear to match the tone of the description, which instead suggests a romantic and heartwarming love story that evokes emotions such as joy, surprise, and trust.",16-17,12-13
+llama3.2:1b,1,The Notebook,"""16-17""",16-17,16-17
+llama3.2:1b,1,The Notebook,"The age group that would recommend the book ""The Notebook"" is 16-17.",16-17,16-17
+llama3.2:1b,1,The Notebook,"The emotional context of the book description suggests that ""The Notebook"" would be recommended to teenagers in the ""16-17"" age group. The tone is romantic and heartwarming, and the language used evokes feelings of nostalgia and emotionality. The description also highlights themes of true love, passion, and enduring relationships, which are commonly associated with teenage experiences.",16-17,16-17
+llama3.2:1b,1,The Notebook,16-17.,16-17,16-17
+llama3.2:1b,1,The Notebook,"""16-17""",16-17,16-17
+llama3.2:1b,3,The Notebook,16+,16-17,
+llama3.2:1b,3,The Notebook,18+,16-17,
+llama3.2:1b,3,The Notebook,18+,16-17,
+llama3.2:1b,3,The Notebook,16-17.,16-17,16-17
+llama3.2:1b,3,The Notebook,18+,16-17,
+llama3.2:1b,5,The Notebook,18+,16-17,
+llama3.2:1b,5,The Notebook,18+,16-17,
+llama3.2:1b,5,The Notebook,16-17,16-17,16-17
+llama3.2:1b,5,The Notebook,16-17,16-17,16-17
+llama3.2:1b,5,The Notebook,18+,16-17,
+llama3.2:1b,0,"The Black Raven (The Dragon Mage, #2)","Based on the emotion context of the book description and comparing it to the average emotion vectors of different age groups, I would recommend ""The Black Raven (The Dragon Mage, #2)"" for teenagers aged 16-17. The emotional tone of the description suggests a sense of excitement, danger, and urgency, which is more characteristic of this age group's preferences.",16-17,16-17
+llama3.2:1b,0,"The Black Raven (The Dragon Mage, #2)","Based on the emotion vectors provided, I would recommend the book ""The Black Raven (The Dragon Mage, #2)"" to the ""16-17"" age group. The normalized emotion vector suggests that this age group enjoys books with a balance of emotional intensity and complexity, which is evident in the description's mix of epic fantasy elements, character development, and conflicts.",16-17,16-17
+llama3.2:1b,0,"The Black Raven (The Dragon Mage, #2)","Based on the emotion description provided for ""The Black Raven (The Dragon Mage, #2)"", I would recommend this book to teenagers in the age range of ""14-15"". The normalized emotion vector shows a high level of anticipation and surprise, which are common emotions associated with young adult fantasy novels. Additionally, the description mentions a thrilling plot with astral powers, evil schemes, and the involvement of powerful characters like Lilli and Prince Maryn, which would likely appeal to readers in this age range.",16-17,14-15
+llama3.2:1b,0,"The Black Raven (The Dragon Mage, #2)","Based on the emotion description provided, I would recommend ""The Black Raven (The Dragon Mage, #2)"" to teenagers in the ""14-15"" age group. The normalized emotion vector suggests that this book will evoke feelings of anticipation, fear, and surprise, which are commonly associated with this age group's reading preferences.",16-17,14-15
+llama3.2:1b,0,"The Black Raven (The Dragon Mage, #2)","Based on the emotion vectors provided, it appears that the book description is geared towards an older age group, likely the ""18+"" category, as it contains more complex and mature themes such as disapproval of Raena's schemes and a focus on powerful characters' emotions. However, none of the emotion vectors in the provided list match the ""18+"" category.
+
+Since you mentioned that 12-13, 14-15, and 16-17 age groups preferred books with similar emotional contexts to their descriptions, I would recommend either the ""14-15"" or ""16-17"" age group for ""The Black Raven (The Dragon Mage, #2)"".",16-17,12-13
+llama3.2:1b,1,"The Black Raven (The Dragon Mage, #2)","The age group to recommend ""The Black Raven"" is 16-17.",16-17,16-17
+llama3.2:1b,1,"The Black Raven (The Dragon Mage, #2)","""16-17""",16-17,16-17
+llama3.2:1b,1,"The Black Raven (The Dragon Mage, #2)",The normalized emotion vector of the description suggests that this book would be most appealing to readers in their late teens or early twenties.,16-17,
+llama3.2:1b,1,"The Black Raven (The Dragon Mage, #2)",16-17,16-17,16-17
+llama3.2:1b,1,"The Black Raven (The Dragon Mage, #2)",16-17,16-17,16-17
+llama3.2:1b,3,"The Black Raven (The Dragon Mage, #2)",16-17.,16-17,16-17
+llama3.2:1b,3,"The Black Raven (The Dragon Mage, #2)",16-17.,16-17,16-17
+llama3.2:1b,3,"The Black Raven (The Dragon Mage, #2)",16-17.,16-17,16-17
+llama3.2:1b,3,"The Black Raven (The Dragon Mage, #2)",16-17,16-17,16-17
+llama3.2:1b,3,"The Black Raven (The Dragon Mage, #2)",16-17,16-17,16-17
+llama3.2:1b,5,"The Black Raven (The Dragon Mage, #2)",16-17,16-17,16-17
+llama3.2:1b,5,"The Black Raven (The Dragon Mage, #2)",16-17,16-17,16-17
+llama3.2:1b,5,"The Black Raven (The Dragon Mage, #2)",16-17,16-17,16-17
+llama3.2:1b,5,"The Black Raven (The Dragon Mage, #2)",12-13,16-17,12-13
+llama3.2:1b,5,"The Black Raven (The Dragon Mage, #2)",16-17,16-17,16-17

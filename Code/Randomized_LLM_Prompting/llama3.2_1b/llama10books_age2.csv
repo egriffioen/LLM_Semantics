@@ -1,0 +1,210 @@
+model,shots,book,answer,ground_truth_age,predicted_age
+llama3.2:1b,0,The Pelican Brief,"Based on the emotion context of the book description and comparing it to the emotion vectors of different age groups of teenagers, I would recommend ""The Pelican Brief"" to the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,0,The Pelican Brief,"Based on the emotion context of the book description and comparing it to the emotion vectors of different age groups, I would recommend ""The Pelican Brief"" to teenagers in their 16-17 year old age group. The normalized emotion vector indicates a mix of anticipation (0.07015128079375259), surprise (0.09782321650884672), disgust (0.10165239370732261) and joy (0.05045836948730524). These emotions are all present in the description, suggesting that the book's dark and intense plot would likely appeal to this age group.",16-17,16-17
+llama3.2:1b,0,The Pelican Brief,"Based on the emotion vector of the book description, I would recommend the book ""The Pelican Brief"" to the ""16-17"" age group. The normalized emotion vector suggests a mix of anger, anticipation, and surprise, but also some elements of disgust and sadness. These emotions are more typical of young adult readers in this age range.",16-17,16-17
+llama3.2:1b,0,The Pelican Brief,"Based on the emotion context of the book description and comparing it to the emotion vectors of different age groups, I would recommend the book ""The Pelican Brief"" to be aimed at the ""14-15"" age group. The normalized emotion vector suggests that the book is likely to elicit feelings of anticipation, fear, and surprise in this age group, which are typical of young adult fiction.",16-17,14-15
+llama3.2:1b,0,The Pelican Brief,"Based on the emotion vector of the book description, I would recommend ""The Pelican Brief"" to teenagers in the ""16-17"" age group. The normalised emotion vectors indicate a high level of anticipation and surprise, suggesting that this age group would be engagingly invested in the story and its unfolding plot twists.",16-17,16-17
+llama3.2:1b,1,The Pelican Brief,16-17,16-17,16-17
+llama3.2:1b,1,The Pelican Brief,"The normalized emotion vector of the description for ""The Pelican Brief"" suggests that a teenage girl would recommend this book to her peers.",16-17,0
+llama3.2:1b,1,The Pelican Brief,"""16-17""",16-17,16-17
+llama3.2:1b,1,The Pelican Brief,"The normalized emotion vector of the description for ""The Pelican Brief"" suggests that it would be most suitable for teenagers aged 14-15 or older.",16-17,14-15
+llama3.2:1b,1,The Pelican Brief,14-15,16-17,14-15
+llama3.2:1b,3,The Pelican Brief,16-17,16-17,16-17
+llama3.2:1b,3,The Pelican Brief,18+,16-17,18+
+llama3.2:1b,3,The Pelican Brief,18+,16-17,18+
+llama3.2:1b,3,The Pelican Brief,16-17,16-17,16-17
+llama3.2:1b,3,The Pelican Brief,18+,16-17,18+
+llama3.2:1b,5,The Pelican Brief,16-17,16-17,16-17
+llama3.2:1b,5,The Pelican Brief,16-17,16-17,16-17
+llama3.2:1b,5,The Pelican Brief,16-17,16-17,16-17
+llama3.2:1b,5,The Pelican Brief,16-17.,16-17,16-17
+llama3.2:1b,5,The Pelican Brief,18+,16-17,18+
+llama3.2:1b,0,882 1/2 Amazing Answers to Your Questions About the Titanic,"Based on the emotion vector of the book description, I would recommend the ""16-17"" age group. Their preference for books about historical events and unexplained phenomena aligns well with the tone and content of your recommendation.",16-17,16-17
+llama3.2:1b,0,882 1/2 Amazing Answers to Your Questions About the Titanic,"Based on the emotion vector of the book description, I would recommend the ""882 1/2 Amazing Answers to Your Questions About the Titanic"" for the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,0,882 1/2 Amazing Answers to Your Questions About the Titanic,"Based on the emotion vector of the book description, I would recommend the book to a reader in the ""14-15"" age group.",16-17,14-15
+llama3.2:1b,0,882 1/2 Amazing Answers to Your Questions About the Titanic,"Based on the emotion vector of the book description, I would recommend ""882 1/2 Amazing Answers to Your Questions About the Titanic"" to an 18-year-old. The normalized emotion vector suggests that this age group is likely to be drawn to themes of adventure, excitement, and mystery, which are all present in the description.",16-17,18+
+llama3.2:1b,0,882 1/2 Amazing Answers to Your Questions About the Titanic,"Based on the emotion vector of the book description, I would recommend the book to a ""16-17"" year old teenager.",16-17,16-17
+llama3.2:1b,1,882 1/2 Amazing Answers to Your Questions About the Titanic,16-17.,16-17,16-17
+llama3.2:1b,1,882 1/2 Amazing Answers to Your Questions About the Titanic,"""16-17"":",16-17,16-17
+llama3.2:1b,1,882 1/2 Amazing Answers to Your Questions About the Titanic,"The emotion vector of the description indicates a strong sense of excitement and anticipation about the book's content. This suggests that the recommended age group for this book is likely ""16-17"".",16-17,16-17
+llama3.2:1b,1,882 1/2 Amazing Answers to Your Questions About the Titanic,"The emotion vector of the description suggests that it would be most appealing to 16-17 year olds due to its combination of historical significance (Titanic), factual accuracy (answers to questions about the ship), and exciting storytelling (making of the movie, true-or-false quizzes).",16-17,16-17
+llama3.2:1b,1,882 1/2 Amazing Answers to Your Questions About the Titanic,"""18+""",16-17,18+
+llama3.2:1b,3,882 1/2 Amazing Answers to Your Questions About the Titanic,16-17,16-17,16-17
+llama3.2:1b,3,882 1/2 Amazing Answers to Your Questions About the Titanic,16-17,16-17,16-17
+llama3.2:1b,3,882 1/2 Amazing Answers to Your Questions About the Titanic,14-15,16-17,14-15
+llama3.2:1b,3,882 1/2 Amazing Answers to Your Questions About the Titanic,16-17,16-17,16-17
+llama3.2:1b,3,882 1/2 Amazing Answers to Your Questions About the Titanic,16-17,16-17,16-17
+llama3.2:1b,5,882 1/2 Amazing Answers to Your Questions About the Titanic,16-17.,16-17,16-17
+llama3.2:1b,5,882 1/2 Amazing Answers to Your Questions About the Titanic,18+,16-17,18+
+llama3.2:1b,5,882 1/2 Amazing Answers to Your Questions About the Titanic,16-17,16-17,16-17
+llama3.2:1b,5,882 1/2 Amazing Answers to Your Questions About the Titanic,16-17,16-17,16-17
+llama3.2:1b,5,882 1/2 Amazing Answers to Your Questions About the Titanic,16-17.,16-17,16-17
+llama3.2:1b,0,The Picture of Dorian Gray,"Based on the emotion vector of the book description, I would recommend ""The Picture of Dorian Gray"" to the ""16-17"" age group. The normalized emotion vectors suggest a higher level of anticipation and surprise compared to other age groups, which aligns with the classic achievement status of this novel.",16-17,16-17
+llama3.2:1b,0,The Picture of Dorian Gray,"Based on the emotion vector of the book description, I would recommend ""The Picture of Dorian Gray"" to an 18-year-old. The normalized emotion vector suggests a high level of anticipation (0.117), which is characteristic of this age group's preference for reading about new and exciting events.",16-17,18+
+llama3.2:1b,0,The Picture of Dorian Gray,"Based on the emotion vectors of the book description, I would recommend ""The Picture of Dorian Gray"" to teenagers in the ""16-17"" age group. The normalized emotion vector suggests that this group tends to enjoy elements of horror and suspense, which are present in the book description. Additionally, the descriptions of Wilde's work as a ""celebrated work"" and its enduring popularity may appeal more to teenagers in this age group who are interested in reading about complex and thought-provoking literature.",16-17,16-17
+llama3.2:1b,0,The Picture of Dorian Gray,"Based on the emotion vector of the book description, I would recommend ""The Picture of Dorian Gray"" to a ""16-17"" year old. The normalized emotion vector indicates that the description has moderate levels of fear, disgust, and surprise, but also high levels of joy and trust, which are all typical characteristics associated with this age group.",16-17,16-17
+llama3.2:1b,0,The Picture of Dorian Gray,"Based on the emotion vector of the book description, I would recommend ""The Picture of Dorian Gray"" to teenagers aged 16-17. This age group tends to prefer darker and more mature themes, which are reflected in the book's Gothic horror elements and its exploration of themes such as evil and debauchery.",16-17,16-17
+llama3.2:1b,1,The Picture of Dorian Gray,16+,16-17,16+
+llama3.2:1b,1,The Picture of Dorian Gray,16+,16-17,16+
+llama3.2:1b,1,The Picture of Dorian Gray,16+,16-17,16+
+llama3.2:1b,1,The Picture of Dorian Gray,16+,16-17,16+
+llama3.2:1b,1,The Picture of Dorian Gray,18+,16-17,18+
+llama3.2:1b,3,The Picture of Dorian Gray,16-17,16-17,16-17
+llama3.2:1b,3,The Picture of Dorian Gray,18+,16-17,18+
+llama3.2:1b,3,The Picture of Dorian Gray,16-17.,16-17,16-17
+llama3.2:1b,3,The Picture of Dorian Gray,18+,16-17,18+
+llama3.2:1b,3,The Picture of Dorian Gray,16-17,16-17,16-17
+llama3.2:1b,5,The Picture of Dorian Gray,16-17,16-17,16-17
+llama3.2:1b,5,The Picture of Dorian Gray,16-17,16-17,16-17
+llama3.2:1b,5,The Picture of Dorian Gray,16-17,16-17,16-17
+llama3.2:1b,5,The Picture of Dorian Gray,18+,16-17,18+
+llama3.2:1b,5,The Picture of Dorian Gray,16-17,16-17,16-17
+llama3.2:1b,0,The Portable Abraham Lincoln,"Based on the emotion description of ""The Portable Abraham Lincoln"", I would recommend this book to teenagers aged 16 and above. The normalized emotion vector suggests that the book contains elements of inspiration (Joy), historical significance (History, Emphasis on History), and intellectual curiosity (Anticipation). These aspects align with the preferences of older teenagers who are interested in reading about history, politics, and public figures.",18+,16-17
+llama3.2:1b,0,The Portable Abraham Lincoln,"Based on the emotion description provided, I would recommend the book ""The Portable Abraham Lincoln"" to teenagers in the ""16-17"" age group. The high values for ""Joy"", ""Surprise"", and ""Trust"" in the normalized emotion vector suggest that this book is likely to evoke positive emotions and create a sense of wonder or excitement among readers.",18+,16-17
+llama3.2:1b,0,The Portable Abraham Lincoln,"Based on the emotion vector of the book description, I would recommend ""The Portable Abraham Lincoln"" to teenagers in the ""16-17"" age group. The vector suggests a tone that is respectful and admiring, which aligns with the typical preferences of this age group for reading about historical figures who are often portrayed positively in literature.",18+,16-17
+llama3.2:1b,0,The Portable Abraham Lincoln,"Based on the emotion vectors of the book description, I would recommend the book ""The Portable Abraham Lincoln"" to teenagers in the ""16-17"" age group. The emotion vector suggests a sense of excitement and anticipation from the discussion about public speeches and letters, which are likely to be engaging for this age group. Additionally, the mention of Lincoln's enigmatic personality and art adds an intriguing layer of depth that might appeal to 16-year-olds.",18+,16-17
+llama3.2:1b,0,The Portable Abraham Lincoln,"Based on the emotion vector of the book description, I would recommend the ""16-17"" age group for ""The Portable Abraham Lincoln"". The normalized emotion vector indicates a sense of anticipation (12th percentile), disgust (9th percentile), and surprise (5th percentile) in the description, which suggests that this age group is likely to be interested in learning more about Lincoln's writings and personality.",18+,16-17
+llama3.2:1b,1,The Portable Abraham Lincoln,"""16-17""",18+,16-17
+llama3.2:1b,1,The Portable Abraham Lincoln,"Based on the emotion vectors of the book descriptions provided for each age group, I would recommend the book ""The Portable Abraham Lincoln"" to teenagers in the age range of 16-17. The normalized emotion vector suggests a balance of emotions such as anticipation, joy, and surprise, which are common among this age group. Additionally, the description highlights Lincoln's enigmatic personality and artistic expression, which may appeal to their interests in history, literature, and self-improvement.",18+,16-17
+llama3.2:1b,1,The Portable Abraham Lincoln,"""16-17""",18+,16-17
+llama3.2:1b,1,The Portable Abraham Lincoln,"The normalized emotion vector of the description for ""The Portable Abraham Lincoln"" is very close to that of a 16-17 year old. They have an anticipation and trust in the content, which is typical of this age group.",18+,16-17
+llama3.2:1b,1,The Portable Abraham Lincoln,"""16-17""",18+,16-17
+llama3.2:1b,3,The Portable Abraham Lincoln,18+,18+,18+
+llama3.2:1b,3,The Portable Abraham Lincoln,18+,18+,18+
+llama3.2:1b,3,The Portable Abraham Lincoln,18+,18+,18+
+llama3.2:1b,3,The Portable Abraham Lincoln,16-17,18+,16-17
+llama3.2:1b,3,The Portable Abraham Lincoln,18+,18+,18+
+llama3.2:1b,5,The Portable Abraham Lincoln,16-17,18+,16-17
+llama3.2:1b,5,The Portable Abraham Lincoln,16-17,18+,16-17
+llama3.2:1b,5,The Portable Abraham Lincoln,16-17,18+,16-17
+llama3.2:1b,5,The Portable Abraham Lincoln,16-17,18+,16-17
+llama3.2:1b,5,The Portable Abraham Lincoln,16-17,18+,16-17
+llama3.2:1b,0,The Pushcart War,"Based on the emotion vector of the book description, I would recommend the ""16-17"" age group for ""The Pushcart War"". The high values for Anticipation (0.11107237137022462), Fear (0.20423868107785026), and Surprise (0.02430642028191463) suggest that this age group is likely to be engaged by the idea of a small group of people fighting against a powerful force, which aligns with the theme of the book.",14-15,16-17
+llama3.2:1b,0,The Pushcart War,"Based on the emotion vectors provided, I would recommend the book ""The Pushcart War"" to teenagers aged 16-17. This age group seems to prefer a more intense and dramatic tone, which is reflected in the high values for 'Anger' and 'Fear'. The emotional context of the description also suggests that this age group may enjoy books with a sense of urgency and rebellion, which is consistent with the themes presented in ""The Pushcart War"".",14-15,16-17
+llama3.2:1b,0,The Pushcart War,"Based on the emotion vector analysis, I would recommend the book ""The Pushcart War"" to teenagers in the age range of ""16-17"". This is because their normalized emotion vectors indicate a high level of anticipation and surprise, indicating that they are likely to be drawn into the story with excitement and curiosity. The tone of the description also suggests a sense of excitement and adventure, making it suitable for this age group.",14-15,16-17
+llama3.2:1b,0,The Pushcart War,"Based on the emotion vectors provided, I would recommend ""The Pushcart War"" to a teenager in the ""16-17"" age group. The normalized emotion vector indicates a high level of anticipation and surprise, as well as a sense of joy and satisfaction from the story's resolution, which aligns with the typical emotional preferences of this age group.",14-15,16-17
+llama3.2:1b,0,The Pushcart War,"Based on the emotion vector of the book description, I would recommend ""The Pushcart War"" to teenagers in the ""16-17"" age group. The description seems to align well with their emotional preferences, as it includes elements like:
+
+* Anger and frustration towards a powerful force (the truck owners)
+* Anticipation and excitement about the story's historical context
+* Disgust and criticism of the truck owners' behavior
+* Joy and satisfaction at the outcome of the story
+
+This age group appears to enjoy books that spark their emotions, challenge societal norms, and offer inspiring stories of individualism and collective action.",14-15,16-17
+llama3.2:1b,1,The Pushcart War,"The emotion vector of the description for ""The Pushcart War"" suggests a strong sense of anger and frustration, particularly towards the truck owners, which indicates an older age group, likely those in their teens or early twenties who are aware of social injustices and may be more familiar with history.",14-15,18+
+llama3.2:1b,1,The Pushcart War,"Based on the emotion vectors provided for each book description, it seems that ""The Hobbit"" would be most appealing to teenagers in the 12-13 age group due to its dark fantasy tone and themes of rebellion against authority.",14-15,12-13
+llama3.2:1b,1,The Pushcart War,The Pushcart War would be recommended to 16-17 years old.,14-15,16-17
+llama3.2:1b,1,The Pushcart War,"The age group that would recommend ""The Pushcart War"" is 16-17 years old.",14-15,16-17
+llama3.2:1b,1,The Pushcart War,"The book ""The Pushcart War"" would be most suitable for the 14-15 age group based on their preferred emotion vectors in book descriptions.",14-15,14-15
+llama3.2:1b,3,The Pushcart War,16-17.,14-15,16-17
+llama3.2:1b,3,The Pushcart War,18+,14-15,18+
+llama3.2:1b,3,The Pushcart War,18+,14-15,18+
+llama3.2:1b,3,The Pushcart War,18+,14-15,18+
+llama3.2:1b,3,The Pushcart War,16-17.,14-15,16-17
+llama3.2:1b,5,The Pushcart War,18+,14-15,18+
+llama3.2:1b,5,The Pushcart War,14-15,14-15,14-15
+llama3.2:1b,5,The Pushcart War,18+,14-15,18+
+llama3.2:1b,5,The Pushcart War,14-15.,14-15,14-15
+llama3.2:1b,5,The Pushcart War,18+,14-15,18+
+llama3.2:1b,0,Lion of Ireland,"Based on the emotion vector of the book description, I would recommend the book to an individual in the ""16-17"" age group. This is because the normalized emotion vector indicates a moderate level of Joy and Surprise, which are both positive emotions that are typical of this age group's preferences. Additionally, the presence of Anger and Disgust in lower than average values suggests that the description may be more engaging for this age group due to its darker and more complex tone.",14-15,16-17
+llama3.2:1b,0,Lion of Ireland,"Based on the emotion vector of the book description, I would recommend the ""16-17"" age group for the book ""Lion of Ireland"". The emotional tone of the description suggests a sense of grandeur, truth, and legend, which aligns more closely with this age group's preferences.",14-15,16-17
+llama3.2:1b,0,Lion of Ireland,"Based on the emotion vector of the book description, I would recommend the ""16-17"" age group for the book ""Lion of Ireland"". The high values for ""Anger"", ""Fear"", and ""Sadness"" in the normalized vector suggest a dark and intense tone, which is consistent with the historical context of Brian Boru's life and the era described in the book.",14-15,16-17
+llama3.2:1b,0,Lion of Ireland,"Based on the emotion vector of the book description, I would recommend the book to a teenager in the ""14-15"" age group. The normalized emotion vector suggests that the book is likely to evoke feelings of anticipation, joy, and surprise, which are all common elements found in young adult literature. Additionally, the language used is descriptive and exciting, suggesting that the book may appeal to readers who enjoy historical fiction and adventure stories.",14-15,14-15
+llama3.2:1b,0,Lion of Ireland,"Based on the emotion vector of the book description, I would recommend the ""16-17"" age group for the book ""Lion of Ireland"". The normalized emotion vector indicates a strong sense of joy and surprise, which is consistent with the tone of the book description. Additionally, the presence of anger and fear in lower concentrations suggests that the book may also be engaging for older teenagers who enjoy reading about history and politics.",14-15,16-17
+llama3.2:1b,1,Lion of Ireland,"Based on the emotion vectors of the book descriptions provided, I would recommend the book ""Lion of Ireland"" to teenagers in the 16-17 age group. The normalized emotion vector suggests a high level of excitement and anticipation, indicating that this age group is likely to be drawn to the story's historical context, legends, and potentially action-packed plot.",14-15,16-17
+llama3.2:1b,1,Lion of Ireland,"""16-17""",14-15,16-17
+llama3.2:1b,1,Lion of Ireland,16-17,14-15,16-17
+llama3.2:1b,1,Lion of Ireland,"The emotional context of the book description suggests that the recommended age group for ""Lion of Ireland"" would be 16-17 years old, given their preference for books rich in truth and legend, as well as the presence of strong, wise, and brave characters.",14-15,16-17
+llama3.2:1b,1,Lion of Ireland,16-17.,14-15,16-17
+llama3.2:1b,3,Lion of Ireland,16-17,14-15,16-17
+llama3.2:1b,3,Lion of Ireland,16-17.,14-15,16-17
+llama3.2:1b,3,Lion of Ireland,16-17,14-15,16-17
+llama3.2:1b,3,Lion of Ireland,16-17.,14-15,16-17
+llama3.2:1b,3,Lion of Ireland,16-17,14-15,16-17
+llama3.2:1b,5,Lion of Ireland,16-17,14-15,16-17
+llama3.2:1b,5,Lion of Ireland,16-17,14-15,16-17
+llama3.2:1b,5,Lion of Ireland,16-17.,14-15,16-17
+llama3.2:1b,5,Lion of Ireland,16-17,14-15,16-17
+llama3.2:1b,5,Lion of Ireland,16-17,14-15,16-17
+llama3.2:1b,0,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)","Based on the emotion context of the book description, I would recommend ""Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)"" to the ""16-17"" age group. The normalized emotion vector indicates that this age group is leaning towards a mix of emotions such as Joy and Surprise, suggesting an interest in magical adventures and exciting situations.",18+,16-17
+llama3.2:1b,0,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)","The emotion vector of the description does not strongly suggest any specific emotion that would be favored by teenagers in the ""16-17"" age group. However, the presence of an English sorcerer and a magical guardian with potential threats to the main character suggests a slightly darker or more fantasy-oriented tone which may appeal to this age group.",18+,16-17
+llama3.2:1b,0,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)","Based on the emotion description provided and comparing it to the average emotion vectors of different age groups, I would recommend the book ""Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)"" for teenagers aged 14-15.",18+,14-15
+llama3.2:1b,0,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)","The emotion vector of the book description indicates that the story is intense and suspenseful, with a focus on action and adventure. The mention of Yue's illness adds an emotional layer to the story, suggesting that the protagonist Sakura may be putting herself in harm's way to save him.
+
+Considering these factors, I would recommend ""Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)"" for teenagers aged 14-15. This age group tends to enjoy books with complex emotions, suspenseful plots, and character development, making this book a great fit for their reading interests.",18+,14-15
+llama3.2:1b,0,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)","Based on the emotion vector of the book description, I would recommend the book to the ""16-17"" age group. Their normalized emotion vector suggests a high level of excitement and anticipation, particularly in terms of the mystery surrounding Clow Reed and Yue's situation. This aligns with the typical interests of this age group, who often enjoy reading about adventure, supernatural themes, and complex relationships between characters.",18+,16-17
+llama3.2:1b,1,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",16-17,18+,16-17
+llama3.2:1b,1,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",16-17,18+,16-17
+llama3.2:1b,1,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",16-17,18+,16-17
+llama3.2:1b,1,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",16-17,18+,16-17
+llama3.2:1b,1,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",16-17,18+,16-17
+llama3.2:1b,3,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)","The age group that would recommend the book ""Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)"" is 16-17.",18+,16-17
+llama3.2:1b,3,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",12-13.,18+,12-13
+llama3.2:1b,3,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",16-17.,18+,16-17
+llama3.2:1b,3,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",18+,18+,18+
+llama3.2:1b,3,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",12-13.,18+,12-13
+llama3.2:1b,5,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",16-17,18+,16-17
+llama3.2:1b,5,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",16-17,18+,16-17
+llama3.2:1b,5,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",18+,18+,18+
+llama3.2:1b,5,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",16-17.,18+,16-17
+llama3.2:1b,5,"Cardcaptor Sakura: Master of the Clow, Vol. 3 (Cardcaptor Sakura, #9)",16-17,18+,16-17
+llama3.2:1b,0,Black Hawk Down: A Story of Modern War,"Based on the emotion vectors of the book description, I would recommend the book to an audience in the ""16-17"" age group. The emotions expressed in the description are high levels of Anger, Fear, and Surprise, as well as Joy and Trust. These emotions suggest that the book will be intense, thrilling, and potentially disturbing for some readers, making it suitable for older teenagers who have a tolerance for this type of content.",16-17,16-17
+llama3.2:1b,0,Black Hawk Down: A Story of Modern War,"Based on the emotion vector of the book description, I would recommend ""Black Hawk Down: A Story of Modern War"" to teenagers in the ""18+"" age group.",16-17,18+
+llama3.2:1b,0,Black Hawk Down: A Story of Modern War,"Based on the emotion vectors provided, I would recommend the book ""Black Hawk Down: A Story of Modern War"" to teenagers in the ""16-17"" age group. The emotional context of the description, which includes elements like ""heart-stopping,"" ""minute-by-minute,"" and ""grinding"" details, suggests a high level of intensity and excitement, which is more characteristic of this age group's preferred emotional responses in book descriptions.",16-17,16-17
+llama3.2:1b,0,Black Hawk Down: A Story of Modern War,"Based on the emotion vector of the book description, I would recommend ""Black Hawk Down: A Story of Modern War"" to teenagers in the ""14-15"" age group.",16-17,14-15
+llama3.2:1b,0,Black Hawk Down: A Story of Modern War,"Based on the emotion vector of the book description, I would recommend this book to a ""16-17"" year old due to its focus on intense and frightening combat scenes, as well as its praise for the author's work. The emotions mentioned in the description suggest that it may be too graphic or intense for younger readers, but older teenagers who are interested in war stories or military fiction might appreciate this book.",16-17,16-17
+llama3.2:1b,1,Black Hawk Down: A Story of Modern War,"The emotion vector of the description suggests a high level of intensity and difficulty, which is typical for war-themed books. The normalized emotion vectors also show that ""Anger"" is strongly present, indicating a sense of frustration and possibly moral outrage. Given these factors, it seems unlikely that this book would be recommended to teenagers in the 12-13 age group, who generally prefer more lighthearted and adventurous themes in their books.",16-17,12-13
+llama3.2:1b,1,Black Hawk Down: A Story of Modern War,12-13,16-17,12-13
+llama3.2:1b,1,Black Hawk Down: A Story of Modern War,16-17,16-17,16-17
+llama3.2:1b,1,Black Hawk Down: A Story of Modern War,"The normalized emotion vector of the description suggests that the book would be most appealing to teenagers in the ""14-15"" age range due to its focus on military action and adventure, which may resonate with their interests and experiences.",16-17,14-15
+llama3.2:1b,1,Black Hawk Down: A Story of Modern War,16-17.,16-17,16-17
+llama3.2:1b,3,Black Hawk Down: A Story of Modern War,16-17,16-17,16-17
+llama3.2:1b,3,Black Hawk Down: A Story of Modern War,16-17,16-17,16-17
+llama3.2:1b,3,Black Hawk Down: A Story of Modern War,16-17.,16-17,16-17
+llama3.2:1b,3,Black Hawk Down: A Story of Modern War,16-17.,16-17,16-17
+llama3.2:1b,3,Black Hawk Down: A Story of Modern War,12-13,16-17,12-13
+llama3.2:1b,5,Black Hawk Down: A Story of Modern War,18+,16-17,18+
+llama3.2:1b,5,Black Hawk Down: A Story of Modern War,16-17,16-17,16-17
+llama3.2:1b,5,Black Hawk Down: A Story of Modern War,18+,16-17,18+
+llama3.2:1b,5,Black Hawk Down: A Story of Modern War,18+,16-17,18+
+llama3.2:1b,5,Black Hawk Down: A Story of Modern War,18+,16-17,18+
+llama3.2:1b,0,"The Other Wind (Earthsea Cycle, #6)","Based on the emotion vector of the book description, I would recommend ""The Other Wind (Earthsea Cycle, #6)"" to teenagers in the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,0,"The Other Wind (Earthsea Cycle, #6)","Based on the emotion vector of the book description, I would recommend ""The Other Wind (Earthsea Cycle, #6)"" to the ""16-17"" age group. The presence of emotions like Fear, Disgust, and Sadness in a positive context (the dead are pulling Alder to them) suggests that this book might be appealing to teenagers in this age range who enjoy complex, darker themes.",16-17,16-17
+llama3.2:1b,0,"The Other Wind (Earthsea Cycle, #6)","Based on the emotion vectors provided, I would recommend ""The Other Wind (Earthsea Cycle, #6)"" to the ""16-17"" age group. The normalized emotion vector suggests that this age group is drawn to a mix of emotions including Fear and Joy, with some Anger and Sadness present as well.",16-17,16-17
+llama3.2:1b,0,"The Other Wind (Earthsea Cycle, #6)","Based on the emotion description provided, I would recommend the book ""The Other Wind (Earthsea Cycle, #6)"" to the ""16-17"" age group. The normalized emotion vector suggests that the description has a strong sense of anticipation and excitement, which is typical of this age group's preference for stories with action-packed plots and a sense of adventure.",16-17,16-17
+llama3.2:1b,0,"The Other Wind (Earthsea Cycle, #6)","Based on the emotion vector of the book description, I would recommend the book ""The Other Wind (Earthsea Cycle, #6)"" to the age group ""16-17"".",16-17,16-17
+llama3.2:1b,1,"The Other Wind (Earthsea Cycle, #6)","The emotion vector of the book description suggests that the recommended age group for ""The Other Wind"" is 18+.",16-17,18+
+llama3.2:1b,1,"The Other Wind (Earthsea Cycle, #6)","The book description has a high level of anticipation and excitement, indicating that it would be suitable for teenagers aged 16-17.",16-17,16-17
+llama3.2:1b,1,"The Other Wind (Earthsea Cycle, #6)","""16-17"": {'Anger': 7.961, 'Anticipation': 12.758, 'Disgust': 4.934, 'Fear': 13.352, 'Joy': 15.926, 'Sadness': 9.764, 'Surprise': 5.474, 'Trust': 16.686}",16-17,16-17
+llama3.2:1b,1,"The Other Wind (Earthsea Cycle, #6)","""18+""",16-17,18+
+llama3.2:1b,1,"The Other Wind (Earthsea Cycle, #6)","The emotion vector of the book description suggests a sense of anticipation and danger, which is more typical of the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,3,"The Other Wind (Earthsea Cycle, #6)","The Other Wind (Earthsea Cycle, #6) would be recommended for teenagers aged 16-17.",16-17,16-17
+llama3.2:1b,3,"The Other Wind (Earthsea Cycle, #6)",16-17,16-17,16-17
+llama3.2:1b,3,"The Other Wind (Earthsea Cycle, #6)",16-17,16-17,16-17
+llama3.2:1b,3,"The Other Wind (Earthsea Cycle, #6)",16-17,16-17,16-17
+llama3.2:1b,3,"The Other Wind (Earthsea Cycle, #6)",16-17,16-17,16-17
+llama3.2:1b,5,"The Other Wind (Earthsea Cycle, #6)",12-13,16-17,12-13
+llama3.2:1b,5,"The Other Wind (Earthsea Cycle, #6)",16-17,16-17,16-17
+llama3.2:1b,5,"The Other Wind (Earthsea Cycle, #6)",18+,16-17,18+
+llama3.2:1b,5,"The Other Wind (Earthsea Cycle, #6)",18+,16-17,18+
+llama3.2:1b,5,"The Other Wind (Earthsea Cycle, #6)",16-17,16-17,16-17
+llama3.2:1b,0,The Colossus and Other Poems,"Based on the emotion vector of the book description, I would recommend the book ""The Colossus and Other Poems"" to teenagers in the ""14-15"" age group. The normalized emotion vector indicates a mix of anticipation (0.10895117540687162), joy (0.22951731812491305), and surprise (0.19508972040617611) which are all positive emotions associated with young teenagers' reading experience. Additionally, the description mentions Sylvia Plath, who is often considered a classic poet among teenagers, making this recommendation more suitable for their age group.",16-17,14-15
+llama3.2:1b,0,The Colossus and Other Poems,"Based on the emotion vector analysis of the book description, I would recommend the ""16-17"" age group for the book ""The Colossus and Other Poems"". The normalized emotion vectors suggest a high level of anticipation (0.10895117540687162), which is consistent with the excitement and awe evoked by Sylvia Plath's writing style in this description. Additionally, the presence of Joy (0.22951731812491305) and Surprise (0.19508972040617611) also indicate that this age group would likely enjoy the book's emotional resonance.",16-17,16-17
+llama3.2:1b,0,The Colossus and Other Poems,"Based on the emotion vector of the book description, I would recommend the ""16-17"" age group for the book ""The Colossus and Other Poems"". The normalized emotion vector indicates a high level of excitement (Surprise), joy, and potentially some fear or disgust from reading about Sylvia Plath's poems. This suggests that readers in this age group are likely to be interested in exploring themes of mortality, mental health, and emotional intensity.",16-17,16-17
+llama3.2:1b,0,The Colossus and Other Poems,"Based on the emotion vector of the book description, I would recommend the ""14-15"" age group to read ""The Colossus and Other Poems"". The normalized emotion vector suggests a high level of anticipation (0.10895117540687162) and excitement (0.19508972040617611), which are characteristic of this age group's preferred emotional tone.",16-17,14-15
+llama3.2:1b,0,The Colossus and Other Poems,"Based on the emotion vector of the book description, I would recommend ""The Colossus and Other Poems"" to an 18-year-old or older due to its mature themes, imagery, and language that might appeal to a younger adult's taste.",16-17,18+
+llama3.2:1b,1,The Colossus and Other Poems,16-17,16-17,16-17
+llama3.2:1b,1,The Colossus and Other Poems,"The age group that would recommend ""The Colossus and Other Poems"" is 16-17.",16-17,16-17
+llama3.2:1b,1,The Colossus and Other Poems,18+,16-17,18+
+llama3.2:1b,1,The Colossus and Other Poems,12-13.,16-17,12-13
+llama3.2:1b,1,The Colossus and Other Poems,18+,16-17,18+
+llama3.2:1b,3,The Colossus and Other Poems,16-17.,16-17,16-17
+llama3.2:1b,3,The Colossus and Other Poems,16-17,16-17,16-17
+llama3.2:1b,3,The Colossus and Other Poems,16-17,16-17,16-17
+llama3.2:1b,3,The Colossus and Other Poems,16-17,16-17,16-17
+llama3.2:1b,3,The Colossus and Other Poems,16-17,16-17,16-17
+llama3.2:1b,5,The Colossus and Other Poems,16-17,16-17,16-17
+llama3.2:1b,5,The Colossus and Other Poems,16-17,16-17,16-17
+llama3.2:1b,5,The Colossus and Other Poems,18+,16-17,18+
+llama3.2:1b,5,The Colossus and Other Poems,16-17,16-17,16-17
+llama3.2:1b,5,The Colossus and Other Poems,18+,16-17,18+

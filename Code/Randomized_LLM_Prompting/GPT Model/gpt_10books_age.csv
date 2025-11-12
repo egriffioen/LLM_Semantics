@@ -1,0 +1,209 @@
+model,shots,book,answer,ground_truth_age,predicted_age
+gpt-oss:20b,0,Doctor Zhivago,14-15,14-15,14-15
+gpt-oss:20b,0,Doctor Zhivago,14‑15,14-15,14-15
+gpt-oss:20b,0,Doctor Zhivago,16-17,14-15,16-17
+gpt-oss:20b,0,Doctor Zhivago,18+,14-15,18+
+gpt-oss:20b,0,Doctor Zhivago,16-17,14-15,16-17
+gpt-oss:20b,1,Doctor Zhivago,14-15,14-15,14-15
+gpt-oss:20b,1,Doctor Zhivago,18+,14-15,18+
+gpt-oss:20b,1,Doctor Zhivago,14-15,14-15,14-15
+gpt-oss:20b,1,Doctor Zhivago,14-15,14-15,14-15
+gpt-oss:20b,1,Doctor Zhivago,16-17,14-15,16-17
+gpt-oss:20b,3,Doctor Zhivago,14-15,14-15,14-15
+gpt-oss:20b,3,Doctor Zhivago,18+,14-15,18+
+gpt-oss:20b,3,Doctor Zhivago,18+,14-15,18+
+gpt-oss:20b,3,Doctor Zhivago,18+,14-15,18+
+gpt-oss:20b,3,Doctor Zhivago,16-17,14-15,16-17
+gpt-oss:20b,5,Doctor Zhivago,,14-15,0
+gpt-oss:20b,5,Doctor Zhivago,14-15,14-15,14-15
+gpt-oss:20b,5,Doctor Zhivago,14-15,14-15,14-15
+gpt-oss:20b,5,Doctor Zhivago,18+,14-15,18+
+gpt-oss:20b,5,Doctor Zhivago,14-15,14-15,14-15
+gpt-oss:20b,0,Trainspotting,16-17,16-17,16-17
+gpt-oss:20b,0,Trainspotting,16-17,16-17,16-17
+gpt-oss:20b,0,Trainspotting,16‑17,16-17,16-17
+gpt-oss:20b,0,Trainspotting,16-17,16-17,16-17
+gpt-oss:20b,0,Trainspotting,16-17,16-17,16-17
+gpt-oss:20b,1,Trainspotting,16-17,16-17,16-17
+gpt-oss:20b,1,Trainspotting,16-17,16-17,16-17
+gpt-oss:20b,1,Trainspotting,16-17,16-17,16-17
+gpt-oss:20b,1,Trainspotting,16-17,16-17,16-17
+gpt-oss:20b,1,Trainspotting,18+,16-17,18+
+gpt-oss:20b,3,Trainspotting,16-17,16-17,16-17
+gpt-oss:20b,3,Trainspotting,"16-17
+18+
+16-17
+16-17
+14-15",16-17,16-17
+gpt-oss:20b,3,Trainspotting,16-17,16-17,16-17
+gpt-oss:20b,3,Trainspotting,14-15,16-17,14-15
+gpt-oss:20b,3,Trainspotting,16-17,16-17,16-17
+gpt-oss:20b,5,Trainspotting,14-15,16-17,14-15
+gpt-oss:20b,5,Trainspotting,16‑17,16-17,16-17
+gpt-oss:20b,5,Trainspotting,16-17,16-17,16-17
+gpt-oss:20b,5,Trainspotting,14-15,16-17,14-15
+gpt-oss:20b,5,Trainspotting,16‑17,16-17,16-17
+gpt-oss:20b,0,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,0,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",12-13,18+,12-13
+gpt-oss:20b,0,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,0,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",12-13,18+,12-13
+gpt-oss:20b,0,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",12-13,18+,12-13
+gpt-oss:20b,1,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,1,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,1,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,1,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",12-13,18+,12-13
+gpt-oss:20b,1,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,3,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,3,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,3,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,3,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,3,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",16-17,18+,16-17
+gpt-oss:20b,5,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,5,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,5,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,5,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",16-17,18+,16-17
+gpt-oss:20b,5,"Eastern Body, Western Mind: Psychology and the Chakra System As a Path to the Self",18+,18+,18+
+gpt-oss:20b,0,I Know This Much Is True,18+,18+,18+
+gpt-oss:20b,0,I Know This Much Is True,18+,18+,18+
+gpt-oss:20b,0,I Know This Much Is True,18+,18+,18+
+gpt-oss:20b,0,I Know This Much Is True,14-15,18+,14-15
+gpt-oss:20b,0,I Know This Much Is True,18+,18+,18+
+gpt-oss:20b,1,I Know This Much Is True,18+,18+,18+
+gpt-oss:20b,1,I Know This Much Is True,16-17,18+,16-17
+gpt-oss:20b,1,I Know This Much Is True,18+,18+,18+
+gpt-oss:20b,1,I Know This Much Is True,16-17,18+,16-17
+gpt-oss:20b,1,I Know This Much Is True,18+,18+,18+
+gpt-oss:20b,3,I Know This Much Is True,16-17,18+,16-17
+gpt-oss:20b,3,I Know This Much Is True,18+,18+,18+
+gpt-oss:20b,3,I Know This Much Is True,16-17,18+,16-17
+gpt-oss:20b,3,I Know This Much Is True,16-17,18+,16-17
+gpt-oss:20b,3,I Know This Much Is True,18+,18+,18+
+gpt-oss:20b,5,I Know This Much Is True,18+,18+,18+
+gpt-oss:20b,5,I Know This Much Is True,18+,18+,18+
+gpt-oss:20b,5,I Know This Much Is True,18+,18+,18+
+gpt-oss:20b,5,I Know This Much Is True,12-13,18+,12-13
+gpt-oss:20b,5,I Know This Much Is True,18+,18+,18+
+gpt-oss:20b,0,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,0,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,0,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,0,"Mackenzie's Mission (Mackenzie Family, #2)",12-13,18+,12-13
+gpt-oss:20b,0,"Mackenzie's Mission (Mackenzie Family, #2)",12‑13,18+,12-13
+gpt-oss:20b,1,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,1,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,1,"Mackenzie's Mission (Mackenzie Family, #2)",16-17,18+,16-17
+gpt-oss:20b,1,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,1,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,3,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,3,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,3,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,3,"Mackenzie's Mission (Mackenzie Family, #2)",12-13,18+,12-13
+gpt-oss:20b,3,"Mackenzie's Mission (Mackenzie Family, #2)",12-13,18+,12-13
+gpt-oss:20b,5,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,5,"Mackenzie's Mission (Mackenzie Family, #2)",14-15,18+,14-15
+gpt-oss:20b,5,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,5,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,5,"Mackenzie's Mission (Mackenzie Family, #2)",18+,18+,18+
+gpt-oss:20b,0,"Sorceress of Darshiva (The Malloreon, #4)",14-15,16-17,14-15
+gpt-oss:20b,0,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,0,"Sorceress of Darshiva (The Malloreon, #4)",16‑17,16-17,16-17
+gpt-oss:20b,0,"Sorceress of Darshiva (The Malloreon, #4)",18+,16-17,18+
+gpt-oss:20b,0,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,1,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,1,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,1,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,1,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,1,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,3,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,3,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,3,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,3,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,3,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,5,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,5,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,5,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,5,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,5,"Sorceress of Darshiva (The Malloreon, #4)",16-17,16-17,16-17
+gpt-oss:20b,0,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,0,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,0,The Changeover,14-15,16-17,14-15
+gpt-oss:20b,0,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,0,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,1,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,1,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,1,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,1,The Changeover,14-15,16-17,14-15
+gpt-oss:20b,1,The Changeover,18+,16-17,18+
+gpt-oss:20b,3,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,3,The Changeover,18+,16-17,18+
+gpt-oss:20b,3,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,3,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,3,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,5,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,5,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,5,The Changeover,**12-13**,16-17,12-13
+gpt-oss:20b,5,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,5,The Changeover,16-17,16-17,16-17
+gpt-oss:20b,0,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,0,"Shadowland (The Mediator, #1)",12‑13,16-17,12-13
+gpt-oss:20b,0,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,0,"Shadowland (The Mediator, #1)","""16-17""",16-17,16-17
+gpt-oss:20b,0,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,1,"Shadowland (The Mediator, #1)",14-15,16-17,14-15
+gpt-oss:20b,1,"Shadowland (The Mediator, #1)",18+,16-17,18+
+gpt-oss:20b,1,"Shadowland (The Mediator, #1)",12-13,16-17,12-13
+gpt-oss:20b,1,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,1,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,3,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,3,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,3,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,3,"Shadowland (The Mediator, #1)",14-15,16-17,14-15
+gpt-oss:20b,3,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,5,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,5,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,5,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,5,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,5,"Shadowland (The Mediator, #1)",16-17,16-17,16-17
+gpt-oss:20b,0,"Echt zauberhaft (Discworld, #17)",14-15,16-17,14-15
+gpt-oss:20b,0,"Echt zauberhaft (Discworld, #17)",18+,16-17,18+
+gpt-oss:20b,0,"Echt zauberhaft (Discworld, #17)",14-15,16-17,14-15
+gpt-oss:20b,0,"Echt zauberhaft (Discworld, #17)",14-15,16-17,14-15
+gpt-oss:20b,0,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,1,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,1,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,1,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,1,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,1,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,3,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,3,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,3,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,3,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,3,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,5,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,5,"Echt zauberhaft (Discworld, #17)",14-15,16-17,14-15
+gpt-oss:20b,5,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,5,"Echt zauberhaft (Discworld, #17)",16-17,16-17,16-17
+gpt-oss:20b,5,"Echt zauberhaft (Discworld, #17)","12-13
+12-13
+12-13
+12-13
+12-13",16-17,12-13
+gpt-oss:20b,0,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",16‑17,18+,16-17
+gpt-oss:20b,0,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",12-13,18+,12-13
+gpt-oss:20b,0,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",18+,18+,18+
+gpt-oss:20b,0,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",16-17,18+,16-17
+gpt-oss:20b,0,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",18+,18+,18+
+gpt-oss:20b,1,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",18+,18+,18+
+gpt-oss:20b,1,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",18+,18+,18+
+gpt-oss:20b,1,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",18+,18+,18+
+gpt-oss:20b,1,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",18+,18+,18+
+gpt-oss:20b,1,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",18+,18+,18+
+gpt-oss:20b,3,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",16-17,18+,16-17
+gpt-oss:20b,3,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",18+,18+,18+
+gpt-oss:20b,3,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",12-13,18+,12-13
+gpt-oss:20b,3,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",18+,18+,18+
+gpt-oss:20b,3,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",12-13,18+,12-13
+gpt-oss:20b,5,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",16-17,18+,16-17
+gpt-oss:20b,5,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",16-17,18+,16-17
+gpt-oss:20b,5,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",14-15,18+,14-15
+gpt-oss:20b,5,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",18+,18+,18+
+gpt-oss:20b,5,"20,000 Secrets of Tea: The Most Effective Ways to Benefit from Nature's Healing Herbs",18+,18+,18+

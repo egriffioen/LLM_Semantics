@@ -1,0 +1,229 @@
+model,shots,book,answer,ground_truth_age,predicted_age
+llama3.2:1b,0,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition","Based on the emotion vector of the book description, I would recommend ""The Warriors - The Kent Chronicles, Volume Six, Book Club Edition"" to teenagers aged 16 and above. 
+
+Although there is some disgust mentioned in the description, it seems mild compared to other emotions like fear and sadness, which are also present but not as intense. Additionally, the overall tone of the description does not seem to be excessively angry or anxious. The mention of Jeptha Kent finding himself on opposite sides of the Civil War could evoke a sense of historical interest and understanding among teenagers in this age group.",12-13,16-17
+llama3.2:1b,0,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition","Based on the emotion vector of the book description, I would recommend recommending ""The Warriors - The Kent Chronicles, Volume Six, Book Club Edition"" to teenagers who enjoy books about historical events and might be interested in abolitionist themes. Among these groups, 16-17 year olds are likely to appreciate this description as it aligns with their interests in historical fiction and the Civil War era.
+
+Therefore, I would recommend that the book is of most interest to young adults aged 16 or older.",12-13,16-17
+llama3.2:1b,0,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition","Based on the emotion vector of the book description, I would recommend the ""14-15"" age group for this book. The normalized emotion vector shows a significant anticipation (0.1411042944785276) and surprise (0.0) in the description, indicating that the plot is likely to be engaging and unexpected. This aligns with the preferences of teenagers in this age group, who tend to enjoy books with surprises and are often drawn to stories about conflict and change.",12-13,14-15
+llama3.2:1b,0,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition","Based on the emotion vector of the book description, I would recommend the book to a teenager in the ""16-17"" age group. The normalized emotion vector indicates that this age group tends to prefer books with higher levels of excitement and anticipation, as well as some level of fear and disgust (which is present in the description).",12-13,16-17
+llama3.2:1b,0,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition","Based on the emotion vector of the book description, I would recommend the ""16-17"" age group for the book ""The Warriors - The Kent Chronicles, Volume Six, Book Club Edition"". This is because the normalized emotion vector shows a high level of 'Joy' and 'Trust', indicating that this age group might enjoy a lighthearted and uplifting story with a sense of camaraderie.",12-13,16-17
+llama3.2:1b,1,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition","""14-15"": 
+
+The normalized emotion vector indicates a mix of fear and anticipation, suggesting that this age group might not be drawn to this particular book description.",12-13,14-15
+llama3.2:1b,1,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition","The book description ""The Warriors - The Kent Chronicles, Volume Six, Book Club Edition"" has a low emotion vector, indicating it might appeal to younger teenagers who enjoy books about action and adventure. However, given the content of the description, I would recommend the age group 14-15 or possibly 16-17.",12-13,14-15
+llama3.2:1b,1,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition","""14-15"": 
+
+Based on the emotion vector provided for ""The Warriors - The Kent Chronicles, Volume Six, Book Club Edition"", this book would be more suitable for an 11-12 year old due to the presence of 'Fear' and 'Sadness'.",12-13,14-15
+llama3.2:1b,1,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition","""18+""",12-13,18+
+llama3.2:1b,1,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition","""18+""",12-13,18+
+llama3.2:1b,3,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition",18+,12-13,18+
+llama3.2:1b,3,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition",18+,12-13,18+
+llama3.2:1b,3,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition",18+,12-13,18+
+llama3.2:1b,3,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition",18+,12-13,18+
+llama3.2:1b,3,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition",18+,12-13,18+
+llama3.2:1b,5,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition",12-13,12-13,12-13
+llama3.2:1b,5,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition",18+,12-13,18+
+llama3.2:1b,5,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition",16-17,12-13,16-17
+llama3.2:1b,5,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition",16-17,12-13,16-17
+llama3.2:1b,5,"The Warriors - The Kent Chronicles, Volume Six, Book Club Edition",18+,12-13,18+
+llama3.2:1b,0,Easy Prey (Lucas Davenport #11),"Based on the emotion vectors of the book description and the average emotion vectors of books that each age group preferred, I would recommend the book to a ""16-17"" year old. The normalized emotion vector suggests a high level of anticipation and surprise in the description, which is consistent with the typical reading preferences of this age group. Additionally, the mention of a complex plot involving multiple murders and a mysterious killer aligns with the themes often explored in young adult fiction.",16-17,16-17
+llama3.2:1b,0,Easy Prey (Lucas Davenport #11),"Based on the emotion vector of the book description, I would recommend the book to teenagers in the ""14-15"" age group. The description contains moderate levels of anticipation, disgust, and fear, which are typical emotions that 14-15 year olds often experience. Additionally, the mention of a media firestorm and a series of bizarre slayings suggests that the book might be a thrilling and suspenseful read. Overall, the tone and content of the description seem to align with the interests and reading preferences of this age group.",16-17,14-15
+llama3.2:1b,0,Easy Prey (Lucas Davenport #11),"Based on the emotion vector of the book description, I would recommend the book to a teenager in the ""14-15"" age group, as they seem to be leaning towards emotions like anticipation, fear, and disgust. The normalized emotion vector also suggests that this age group may enjoy books with more mature themes and darker elements, which aligns with the plot of ""Easy Prey"".",16-17,14-15
+llama3.2:1b,0,Easy Prey (Lucas Davenport #11),"Based on the emotion vector of the book description, I would recommend the ""14-15"" age group for the book ""Easy Prey (Lucas Davenport #11)"". The normalized emotion vector shows a strong presence of 'Anger' and 'Fear', indicating a plot that involves intense conflict and possibly danger.",16-17,14-15
+llama3.2:1b,0,Easy Prey (Lucas Davenport #11),"Based on the emotion vectors provided, I would recommend the book to a ""14-15"" year old audience due to the high levels of anticipation and surprise in the description, which suggests that they may be drawn to action-packed and suspenseful stories. Additionally, the mention of a media firestorm and a seemingly unrelated series of slayings implies that this book may appeal to younger readers who enjoy mystery and thriller genres.",16-17,14-15
+llama3.2:1b,1,Easy Prey (Lucas Davenport #11),12-13,16-17,12-13
+llama3.2:1b,1,Easy Prey (Lucas Davenport #11),"""16-17""",16-17,16-17
+llama3.2:1b,1,Easy Prey (Lucas Davenport #11),12-13,16-17,12-13
+llama3.2:1b,1,Easy Prey (Lucas Davenport #11),12-13,16-17,12-13
+llama3.2:1b,1,Easy Prey (Lucas Davenport #11),16-17,16-17,16-17
+llama3.2:1b,3,Easy Prey (Lucas Davenport #11),16-17,16-17,16-17
+llama3.2:1b,3,Easy Prey (Lucas Davenport #11),16-17,16-17,16-17
+llama3.2:1b,3,Easy Prey (Lucas Davenport #11),16-17,16-17,16-17
+llama3.2:1b,3,Easy Prey (Lucas Davenport #11),16-17,16-17,16-17
+llama3.2:1b,3,Easy Prey (Lucas Davenport #11),16-17,16-17,16-17
+llama3.2:1b,5,Easy Prey (Lucas Davenport #11),16-17,16-17,16-17
+llama3.2:1b,5,Easy Prey (Lucas Davenport #11),16-17,16-17,16-17
+llama3.2:1b,5,Easy Prey (Lucas Davenport #11),16-17,16-17,16-17
+llama3.2:1b,5,Easy Prey (Lucas Davenport #11),16-17,16-17,16-17
+llama3.2:1b,5,Easy Prey (Lucas Davenport #11),16-17,16-17,16-17
+llama3.2:1b,0,"Coffey on the Mile (The Green Mile, #6)","Based on the emotion vector of the book description, I would recommend ""Coffey on the Mile (The Green Mile, #6)"" to teenagers in the ""16-17"" age group. The normalized emotion vector indicates a mix of emotions, but particularly high values for Joy and Surprise, which are often associated with exciting stories like this one.",16-17,16-17
+llama3.2:1b,0,"Coffey on the Mile (The Green Mile, #6)","Based on the emotion description of the book, I would recommend the book to the ""16-17"" age group. The emotional tone of the description is dark and suspenseful, suggesting a thrilling and possibly intense story that aligns with the preferences of this age group.",16-17,16-17
+llama3.2:1b,0,"Coffey on the Mile (The Green Mile, #6)","Based on the emotion vector of the book description, I would recommend the book ""Coffey on the Mile (The Green Mile, #6)"" to the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,0,"Coffey on the Mile (The Green Mile, #6)","Based on the emotion vector of the book description, I would recommend the ""18+"" age group for the book ""Coffey on the Mile (The Green Mile, #6)"". The normalized emotion vector suggests a high level of Suspense and Fear, which is consistent with the typical themes and tone of King's work. Additionally, the overall tone of the description, from describing death by execution to mentioning horrific secrets of the heart, implies that the book will be intense and unsettling.",16-17,18+
+llama3.2:1b,0,"Coffey on the Mile (The Green Mile, #6)","Based on the emotion vector of the book description, I would recommend the ""18+"" age group for the book ""Coffey on the Mile (The Green Mile, #6)"". The normalized emotion vector indicates a high level of anticipation, disgust, fear, joy, sadness, and surprise, which are all typical emotional responses to Stephen King's style. Additionally, the mention of living with the consequences that may last an eternity suggests a mature and complex theme that would appeal to older teenagers.",16-17,18+
+llama3.2:1b,1,"Coffey on the Mile (The Green Mile, #6)",16-17.,16-17,16-17
+llama3.2:1b,1,"Coffey on the Mile (The Green Mile, #6)",16-17.,16-17,16-17
+llama3.2:1b,1,"Coffey on the Mile (The Green Mile, #6)",16-17,16-17,16-17
+llama3.2:1b,1,"Coffey on the Mile (The Green Mile, #6)",18+,16-17,18+
+llama3.2:1b,1,"Coffey on the Mile (The Green Mile, #6)",16-17,16-17,16-17
+llama3.2:1b,3,"Coffey on the Mile (The Green Mile, #6)",18+,16-17,18+
+llama3.2:1b,3,"Coffey on the Mile (The Green Mile, #6)",18+,16-17,18+
+llama3.2:1b,3,"Coffey on the Mile (The Green Mile, #6)",16-17,16-17,16-17
+llama3.2:1b,3,"Coffey on the Mile (The Green Mile, #6)",18+,16-17,18+
+llama3.2:1b,3,"Coffey on the Mile (The Green Mile, #6)",18+,16-17,18+
+llama3.2:1b,5,"Coffey on the Mile (The Green Mile, #6)",16-17,16-17,16-17
+llama3.2:1b,5,"Coffey on the Mile (The Green Mile, #6)",18+,16-17,18+
+llama3.2:1b,5,"Coffey on the Mile (The Green Mile, #6)",16-17,16-17,16-17
+llama3.2:1b,5,"Coffey on the Mile (The Green Mile, #6)",18+,16-17,18+
+llama3.2:1b,5,"Coffey on the Mile (The Green Mile, #6)",16-17,16-17,16-17
+llama3.2:1b,0,"Die Stadt der Götter (Pandemia-Saga, #4)","Based on the emotion vector of the book description, I would recommend the book to a ""16-17"" age group. The description seems to be more suspenseful and potentially thrilling, with elements of fantasy and adventure. This age group tends to enjoy stories with complex characters, unexpected plot twists, and unique world-building.",18+,16-17
+llama3.2:1b,0,"Die Stadt der Götter (Pandemia-Saga, #4)","Based on the emotion vector of the book description, I would recommend the book to the ""16-17"" age group. The unique magic system and the introduction of new characters like Inos and Aunt Kade suggest a more original and engaging storyline compared to the other age groups. Additionally, the tone of the description is neutral with some hints of disappointment (Fear) which aligns with the ""16-17"" preference for less intense emotions in their book descriptions.",18+,16-17
+llama3.2:1b,0,"Die Stadt der Götter (Pandemia-Saga, #4)","Based on the emotion vector of the book description, I would recommend the ""Die Stadt der Götter (Pandemia-Saga, #4)"" to be enjoyed by teenagers in the ""14-15"" age group.",18+,14-15
+llama3.2:1b,0,"Die Stadt der Götter (Pandemia-Saga, #4)","Based on the emotion description provided, I would recommend the book to teenagers in the ""16-17"" age group. The tone of the description seems to be a mix of sarcasm and curiosity, which aligns with the personality traits often found among 16-17 year olds. Additionally, the mention of unique magic and world-building elements that are characteristic of fantasy fiction, particularly within the young adult genre, may appeal to this age group's interests.",18+,16-17
+llama3.2:1b,0,"Die Stadt der Götter (Pandemia-Saga, #4)","Based on the emotion vector of the book description, I would recommend the book to the ""16-17"" age group. The emotions expressed in the description, such as anticipation (anticipation is high), surprise, and joy, are most pronounced among this age group. Additionally, the unique magic system and world-building elements align with their preferences for original fantasy stories.",18+,16-17
+llama3.2:1b,1,"Die Stadt der Götter (Pandemia-Saga, #4)",16-17,18+,16-17
+llama3.2:1b,1,"Die Stadt der Götter (Pandemia-Saga, #4)",18+,18+,18+
+llama3.2:1b,1,"Die Stadt der Götter (Pandemia-Saga, #4)","""18+""",18+,18+
+llama3.2:1b,1,"Die Stadt der Götter (Pandemia-Saga, #4)",16+,18+,16+
+llama3.2:1b,1,"Die Stadt der Götter (Pandemia-Saga, #4)",16+,18+,16+
+llama3.2:1b,3,"Die Stadt der Götter (Pandemia-Saga, #4)",16-17,18+,16-17
+llama3.2:1b,3,"Die Stadt der Götter (Pandemia-Saga, #4)",16-17,18+,16-17
+llama3.2:1b,3,"Die Stadt der Götter (Pandemia-Saga, #4)",18+,18+,18+
+llama3.2:1b,3,"Die Stadt der Götter (Pandemia-Saga, #4)",16-17,18+,16-17
+llama3.2:1b,3,"Die Stadt der Götter (Pandemia-Saga, #4)",16-17,18+,16-17
+llama3.2:1b,5,"Die Stadt der Götter (Pandemia-Saga, #4)",18+,18+,18+
+llama3.2:1b,5,"Die Stadt der Götter (Pandemia-Saga, #4)",16+,18+,16+
+llama3.2:1b,5,"Die Stadt der Götter (Pandemia-Saga, #4)",12-13,18+,12-13
+llama3.2:1b,5,"Die Stadt der Götter (Pandemia-Saga, #4)",18+,18+,18+
+llama3.2:1b,5,"Die Stadt der Götter (Pandemia-Saga, #4)",16-17,18+,16-17
+llama3.2:1b,0,Light A Distant Fire,"Based on the emotion vector of the book description, I would recommend the book ""Light A Distant Fire"" to teenagers aged 14-15. The normalized emotion vector indicates a high anticipation and joy in the description, which is consistent with the preferences of this age group. Additionally, the mention of historical fiction and the portrayal of Seminole warriors as symbols of courage and patriotism aligns with the themes and values often enjoyed by teenagers in this age range.",16-17,14-15
+llama3.2:1b,0,Light A Distant Fire,"Based on the emotion vector of the book description, I would recommend the book to the ""18+"" age group. The normalized emotion vectors indicate a higher level of excitement and anticipation (""Anticipation"" score is close to 0), combined with feelings of danger and fear (Fear) and surprise (Surprise). These emotions are more typical of the thrill-seeking and adventurous nature often associated with young adults in this age group.",16-17,18+
+llama3.2:1b,0,Light A Distant Fire,"Based on the emotion vector of the book description, I would recommend the book to the ""16-17"" age group. 
+
+The normalized emotion vectors for this age group indicate a strong anticipation and surprise from the description, suggesting that they would be interested in learning more about the historical context and the characters' motivations. The mention of Osceola as a symbol of courage, loyalty, and patriotism also resonates with their values.",16-17,16-17
+llama3.2:1b,0,Light A Distant Fire,"Based on the emotion vector of the book description, I would recommend the book to a teenager in the ""16-17"" age group. The emotions expressed in the description, such as ""courage"", ""loyalty"", and ""patriotism"", align more closely with the values and experiences typically associated with this age group. Additionally, the description of Osceola and the Seminole as ""mighty warriors"" suggests a strong sense of heroism and bravery that is characteristic of many young adults in this age group.",16-17,16-17
+llama3.2:1b,0,Light A Distant Fire,"Based on the emotion vector of the book description, I would recommend the ""Light A Distant Fire"" to the ""16-17"" age group. The normalized emotion vector indicates a moderate level of anticipation and fear, which is consistent with the tone of the book description, which mentions the Seminole's courage and patriotism in the face of aggression.",16-17,16-17
+llama3.2:1b,1,Light A Distant Fire,16-17,16-17,16-17
+llama3.2:1b,1,Light A Distant Fire,16-17,16-17,16-17
+llama3.2:1b,1,Light A Distant Fire,16-17,16-17,16-17
+llama3.2:1b,1,Light A Distant Fire,18+,16-17,18+
+llama3.2:1b,1,Light A Distant Fire,16-17,16-17,16-17
+llama3.2:1b,3,Light A Distant Fire,18+,16-17,18+
+llama3.2:1b,3,Light A Distant Fire,18+,16-17,18+
+llama3.2:1b,3,Light A Distant Fire,16-17,16-17,16-17
+llama3.2:1b,3,Light A Distant Fire,16-17,16-17,16-17
+llama3.2:1b,3,Light A Distant Fire,18+,16-17,18+
+llama3.2:1b,5,Light A Distant Fire,16-17,16-17,16-17
+llama3.2:1b,5,Light A Distant Fire,16-17,16-17,16-17
+llama3.2:1b,5,Light A Distant Fire,16-17,16-17,16-17
+llama3.2:1b,5,Light A Distant Fire,16-17,16-17,16-17
+llama3.2:1b,5,Light A Distant Fire,16-17,16-17,16-17
+llama3.2:1b,0,"Requiem for the Sun (Symphony of Ages, #4)","Based on the emotion vector of the book description, I would recommend ""Requiem for the Sun (Symphony of Ages, #4)"" to teenagers in the ""16-17"" age group. The normalized emotion vector suggests a high level of anticipation and excitement, indicating that this age group is likely to be drawn to stories with thrilling plot twists and dramatic events.",16-17,16-17
+llama3.2:1b,0,"Requiem for the Sun (Symphony of Ages, #4)","Based on the emotion vector of the book description, I would recommend this book to ""16-17"" year old teenagers. The emotions expressed in the book description, such as anticipation, fear, and disgust, are more prominent among this age group. Additionally, the plot suggests a mix of action, suspense, and romance, which is likely to appeal to 16-17 year olds.",16-17,16-17
+llama3.2:1b,0,"Requiem for the Sun (Symphony of Ages, #4)","Based on the emotion vector of the book description, I would recommend ""Requiem for the Sun (Symphony of Ages, #4)"" to teenagers in the ""14-15"" age group.",16-17,14-15
+llama3.2:1b,0,"Requiem for the Sun (Symphony of Ages, #4)","Based on the emotion vector of the book description, I would recommend this book to teenagers aged 14-15 and 16-17. However, if I had to pick one age group that best matches the described emotions, it would be 14-15.",16-17,14-15
+llama3.2:1b,0,"Requiem for the Sun (Symphony of Ages, #4)","Based on the emotion vector of the book description, I would recommend ""Requiem for the Sun (Symphony of Ages, #4)"" to teenagers in the ""16-17"" age group. The emotion vectors indicate a sense of anticipation, fear, and surprise, but also joy, trust, and disgust, which are more typical of this age group's preferences.",16-17,16-17
+llama3.2:1b,1,"Requiem for the Sun (Symphony of Ages, #4)","Based on the emotion vectors provided for each book description, I would recommend the book ""Requiem for the Sun"" to teenagers in the 14-15 age group. The normalized emotion vector suggests that this book would likely appeal to them due to its anticipation and joy elements, which are high compared to other age groups.",16-17,14-15
+llama3.2:1b,1,"Requiem for the Sun (Symphony of Ages, #4)","Based on the emotion vectors provided for each age group and comparing them to the emotional context of the book description of ""Requiem for the Sun"", I would recommend that the user read this book by teenagers in the 14-15 age range.",16-17,14-15
+llama3.2:1b,1,"Requiem for the Sun (Symphony of Ages, #4)","Based on the emotion vectors provided, it seems that the book ""Requiem for the Sun (Symphony of Ages, #4)"" would be most appealing to teenagers in the 14-15 age group. The emotional context of the description suggests a sense of anticipation and danger, with elements of prophecy, adversity, and power struggles, which may resonate more with older teenagers who have already experienced some of these themes at this age.",16-17,14-15
+llama3.2:1b,1,"Requiem for the Sun (Symphony of Ages, #4)","To determine which age group would recommend ""Requiem for the Sun (Symphony of Ages, #4)"", I will analyze the emotion context of the book description and compare it to the emotion vectors of different age groups.
+
+The book description seems to have a mix of themes such as war, prophecy, fate, and the struggle between good and evil. While it may appeal to some teenagers who enjoy fantasy and adventure, others might find it too intense or disturbing.
+
+For ""Requiem for the Sun (Symphony of Ages, #4)"", I would recommend the age group that tends to prefer books with more mature themes and higher levels of anticipation, anger, and surprise. 
+
+Based on the emotion vectors provided for each age group, I believe that teenagers aged 14-15 might be the most suitable audience.",16-17,14-15
+llama3.2:1b,1,"Requiem for the Sun (Symphony of Ages, #4)","The normalized emotion vector of the description is quite similar to that of ""Requiem for the Sun"", indicating a strong sense of anticipation and excitement about the upcoming events. The emotions of fear and sadness are present but less intense, suggesting that these feelings may not be as prominent in this book.
+
+Considering these factors, I would recommend recommending ""Bridge to Terabithia"" to teenagers in the 14-15 age group based on the emotion vectors provided.",16-17,14-15
+llama3.2:1b,3,"Requiem for the Sun (Symphony of Ages, #4)",16-17,16-17,16-17
+llama3.2:1b,3,"Requiem for the Sun (Symphony of Ages, #4)","The book ""Requiem for the Sun (Symphony of Ages, #4)"" would be recommended to teenagers in the 16-17 age group.",16-17,16-17
+llama3.2:1b,3,"Requiem for the Sun (Symphony of Ages, #4)",12-13,16-17,12-13
+llama3.2:1b,3,"Requiem for the Sun (Symphony of Ages, #4)","The age group that would recommend ""Requiem for the Sun (Symphony of Ages, #4)"" is 16-17.",16-17,16-17
+llama3.2:1b,3,"Requiem for the Sun (Symphony of Ages, #4)",12-13,16-17,12-13
+llama3.2:1b,5,"Requiem for the Sun (Symphony of Ages, #4)",16-17,16-17,16-17
+llama3.2:1b,5,"Requiem for the Sun (Symphony of Ages, #4)",18+,16-17,18+
+llama3.2:1b,5,"Requiem for the Sun (Symphony of Ages, #4)",16-17,16-17,16-17
+llama3.2:1b,5,"Requiem for the Sun (Symphony of Ages, #4)",18+,16-17,18+
+llama3.2:1b,5,"Requiem for the Sun (Symphony of Ages, #4)",16-17,16-17,16-17
+llama3.2:1b,0,"For Love Of Zach (Hill Creek Texas, #1)","Based on the emotion description of the book and comparing it to the average emotion vectors of different age groups, I would recommend recommending the book ""For Love Of Zach (Hill Creek Texas, #1)"" to the ""16-17"" age group.",18+,16-17
+llama3.2:1b,0,"For Love Of Zach (Hill Creek Texas, #1)","Based on the emotion vector of the book description, I would recommend the ""16-17"" age group for the book ""For Love Of Zach (Hill Creek Texas, #1)"". The normalized emotion vector indicates a high level of anticipation and surprise, which is typical of young adult romances. Additionally, the presence of joy, trust, and surprise suggests that this age group will be engaged by the story's emotional developments.",18+,16-17
+llama3.2:1b,0,"For Love Of Zach (Hill Creek Texas, #1)","Based on the emotion vector of the book description, I would recommend the book to teenagers aged 16 and above. The normalized emotion vector indicates a mix of positive emotions like Joy, Fear, and Surprise, which are typical in romance novels, but also some negative emotions like Sadness and Disgust that might be present depending on the specific circumstances of the accident. However, the overall tone seems to lean more towards love, trust, and anticipation, which aligns with the age group 16-17.",18+,16-17
+llama3.2:1b,0,"For Love Of Zach (Hill Creek Texas, #1)","Based on the emotion vector of the book description, I would recommend the book to a 14-15 year old. The normalized emotion vector suggests that the author has aimed to create an emotional connection with this age group, particularly through the use of anticipation (due to the ""rancher and single father"" elements) and joy (from the ""relationship based on mutual faith"").",18+,14-15
+llama3.2:1b,0,"For Love Of Zach (Hill Creek Texas, #1)","Based on the emotion description provided, I would recommend the book to an ""18+"" age group due to its mature themes and plot involving a romantic relationship between a detective and a rancher. The normalised emotion vector suggests that this aspect of the story may elicit strong emotions such as Joy and Surprise in readers who prefer books with these elements.",18+,18+
+llama3.2:1b,1,"For Love Of Zach (Hill Creek Texas, #1)","""16-17""",18+,16-17
+llama3.2:1b,1,"For Love Of Zach (Hill Creek Texas, #1)","""16-17""",18+,16-17
+llama3.2:1b,1,"For Love Of Zach (Hill Creek Texas, #1)","""16-17"":",18+,16-17
+llama3.2:1b,1,"For Love Of Zach (Hill Creek Texas, #1)",16-17,18+,16-17
+llama3.2:1b,1,"For Love Of Zach (Hill Creek Texas, #1)",16-17,18+,16-17
+llama3.2:1b,3,"For Love Of Zach (Hill Creek Texas, #1)",18+,18+,18+
+llama3.2:1b,3,"For Love Of Zach (Hill Creek Texas, #1)",18+,18+,18+
+llama3.2:1b,3,"For Love Of Zach (Hill Creek Texas, #1)",16-17,18+,16-17
+llama3.2:1b,3,"For Love Of Zach (Hill Creek Texas, #1)",16-17.,18+,16-17
+llama3.2:1b,3,"For Love Of Zach (Hill Creek Texas, #1)",18+,18+,18+
+llama3.2:1b,5,"For Love Of Zach (Hill Creek Texas, #1)",18+,18+,18+
+llama3.2:1b,5,"For Love Of Zach (Hill Creek Texas, #1)",16-17.,18+,16-17
+llama3.2:1b,5,"For Love Of Zach (Hill Creek Texas, #1)",16-17,18+,16-17
+llama3.2:1b,5,"For Love Of Zach (Hill Creek Texas, #1)",14-15,18+,14-15
+llama3.2:1b,5,"For Love Of Zach (Hill Creek Texas, #1)",14-15,18+,14-15
+llama3.2:1b,0,The Green Mile,"Based on the emotion vector of the book description, I would recommend ""The Green Mile"" to teenagers aged 16 and above. The normalized emotion vector suggests a high level of anticipation (0.107), which is common for many young adult books that often build up to a climax or revelation. Additionally, the mention of John Coffey being described as a man with the body of a giant and the mind of a child, along with the description of him as a ""tertiary"" violent offender, suggests a darker and more complex tone that may appeal to older teenagers who are developing their reading tastes.",16-17,16-17
+llama3.2:1b,0,The Green Mile,"Based on the emotion vector of the book description, I would recommend ""The Green Mile"" to teenagers in their late teens and early twenties. This is because the normalized emotion vector has a higher concentration of emotions related to anticipation, joy, and surprise compared to other age groups. However, it's worth noting that Stephen King is typically more appealing to younger readers, and some older teenagers may enjoy this book as well.",16-17,18+
+llama3.2:1b,0,The Green Mile,"Based on the emotion vector of the book description, I would recommend ""The Green Mile"" to teenagers aged 16 and above. The normalized emotion vector suggests a high level of anticipation (the mention of multiple bestseller lists) and surprise (the discovery of John Coffey), as well as an element of joy (the positive tone of the book's premise). These emotions align with what is typically preferred by this age group in their book descriptions.",16-17,16-17
+llama3.2:1b,0,The Green Mile,"Based on the emotion vector of the book description, I would recommend the ""18+"" age group for ""The Green Mile"". The normalized emotion vector indicates a strong sense of anticipation and surprise, as well as some fear and disgust. These emotions are likely to be more appealing to older teenagers who have already developed their emotional response to the plot.",16-17,18+
+llama3.2:1b,0,The Green Mile,"Based on the emotion vector of the book description provided, I would recommend the book ""The Green Mile"" to teenagers aged 16 and above. The normalized emotion vectors suggest that the book evokes a range of emotions, including anger (0.14659763002252107), anticipation (0.10786975647744734), disgust (0.07646650249415923), fear (0.16194144513902042), joy (0.14011492075519355), sadness (0.1315484835090821), and surprise (0.09324156511123738). However, the dominant emotion vector suggests that teenagers aged 16 and above are more likely to experience emotions such as joy, fear, and anger in response to the book's themes of justice, morality, and human nature.",16-17,16-17
+llama3.2:1b,1,The Green Mile,16-17,16-17,16-17
+llama3.2:1b,1,The Green Mile,16-17.,16-17,16-17
+llama3.2:1b,1,The Green Mile,16-17,16-17,16-17
+llama3.2:1b,1,The Green Mile,16-17,16-17,16-17
+llama3.2:1b,1,The Green Mile,16-17,16-17,16-17
+llama3.2:1b,3,The Green Mile,16-17,16-17,16-17
+llama3.2:1b,3,The Green Mile,16-17,16-17,16-17
+llama3.2:1b,3,The Green Mile,16-17,16-17,16-17
+llama3.2:1b,3,The Green Mile,16-17,16-17,16-17
+llama3.2:1b,3,The Green Mile,16-17,16-17,16-17
+llama3.2:1b,5,The Green Mile,18+,16-17,18+
+llama3.2:1b,5,The Green Mile,18+,16-17,18+
+llama3.2:1b,5,The Green Mile,18+,16-17,18+
+llama3.2:1b,5,The Green Mile,18+,16-17,18+
+llama3.2:1b,5,The Green Mile,18+,16-17,18+
+llama3.2:1b,0,"The Magician's Nephew (Chronicles of Narnia, #1)","Based on the emotion vector of the book description provided, I would recommend ""The Magician's Nephew (Chronicles of Narnia, #1)"" to the ""16-17"" age group. The normalized emotion vector suggests a mix of anticipation, disgust, and joy, which are more typical of younger teenagers' interests.",16-17,16-17
+llama3.2:1b,0,"The Magician's Nephew (Chronicles of Narnia, #1)","Based on the emotion description provided, I would recommend the book to a ""16-17"" year old. The emotion vector suggests a sense of excitement and anticipation (""Surprise""), which is typical for this age group's interest in fantasy and adventure stories. Additionally, the book seems to have elements of danger and evil (Jadis), which could appeal to their desire for thrilling experiences.",16-17,16-17
+llama3.2:1b,0,"The Magician's Nephew (Chronicles of Narnia, #1)","Based on the emotion description provided, I would recommend the book to a ""16-17"" year old. The emotions mentioned in the book description (e.g., excitement about discovering the secret passage, fear of returning home) align more closely with the typical emotional responses that 16-17 year olds experience when reading and engaging with fantasy adventure stories like ""The Chronicles of Narnia"".",16-17,16-17
+llama3.2:1b,0,"The Magician's Nephew (Chronicles of Narnia, #1)","Based on the emotion vector of the book description, I would recommend ""The Magician's Nephew (Chronicles of Narnia, #1)"" to the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,0,"The Magician's Nephew (Chronicles of Narnia, #1)","Based on the emotion vector of the book description, I would recommend the book to a ""16-17"" age group. The emotions expressed in the description, such as ""fascinating adventure"", ""Talking Beasts are called to life"", and ""evil sorceress Jadis"", suggest that the story is likely to be exciting and engaging for young teenagers.",16-17,16-17
+llama3.2:1b,1,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17.,16-17,16-17
+llama3.2:1b,1,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17,16-17,16-17
+llama3.2:1b,1,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17,16-17,16-17
+llama3.2:1b,1,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17.,16-17,16-17
+llama3.2:1b,1,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17,16-17,16-17
+llama3.2:1b,3,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17.,16-17,16-17
+llama3.2:1b,3,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17.,16-17,16-17
+llama3.2:1b,3,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17,16-17,16-17
+llama3.2:1b,3,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17,16-17,16-17
+llama3.2:1b,3,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17,16-17,16-17
+llama3.2:1b,5,"The Magician's Nephew (Chronicles of Narnia, #1)",18+,16-17,18+
+llama3.2:1b,5,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17,16-17,16-17
+llama3.2:1b,5,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17,16-17,16-17
+llama3.2:1b,5,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17,16-17,16-17
+llama3.2:1b,5,"The Magician's Nephew (Chronicles of Narnia, #1)",16-17,16-17,16-17
+llama3.2:1b,0,Seven-Day Magic,"Based on the emotion vector of the book description, I would recommend the ""16-17"" age group for the book ""Seven-Day Magic"". The normalized emotion vector suggests a moderate level of anger (0.10197710718002082) and anticipation (0.09070412764481443), which are characteristic of this age group's preferred emotions in book descriptions.",12-13,16-17
+llama3.2:1b,0,Seven-Day Magic,"Based on the emotion vector of the book description, I would recommend the book to a 14-15 year old. The normalized emotion vector shows a strong anticipation and surprise from the description, but no significant emotions such as joy, trust, disgust, or fear are present. This suggests that the book may be engaging for this age group due to its intriguing premise and potential for unexpected events.",12-13,14-15
+llama3.2:1b,0,Seven-Day Magic,"Based on the emotion vector of the book description, I would recommend ""Seven-Day Magic"" to teenagers aged 16-17. 
+
+This is because the normalized emotion vector shows a moderate level of anticipation (0.09), which suggests that the book has some interesting or unexpected elements, but not necessarily explosive or extreme emotions. The presence of disgust and sadness is low, indicating that the tone of the book may be more neutral or introspective rather than intense or disturbing.
+
+In contrast, the emotion vectors for 12-13 and 14-15 years old show higher levels of anger, which could make the book too intense or confrontational for younger readers. The emotional vector for 18+ is also relatively low on disgust and sadness, but may be too calm or neutral for younger teenagers who are more likely to be swept up in a story with stronger emotions.
+
+Overall, the tone and content of ""Seven-Day Magic"" seem like they would fit best with the reading preferences of teenagers aged 16-17.",12-13,16-17
+llama3.2:1b,0,Seven-Day Magic,"Based on the emotion vector of the book description, I would recommend ""Seven-Day Magic"" to teenagers in the age group ""16-17"". The normalized emotion vector suggests a moderate level of excitement and anticipation (Anticipation), which is consistent with the magical theme of the book. Additionally, there is a hint of frustration or chaos (Anger) caused by the fractious behavior of the five children, but it's not overwhelming. Overall, this age group tends to enjoy books that have an air of mystery and excitement, making ""Seven-Day Magic"" a suitable fit.",12-13,16-17
+llama3.2:1b,0,Seven-Day Magic,"Based on the emotion vector of the book description, I would recommend the age group ""14-15"" for the book ""Seven-Day Magic"". 
+
+This is because the normalized emotion vector shows a good balance of emotions, including some negative ones like Fear (0.03260492542490462) and Sadness (0.0), which might indicate that the book deals with complex or intense themes. The positive emotions like Joy (0.3749566423864031) and Surprise (0.0) suggest that the book might be engaging and exciting for this age group.
+
+While the other age groups also seem to have some good emotional vectors, the combination of Anger (0.10197710718002082), Disgust (0.07717655220256678), and Trust (0.3225806451612903) in the 14-15 age group is more balanced and suitable for this age group's preferences.",12-13,14-15
+llama3.2:1b,1,Seven-Day Magic,"""16-17""",12-13,16-17
+llama3.2:1b,1,Seven-Day Magic,"""18+""",12-13,18+
+llama3.2:1b,1,Seven-Day Magic,"""16-17""",12-13,16-17
+llama3.2:1b,1,Seven-Day Magic,"""16-17""",12-13,16-17
+llama3.2:1b,1,Seven-Day Magic,"Based on the emotion vectors provided for each age group, it seems that the recommended book ""Seven-Day Magic"" would be most suitable for the age group ""16-17"". This is because their normalized emotion vector shows higher values for Joy and Surprise compared to other age groups.",12-13,16-17
+llama3.2:1b,3,Seven-Day Magic,16-17,12-13,16-17
+llama3.2:1b,3,Seven-Day Magic,14-15,12-13,14-15
+llama3.2:1b,3,Seven-Day Magic,16-17,12-13,16-17
+llama3.2:1b,3,Seven-Day Magic,14-15,12-13,14-15
+llama3.2:1b,3,Seven-Day Magic,16-17,12-13,16-17
+llama3.2:1b,5,Seven-Day Magic,16-17,12-13,16-17
+llama3.2:1b,5,Seven-Day Magic,16-17,12-13,16-17
+llama3.2:1b,5,Seven-Day Magic,16-17.,12-13,16-17
+llama3.2:1b,5,Seven-Day Magic,16-17,12-13,16-17
+llama3.2:1b,5,Seven-Day Magic,16-17,12-13,16-17

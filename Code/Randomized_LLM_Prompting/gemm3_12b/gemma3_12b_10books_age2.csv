@@ -1,0 +1,201 @@
+model,shots,book,answer,ground_truth_age,predicted_age
+gemma3:12b,0,Fear and Loathing in Las Vegas,16-17,18+,16-17
+gemma3:12b,0,Fear and Loathing in Las Vegas,16-17,18+,16-17
+gemma3:12b,0,Fear and Loathing in Las Vegas,16-17,18+,16-17
+gemma3:12b,0,Fear and Loathing in Las Vegas,16-17,18+,16-17
+gemma3:12b,0,Fear and Loathing in Las Vegas,16-17,18+,16-17
+gemma3:12b,1,Fear and Loathing in Las Vegas,18+,18+,18+
+gemma3:12b,1,Fear and Loathing in Las Vegas,16-17,18+,16-17
+gemma3:12b,1,Fear and Loathing in Las Vegas,16-17,18+,16-17
+gemma3:12b,1,Fear and Loathing in Las Vegas,16-17,18+,16-17
+gemma3:12b,1,Fear and Loathing in Las Vegas,18+,18+,18+
+gemma3:12b,3,Fear and Loathing in Las Vegas,18+,18+,18+
+gemma3:12b,3,Fear and Loathing in Las Vegas,18+,18+,18+
+gemma3:12b,3,Fear and Loathing in Las Vegas,18+,18+,18+
+gemma3:12b,3,Fear and Loathing in Las Vegas,18+,18+,18+
+gemma3:12b,3,Fear and Loathing in Las Vegas,18+,18+,18+
+gemma3:12b,5,Fear and Loathing in Las Vegas,18+,18+,18+
+gemma3:12b,5,Fear and Loathing in Las Vegas,18+,18+,18+
+gemma3:12b,5,Fear and Loathing in Las Vegas,18+,18+,18+
+gemma3:12b,5,Fear and Loathing in Las Vegas,18+,18+,18+
+gemma3:12b,5,Fear and Loathing in Las Vegas,18+,18+,18+
+gemma3:12b,0,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,0,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,0,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,0,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,0,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,1,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,1,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,1,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,1,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,1,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,3,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,3,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,3,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,3,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,3,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,5,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,5,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,5,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,5,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,5,Endurance: Shackleton's Incredible Voyage,16-17,16-17,16-17
+gemma3:12b,0,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",14-15,16-17,14-15
+gemma3:12b,0,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",14-15,16-17,14-15
+gemma3:12b,0,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",14-15,16-17,14-15
+gemma3:12b,0,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",14-15,16-17,14-15
+gemma3:12b,0,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",14-15,16-17,14-15
+gemma3:12b,1,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",14-15,16-17,14-15
+gemma3:12b,1,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",14-15,16-17,14-15
+gemma3:12b,1,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",14-15,16-17,14-15
+gemma3:12b,1,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",14-15,16-17,14-15
+gemma3:12b,1,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",14-15,16-17,14-15
+gemma3:12b,3,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",16-17,16-17,16-17
+gemma3:12b,3,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",16-17,16-17,16-17
+gemma3:12b,3,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",16-17,16-17,16-17
+gemma3:12b,3,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",16-17,16-17,16-17
+gemma3:12b,3,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",16-17,16-17,16-17
+gemma3:12b,5,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",16-17,16-17,16-17
+gemma3:12b,5,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",16-17,16-17,16-17
+gemma3:12b,5,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",16-17,16-17,16-17
+gemma3:12b,5,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",16-17,16-17,16-17
+gemma3:12b,5,"Star Trek II: The Wrath Of Khan (Star Trek TOS: Movie Novelizations, #2)",16-17,16-17,16-17
+gemma3:12b,0,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,0,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,0,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,0,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,0,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,1,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,1,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,1,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,1,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,1,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,3,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,3,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,3,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,3,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,3,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,5,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,5,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,5,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,5,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,5,Princess: A True Story of Life Behind the Veil in Saudi Arabia,16-17,16-17,16-17
+gemma3:12b,0,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,0,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,0,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,0,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,0,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,1,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,1,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,1,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,1,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,1,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,3,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,3,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,3,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,3,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,3,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,5,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,5,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,5,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,5,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,5,Tales of the Cthulhu Mythos,16-17,16-17,16-17
+gemma3:12b,0,"When You Look Like Your Passport Photo, It's Time to Go Home",16-17,18+,16-17
+gemma3:12b,0,"When You Look Like Your Passport Photo, It's Time to Go Home",16-17,18+,16-17
+gemma3:12b,0,"When You Look Like Your Passport Photo, It's Time to Go Home",16-17,18+,16-17
+gemma3:12b,0,"When You Look Like Your Passport Photo, It's Time to Go Home",16-17,18+,16-17
+gemma3:12b,0,"When You Look Like Your Passport Photo, It's Time to Go Home",16-17,18+,16-17
+gemma3:12b,1,"When You Look Like Your Passport Photo, It's Time to Go Home",18+,18+,18+
+gemma3:12b,1,"When You Look Like Your Passport Photo, It's Time to Go Home",18+,18+,18+
+gemma3:12b,1,"When You Look Like Your Passport Photo, It's Time to Go Home",16-17,18+,16-17
+gemma3:12b,1,"When You Look Like Your Passport Photo, It's Time to Go Home",16-17,18+,16-17
+gemma3:12b,1,"When You Look Like Your Passport Photo, It's Time to Go Home",16-17,18+,16-17
+gemma3:12b,3,"When You Look Like Your Passport Photo, It's Time to Go Home",16-17,18+,16-17
+gemma3:12b,3,"When You Look Like Your Passport Photo, It's Time to Go Home",16-17,18+,16-17
+gemma3:12b,3,"When You Look Like Your Passport Photo, It's Time to Go Home",16-17,18+,16-17
+gemma3:12b,3,"When You Look Like Your Passport Photo, It's Time to Go Home",16-17,18+,16-17
+gemma3:12b,3,"When You Look Like Your Passport Photo, It's Time to Go Home",16-17,18+,16-17
+gemma3:12b,5,"When You Look Like Your Passport Photo, It's Time to Go Home",18+,18+,18+
+gemma3:12b,5,"When You Look Like Your Passport Photo, It's Time to Go Home",18+,18+,18+
+gemma3:12b,5,"When You Look Like Your Passport Photo, It's Time to Go Home",18+,18+,18+
+gemma3:12b,5,"When You Look Like Your Passport Photo, It's Time to Go Home",18+,18+,18+
+gemma3:12b,5,"When You Look Like Your Passport Photo, It's Time to Go Home",18+,18+,18+
+gemma3:12b,0,A Rose in Winter,14-15,16-17,14-15
+gemma3:12b,0,A Rose in Winter,14-15,16-17,14-15
+gemma3:12b,0,A Rose in Winter,14-15,16-17,14-15
+gemma3:12b,0,A Rose in Winter,14-15,16-17,14-15
+gemma3:12b,0,A Rose in Winter,14-15,16-17,14-15
+gemma3:12b,1,A Rose in Winter,16+,16-17,16+
+gemma3:12b,1,A Rose in Winter,14-15,16-17,14-15
+gemma3:12b,1,A Rose in Winter,14-15,16-17,14-15
+gemma3:12b,1,A Rose in Winter,14-15,16-17,14-15
+gemma3:12b,1,A Rose in Winter,18+,16-17,18+
+gemma3:12b,3,A Rose in Winter,16-17,16-17,16-17
+gemma3:12b,3,A Rose in Winter,14-15,16-17,14-15
+gemma3:12b,3,A Rose in Winter,16-17,16-17,16-17
+gemma3:12b,3,A Rose in Winter,16-17,16-17,16-17
+gemma3:12b,3,A Rose in Winter,16-17,16-17,16-17
+gemma3:12b,5,A Rose in Winter,16-17,16-17,16-17
+gemma3:12b,5,A Rose in Winter,16-17,16-17,16-17
+gemma3:12b,5,A Rose in Winter,16-17,16-17,16-17
+gemma3:12b,5,A Rose in Winter,16-17,16-17,16-17
+gemma3:12b,5,A Rose in Winter,16-17,16-17,16-17
+gemma3:12b,0,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,0,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,0,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,0,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,0,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,1,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,1,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,1,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,1,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,1,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,3,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,3,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,3,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,3,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,3,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,5,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,5,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,5,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,5,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,5,"Night Watch (Discworld, #29)",16-17,18+,16-17
+gemma3:12b,0,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",14-15,16-17,14-15
+gemma3:12b,0,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",14-15,16-17,14-15
+gemma3:12b,0,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",14-15,16-17,14-15
+gemma3:12b,0,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",14-15,16-17,14-15
+gemma3:12b,0,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",14-15,16-17,14-15
+gemma3:12b,1,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",14-15,16-17,14-15
+gemma3:12b,1,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",14-15,16-17,14-15
+gemma3:12b,1,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",14-15,16-17,14-15
+gemma3:12b,1,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",14-15,16-17,14-15
+gemma3:12b,1,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",16-17,16-17,16-17
+gemma3:12b,3,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",16-17,16-17,16-17
+gemma3:12b,3,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",16-17,16-17,16-17
+gemma3:12b,3,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",16-17,16-17,16-17
+gemma3:12b,3,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",16-17,16-17,16-17
+gemma3:12b,3,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",16-17,16-17,16-17
+gemma3:12b,5,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",16-17,16-17,16-17
+gemma3:12b,5,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",16-17,16-17,16-17
+gemma3:12b,5,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",16-17,16-17,16-17
+gemma3:12b,5,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",16-17,16-17,16-17
+gemma3:12b,5,"Chosen of the Gods (Dragonlance: Kingpriest, #1)",16-17,16-17,16-17
+gemma3:12b,0,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,0,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,0,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,0,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,0,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,1,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,1,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,1,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",18+,16-17,18+
+gemma3:12b,1,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,1,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,3,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,3,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,3,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,3,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,3,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",16-17,16-17,16-17
+gemma3:12b,5,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",18+,16-17,18+
+gemma3:12b,5,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",18+,16-17,18+
+gemma3:12b,5,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",18+,16-17,18+
+gemma3:12b,5,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",18+,16-17,18+
+gemma3:12b,5,"Pianist:  The Extraordinary True Story Of One Man's Survival In Warsaw, 1939 1945",18+,16-17,18+

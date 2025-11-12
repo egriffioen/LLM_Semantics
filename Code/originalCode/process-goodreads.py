@@ -1,4 +1,4 @@
-from emotion_vector_functions import getEmotionVector, cleanString
+from Code.originalCode.emotion_vector_functions import getEmotionVector, cleanString
 import pandas as pd
 
 if __name__ == "__main__":

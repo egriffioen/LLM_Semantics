@@ -1,0 +1,966 @@
+model,shots,book,answer,ground_truth_age,predicted_age
+llama3.2:1b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"The age group that would recommend ""Kaffir Boy"" is the 16-17 year old.",16-17,16-17
+llama3.2:1b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"The age group that would most likely recommend the book ""Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa"" is the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"The age group that would most likely recommend ""Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa"" is the ""16-17"".",16-17,16-17
+llama3.2:1b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"The age group that would most likely enjoy this book description is ""14-15"".",16-17,14-15
+llama3.2:1b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"The age group that would most recommend this book is ""16-17"".",16-17,16-17
+llama3.2:1b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17.,16-17,16-17
+llama3.2:1b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"The age group that would most recommend the book ""Kaffir Boy"" is 14-15 years old.",16-17,14-15
+llama3.2:1b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,14-15.,16-17,14-15
+llama3.2:1b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"""14-15""",16-17,14-15
+llama3.2:1b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"Based on the emotion vectors provided, I would recommend the book ""Sometimes a Great Notion"" to be recommended to teenagers in the ""14-15"" age group.",16-17,14-15
+llama3.2:1b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+llama3.2:1b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+llama3.2:1b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+llama3.2:1b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+llama3.2:1b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+llama3.2:1b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17.,16-17,16-17
+llama3.2:1b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+llama3.2:1b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,18+,16-17,18+
+llama3.2:1b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17.,16-17,16-17
+llama3.2:1b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+mistral:7b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"Based on the normalized emotion vector of the book description, ""Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa"" would be most aligned with the 14-15 and 16-17 age groups, as it scores higher in Anger, Fear, Sadness, and lower in Joy compared to the other age group averages. The description also contains elements of anticipation, disgust, and surprise but they are less prominent than the dominant emotions of anger, fear, and sadness.",16-17,14-15
+mistral:7b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"The book ""Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa"" has an emotion vector that aligns closely with the preferences of the 16-17 age group. The description contains elements of fear, sadness, and anger which are relatively high compared to other emotions, but also includes joy and anticipation, which suggests a complex narrative that could resonate with older teenagers. However, it's important to note that individual preferences may vary within each age group, and the final recommendation should take into account other factors such as the maturity level and reading comprehension skills of the specific reader.",16-17,16-17
+mistral:7b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"Based on the emotion vector analysis of the book description for ""Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa"", it appears to align best with the 16-17 age group, as its normalized emotion vector contains higher scores for 'Anger', 'Fear', 'Sadness', and 'Trust' compared to the other age groups. However, it could also resonate with older teenagers in the 14-15 or 18+ age groups due to its thought-provoking themes and historical context.",16-17,16-17
+mistral:7b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"Based on the normalized emotion vector of the book description, ""Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa"" seems to be most aligned with the emotional preferences of the 14-15 and 16-17 age groups. Both these age groups show a preference for higher levels of Anticipation, Anger, Fear, Joy, Sadness, and Trust compared to the younger age groups (12-13) and older age group (18+). However, it's important to note that book preferences can vary greatly among individuals within each age group. Therefore, it is still essential to consider individual reader preferences when recommending books.",16-17,14-15
+mistral:7b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"The book ""Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa"" seems to have a normalized emotion vector that aligns closely with the emotion vectors of books enjoyed by the 14-15 and 16-17 age groups. However, it's important to note that emotional resonance can be subjective and may vary from individual to individual. Therefore, it would be suitable for both age groups 14-15 and 16-17.",16-17,14-15
+mistral:7b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"Based on the normalized emotion vector of the book description, I would recommend the book ""Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa"" to the 16-17 age group. This is due to the relatively high levels of 'Anger', 'Fear', and 'Sadness' in the emotion vector, which align with the preferences of this age group as indicated by their average emotion vector.",16-17,16-17
+mistral:7b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,14-15,16-17,14-15
+mistral:7b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"The recommended age group for ""Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa"" is ""16-17"".",16-17,16-17
+mistral:7b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"""14-15""",16-17,14-15
+mistral:7b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"Based on the emotion vector of the description for ""Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa"", the recommended age group would be 16-17. This is due to the high levels of Anticipation, Anger, Fear, Sadness, and Joy which align well with the emotions that the 16-17 age group tends to prefer in their book descriptions.",16-17,16-17
+mistral:7b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,Answer: 16-17,16-17,16-17
+mistral:7b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,14-15,16-17,14-15
+mistral:7b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,14-15,16-17,14-15
+mistral:7b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"Based on the emotion vector analysis, I would recommend the book ""Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa"" to the age group 16-17.",16-17,16-17
+mistral:7b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,14-15,16-17,14-15
+mistral:7b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+mistral:7b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,"Based on the normalized emotion vector of the book description for ""Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa"", it appears to be most suitable for the 18+ age group.",16-17,18+
+mistral:7b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,Answer: 16-17,16-17,16-17
+mistral:7b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,Answer: 16-17,16-17,16-17
+mistral:7b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,Answer: 18+,16-17,18+
+gemma3:12b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,0,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,1,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,3,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,16-17,16-17,16-17
+gemma3:12b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,18+,16-17,18+
+gemma3:12b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,18+,16-17,18+
+gemma3:12b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,18+,16-17,18+
+gemma3:12b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,18+,16-17,18+
+gemma3:12b,5,Kaffir Boy: The True Story of a Black Youth's Coming of Age in Apartheid South Africa,18+,16-17,18+
+llama3.2:1b,0,The Long Road Home,"Based on the emotion vector of the book description, I would recommend the book ""The Long Road Home"" to teenagers in the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,0,The Long Road Home,"""16-17"":",16-17,16-17
+llama3.2:1b,0,The Long Road Home,"Based on the emotion vectors provided for each age group and the description of ""The Long Road Home"", I would recommend this book to teenagers aged 14-15. The normalized emotion vector suggests that this age group may be particularly drawn to books that explore themes of abuse, trauma, and forgiveness, as well as those that feature strong female protagonists who face challenges and overcome obstacles.",16-17,14-15
+llama3.2:1b,0,The Long Road Home,"Based on the emotion vector analysis, I would recommend ""The Long Road Home"" to teenagers in the ""16-17"" age group. The normalized emotion vector suggests a mix of positive emotions such as Joy and Sadness, but overall it leans towards Fear and Anger due to the description's focus on themes of abuse, betrayal, and survival.",16-17,16-17
+llama3.2:1b,0,The Long Road Home,"The age group that would recommend ""The Long Road Home"" is ""16-17"".",16-17,16-17
+llama3.2:1b,1,The Long Road Home,16-17.,16-17,16-17
+llama3.2:1b,1,The Long Road Home,16-17.,16-17,16-17
+llama3.2:1b,1,The Long Road Home,16-17.,16-17,16-17
+llama3.2:1b,1,The Long Road Home,"The age group that would recommend ""The Long Road Home"" is 16-17.",16-17,16-17
+llama3.2:1b,1,The Long Road Home,16-17.,16-17,16-17
+llama3.2:1b,3,The Long Road Home,16-17,16-17,16-17
+llama3.2:1b,3,The Long Road Home,16-17.,16-17,16-17
+llama3.2:1b,3,The Long Road Home,18+,16-17,18+
+llama3.2:1b,3,The Long Road Home,16-17,16-17,16-17
+llama3.2:1b,3,The Long Road Home,16-17,16-17,16-17
+llama3.2:1b,5,The Long Road Home,16-17.,16-17,16-17
+llama3.2:1b,5,The Long Road Home,16-17,16-17,16-17
+llama3.2:1b,5,The Long Road Home,12-13.,16-17,12-13
+llama3.2:1b,5,The Long Road Home,16-17.,16-17,16-17
+llama3.2:1b,5,The Long Road Home,16-17,16-17,16-17
+mistral:7b,0,The Long Road Home,"Based on the normalized emotion vector of the book description, ""The Long Road Home"" would be most suitable for the 16-17 age group. The high scores in Anger, Fear, Sadness, and Joy align closely with the emotion vectors that this age group tends to prefer in their book descriptions. However, it's important to note that age ranges can be flexible and individual preferences may vary, so it's always a good idea for parents or guardians to preview books before giving them to younger readers.",16-17,16-17
+mistral:7b,0,The Long Road Home,"Based on the normalized emotion vector of the book description, ""The Long Road Home"" seems to have a higher emphasis on Sadness (0.1571028818548534) and Fear (0.15508594686920812), followed by Joy (0.1633172220808954). The emotion vectors for the 12-13, 14-15, 16-17, and 18+ age groups are also listed. Given that this book description appears to align more closely with the emotion vector of the 14-15 age group in terms of Sadness and Fear, I would recommend ""The Long Road Home"" for teenagers aged 14-15.",16-17,12-13
+mistral:7b,0,The Long Road Home,"Based on the emotion vector analysis, I would recommend ""The Long Road Home"" to the age groups of 14-15 and 16-17. The higher scores for Anticipation, Joy, Sadness, and Fear indicate a more emotionally engaging and intense read, which aligns with the preferences of these age groups. The slightly lower Trust score suggests a complex narrative that delves into difficult subjects, further appealing to older teenagers. However, it's important to note that all age ranges may find value in reading this book due to its powerful exploration of child abuse and healing.",16-17,14-15
+mistral:7b,0,The Long Road Home,"Based on the emotion vector of ""The Long Road Home"" description, it seems to resonate more with older teenagers (16-17 years old) as the normalized emotion vector is closest to this age group's preference in book descriptions. However, it could also be enjoyed by readers aged 14-18+ due to themes such as child abuse, healing, and forgiveness that may appeal to various maturity levels.",16-17,16-17
+mistral:7b,0,The Long Road Home,"Based on the normalized emotion vector of the book description, ""The Long Road Home"" seems to resonate most closely with the emotions that the 14-15 age group prefers in their book descriptions. The high levels of anticipation, joy, sadness, fear, and trust suggest a story that would likely appeal to this demographic. However, it's important to note that individual preferences may vary, so it's always a good idea to read reviews from teenagers themselves or consult with a librarian or educator for specific recommendations.",16-17,14-15
+mistral:7b,1,The Long Road Home,14-15,16-17,14-15
+mistral:7b,1,The Long Road Home,"""14-15""",16-17,14-15
+mistral:7b,1,The Long Road Home,14-15,16-17,14-15
+mistral:7b,1,The Long Road Home,"Based on the normalized emotion vector of the book description for ""The Long Road Home"", it would be recommended to teenagers aged 14-15. The high levels of Anticipation, Fear, Sadness, and Joy indicate that this book might resonate with older teenagers who are more mature and capable of handling complex and emotionally intense narratives.",16-17,14-15
+mistral:7b,1,The Long Road Home,"Based on the normalized emotion vector of the book description for ""The Long Road Home"", it appears that this book would be most suitable for the age group of ""14-15"". The high scores in 'Fear', 'Sadness', and 'Joy' suggest a book that deals with more serious and emotional themes, which might resonate better with older teenagers. However, the absence of 'Anger' or 'Disgust' at significantly higher levels than other emotions indicates that it may not be as intense or graphic as books preferred by the older age groups. Therefore, I would recommend this book to the ""14-15"" age group.",16-17,14-15
+mistral:7b,3,The Long Road Home,14-15,16-17,14-15
+mistral:7b,3,The Long Road Home,"Based on the normalized emotion vector of the description provided for ""The Long Road Home"", it would be recommended for the age group of 18+ due to its high levels of Sadness and Fear, which are more suitable for mature audiences.",16-17,18+
+mistral:7b,3,The Long Road Home,"""18+""",16-17,18+
+mistral:7b,3,The Long Road Home,14-15,16-17,14-15
+mistral:7b,3,The Long Road Home,"Based on the given emotion vector, I would recommend ""The Long Road Home"" for the age group of 18+. The high scores in Sadness and Fear indicate that this book may be more emotionally intense and mature, making it more suitable for older teenagers or adults.",16-17,18+
+mistral:7b,5,The Long Road Home,14-15,16-17,14-15
+mistral:7b,5,The Long Road Home,"Based on the emotion vector provided, I would recommend the book ""The Long Road Home"" to the age group of 14-15.",16-17,14-15
+mistral:7b,5,The Long Road Home,14-15,16-17,14-15
+mistral:7b,5,The Long Road Home,14-15,16-17,14-15
+mistral:7b,5,The Long Road Home,14-15,16-17,14-15
+gemma3:12b,0,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,0,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,0,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,0,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,0,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,1,The Long Road Home,18+,16-17,18+
+gemma3:12b,1,The Long Road Home,18+,16-17,18+
+gemma3:12b,1,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,1,The Long Road Home,18+,16-17,18+
+gemma3:12b,1,The Long Road Home,18+,16-17,18+
+gemma3:12b,3,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,3,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,3,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,3,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,3,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,5,The Long Road Home,18+,16-17,18+
+gemma3:12b,5,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,5,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,5,The Long Road Home,16-17,16-17,16-17
+gemma3:12b,5,The Long Road Home,18+,16-17,18+
+llama3.2:1b,0,The Wounded Spirit,"Based on the emotion vector of the book description, I would recommend the book ""The Wounded Spirit"" to teenagers in the age group of ""16-17"".",16-17,16-17
+llama3.2:1b,0,The Wounded Spirit,"Based on the emotion vectors provided, I would recommend the book ""The Wounded Spirit"" to teenagers in their late teens and early twenties. The normalized emotion vector suggests a high level of anticipation for the book's message, as well as a strong sense of disgust and sadness. These emotions are often associated with a desire to grow up and become more empathetic towards others who may be different from themselves.
+
+The description also touches on themes that are particularly relevant to teenagers in this age group, such as bullying, victimhood, and the struggle for identity. The book's message about seeking help and support for those who are marginalized or oppressed is likely to resonate with many young people in this age range.
+
+Overall, while the book may appeal to younger teenagers due to its emphasis on vulnerability and empathy, I believe that the themes and messages presented in ""The Wounded Spirit"" will be particularly relevant and impactful for late teens and early twenties.",16-17,18+
+llama3.2:1b,0,The Wounded Spirit,"Based on the emotion vector of the book description, I would recommend that the ""Wounded Spirit"" book be recommended to teenagers in the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,0,The Wounded Spirit,"Based on the emotion vectors provided, I would recommend the book ""The Wounded Spirit"" to teenagers in the ""14-15"" age group.",16-17,14-15
+llama3.2:1b,0,The Wounded Spirit,"Based on the emotion vector of the book description, I would recommend that a 16-17 year old teenager read ""The Wounded Spirit"".",16-17,16-17
+llama3.2:1b,1,The Wounded Spirit,"The age group that would recommend ""The Wounded Spirit"" is 16-17.",16-17,16-17
+llama3.2:1b,1,The Wounded Spirit,"The age group that would recommend ""The Wounded Spirit"" is 16-17 years old.",16-17,16-17
+llama3.2:1b,1,The Wounded Spirit,"The normalized emotion vector of the description for ""The Wounded Spirit"" suggests that this book is recommended for individuals in the 16-17 age range.",16-17,16-17
+llama3.2:1b,1,The Wounded Spirit,"The emotion vector of the description for ""The Wounded Spirit"" is most similar to that of the 16-17 age group, with emotions such as 'Disgust' and 'Fear', indicating a sense of vulnerability and possibly even fear due to being different. The mention of bullying and abuse also aligns with this age group's experiences.",16-17,16-17
+llama3.2:1b,1,The Wounded Spirit,"I would recommend the book ""The Wounded Spirit"" to the 14-15 year old age group.",16-17,14-15
+llama3.2:1b,3,The Wounded Spirit,16-17.,16-17,16-17
+llama3.2:1b,3,The Wounded Spirit,16-17.,16-17,16-17
+llama3.2:1b,3,The Wounded Spirit,"Based on the emotion vectors provided for each book description, I would recommend ""The Wounded Spirit"" to teenagers in the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,3,The Wounded Spirit,18+,16-17,18+
+llama3.2:1b,3,The Wounded Spirit,"The age group that would recommend ""The Wounded Spirit"" is 16-17.",16-17,16-17
+llama3.2:1b,5,The Wounded Spirit,"The user has asked for a recommendation among these options: 
+
+""16-17"": {'Anger': 7.961, 'Anticipation': 12.758, 'Disgust': 4.934, 'Fear': 13.352, 'Joy': 15.926, 'Sadness': 9.764, 'Surprise': 5.474, 'Trust': 16.686},
+""18+"": {'Anger': 6.049, 'Anticipation': 10.697, 'Disgust': 3.925, 'Fear': 10.116, 'Joy': 14.021, 'Sadness': 7.400, 'Surprise': 4.871, 'Trust': 16.471},
+""12-13"": {'Anger': 5.928, 'Anticipation': 11.774, 'Disgust': 3.710, 'Fear': 10.412, 'Joy': 15.148, 'Sadness': 6.429, 'Surprise': 5.140, 'Trust': 16.259},
+""14-15"": {'Anger': 6.907, 'Anticipation': 10.844, 'Disgust': 4.491, 'Fear': 11.033, 'Joy': 14.164, 'Sadness': 7.528, 'Surprise': 4.784, 'Trust': 15.062},
+""16-17"": {'Anger': 7.961, 'Anticipation': 12.758, 'Disgust': 4.934, 'Fear': 13.352, 'Joy': 15.926, 'Sadness': 9.764, 'Surprise': 5.474, 'Trust': 16.686},
+""18+"": {'Anger': 6.049, 'Anticipation': 10.697, 'Disgust': 3.925, 'Fear': 10.116, 'Joy': 14.021, 'Sadness': 7.400, 'Surprise': 4.871, 'Trust': 16.471},
+""12-13"": {'Anger': 5.928, 'Anticipation': 11.774, 'Disgust': 3.710, 'Fear': 10.412, 'Joy': 15.148, 'Sadness': 6.429, 'Surprise': 5.140, 'Trust': 16.259},
+""14-15"": {'Anger': 6.907, 'Anticipation': 10.844, 'Disgust': 4.491, 'Fear': 11.033, 'Joy': 14.164, 'Sadness': 7.528, 'Surprise': 4.784, 'Trust': 15.062},
+""16-17"": {'Anger': 7.961, 'Anticipation': 12.758, 'Disgust': 4.934, 'Fear': 13.352, 'Joy': 15.926, 'Sadness': 9.764, 'Surprise': 5.474, 'Trust': 16.686},
+""18+"": {'Anger': 6.049, 'Anticipation': 10.697, 'Disgust': 3.925, 'Fear': 10.116, 'Joy': 14.021, 'Sadness': 7.400, 'Surprise': 4.871, 'Trust': 16.471}",16-17,16-17
+llama3.2:1b,5,The Wounded Spirit,16-17.,16-17,16-17
+llama3.2:1b,5,The Wounded Spirit,18+,16-17,18+
+llama3.2:1b,5,The Wounded Spirit,"Based on the emotion vectors provided for each book description and the age groups' preferred emotions, I would recommend the book ""The Wounded Spirit"" to an 18-year-old. The normalized emotion vector of the description aligns closely with the expected emotions of this age group, which prefer to be described as having a mix of anger (from feeling vulnerable) and anticipation (as it represents a personal journey).",16-17,18+
+llama3.2:1b,5,The Wounded Spirit,16-17,16-17,16-17
+mistral:7b,0,The Wounded Spirit,"Based on the normalized emotion vector of the book description, ""The Wounded Spirit"" seems to resonate most strongly with teenagers aged 14-15 and 16-17, as their preferred emotions in book descriptions include a high level of anger, fear, sadness, and trust, which are all present in this book's description. However, it could also be suitable for older teenagers (18+) who might find the themes relatable.",16-17,14-15
+mistral:7b,0,The Wounded Spirit,"Based on the normalized emotion vector of the book description, ""The Wounded Spirit"", it seems to align most closely with the 14-15 and 16-17 age groups as they have higher scores for 'Anger', 'Fear', 'Sadness' which are prominent in this book description. However, it could also appeal to the older age group (18+) due to its mature themes and message. It's important to note that individual preferences can vary greatly, so it's always a good idea to ask the specific teenager for their reading preferences before recommending a book.",16-17,14-15
+mistral:7b,0,The Wounded Spirit,"The book ""The Wounded Spirit"" can be recommended for teenagers aged 14-18 as its normalized emotion vector matches closely with the emotion vectors of books that this age group enjoys, particularly in terms of 'Anger', 'Fear', 'Sadness', and 'Trust'.",16-17,14-18
+mistral:7b,0,The Wounded Spirit,"Based on the normalized emotion vector of the book description for ""The Wounded Spirit,"" it appears that the book's description has a higher emphasis on 'Anger,' 'Fear,' 'Sadness,' and 'Trust,' which aligns more closely with the emotions expressed in the descriptions enjoyed by the 14-15, 16-17, and 18+ age groups. However, the level of anticipation is relatively low compared to those age groups. Considering the sensitive subject matter and themes of bullying, emotional struggles, and healing, I would recommend this book to teenagers aged 14 and above.",16-17,14-15
+mistral:7b,0,The Wounded Spirit,"Based on the normalized emotion vector of the book description for ""The Wounded Spirit,"" it seems to align most closely with the emotional preferences of the 14-15 and 16-17 age groups. The high levels of Anger, Fear, Sadness, and Anticipation suggest that this book might resonate particularly well with older teenagers who are grappling with complex emotions related to bullying, social hierarchy, and self-acceptance. However, the book's message about healing and forgiveness could also be relevant for younger audiences as they navigate similar challenges. It's always a good idea to consider individual readers' maturity levels and personal preferences when making book recommendations.",16-17,14-15
+mistral:7b,1,The Wounded Spirit,"""14-15""",16-17,14-15
+mistral:7b,1,The Wounded Spirit,"""14-15""",16-17,14-15
+mistral:7b,1,The Wounded Spirit,"Based on the normalized emotion vector of the description, I would recommend the book ""The Wounded Spirit"" to the age group of 14-15. The book seems to evoke emotions that resonate with this age group, such as fear, sadness, and anger, along with anticipation and a hint of joy and trust.",16-17,14-15
+mistral:7b,1,The Wounded Spirit,14-15,16-17,14-15
+mistral:7b,1,The Wounded Spirit,"Based on the normalized emotion vector of the book description for ""The Wounded Spirit"", it appears that this book would be most suitable for the ""14-15"" age group. The high levels of 'Anger', 'Fear', and 'Sadness' align well with their preference for such emotions in their book descriptions, while the presence of 'Anticipation', 'Joy', and 'Trust' also indicates a positive and engaging narrative that this age group might enjoy. However, it is important to note that this recommendation is not definitive and individual preferences may vary.",16-17,14-15
+mistral:7b,3,The Wounded Spirit,"Based on the normalized emotion vector of the book description for ""The Wounded Spirit"", the recommended age group would be 16-17.",16-17,16-17
+mistral:7b,3,The Wounded Spirit,16-17,16-17,16-17
+mistral:7b,3,The Wounded Spirit,"The age group I would recommend for the book ""The Wounded Spirit"" is 18+ due to its emotional intensity and mature themes.",16-17,18+
+mistral:7b,3,The Wounded Spirit,"Based on the emotion context analysis of the book description for ""The Wounded Spirit"", it aligns closely with the emotion vectors of the 14-15 and 16-17 age groups, particularly in terms of Anticipation, Fear, Sadness, Anger, and Trust. However, considering the deeper emotional themes such as bullying, vulnerability, and healing, it might appeal more to older teenagers who can relate to or understand these experiences on a more profound level. Therefore, I would recommend this book for the 16-17 age group.",16-17,14-15
+mistral:7b,3,The Wounded Spirit,"The age group I would recommend ""The Wounded Spirit"" for is 14-15.",16-17,14-15
+mistral:7b,5,The Wounded Spirit,"Based on the normalized emotion vector of the provided book description for ""The Wounded Spirit"", the recommended age group would be 18+.",16-17,18+
+mistral:7b,5,The Wounded Spirit,"Based on the normalized emotion vector provided, the book ""The Wounded Spirit"" seems to have a higher emphasis on Sadness (0.149853) and Fear (0.192812), which suggests it may be more suitable for older audiences due to its emotional intensity and serious subject matter. Therefore, I would recommend this book for the age group of 18+.",16-17,18+
+mistral:7b,5,The Wounded Spirit,"Based on the normalized emotion vector provided, the book ""The Wounded Spirit"" seems to be geared towards an older audience. The high levels of Fear, Sadness, and Trust suggest a mature theme that may resonate more with adults than younger audiences. Therefore, I would recommend this book for the 18+ age group.",16-17,18+
+mistral:7b,5,The Wounded Spirit,16-17,16-17,16-17
+mistral:7b,5,The Wounded Spirit,18+,16-17,18+
+gemma3:12b,0,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,0,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,0,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,0,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,0,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,1,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,1,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,1,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,1,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,1,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,3,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,3,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,3,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,3,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,3,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,5,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,5,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,5,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,5,The Wounded Spirit,16-17,16-17,16-17
+gemma3:12b,5,The Wounded Spirit,16-17,16-17,16-17
+llama3.2:1b,0,Selected Tales,"""14-15"": recommends the book ""Selected Tales"".",16-17,14-15
+llama3.2:1b,0,Selected Tales,"The recommended age group for the book ""Selected Tales"" would be ""16-17"".",16-17,16-17
+llama3.2:1b,0,Selected Tales,"The age group that would recommend ""Selected Tales"" is ""16-17"".",16-17,16-17
+llama3.2:1b,0,Selected Tales,"The ""Selected Tales"" book description matches best with the emotional context of the younger teenagers (12-13 and 14-15) as it contains elements like storytelling, suspense, and dark themes that appeal to their interest in these genres.",16-17,12-13
+llama3.2:1b,0,Selected Tales,"The age group that would recommend the book ""Selected Tales"" is ""14-15"".",16-17,14-15
+llama3.2:1b,1,Selected Tales,16-17,16-17,16-17
+llama3.2:1b,1,Selected Tales,16-17,16-17,16-17
+llama3.2:1b,1,Selected Tales,"Based on the emotion vectors, I would recommend ""Selected Tales"" to teenagers in the 16-17 age group.",16-17,16-17
+llama3.2:1b,1,Selected Tales,16-17.,16-17,16-17
+llama3.2:1b,1,Selected Tales,16-17.,16-17,16-17
+llama3.2:1b,3,Selected Tales,16-17.,16-17,16-17
+llama3.2:1b,3,Selected Tales,14-15.,16-17,14-15
+llama3.2:1b,3,Selected Tales,16-17,16-17,16-17
+llama3.2:1b,3,Selected Tales,16-17,16-17,16-17
+llama3.2:1b,3,Selected Tales,16-17,16-17,16-17
+llama3.2:1b,5,Selected Tales,"""16-17""",16-17,16-17
+llama3.2:1b,5,Selected Tales,16-17.,16-17,16-17
+llama3.2:1b,5,Selected Tales,16-17,16-17,16-17
+llama3.2:1b,5,Selected Tales,16-17.,16-17,16-17
+llama3.2:1b,5,Selected Tales,16-17,16-17,16-17
+mistral:7b,0,Selected Tales,"Based on the analysis of the emotion vectors, the book ""Selected Tales"" appears to have a normalized emotion vector that aligns most closely with the ""16-17"" age group. The description evokes a sense of fear (0.22603670972127807) and suspense (0.0897169845074958), which are higher than the average for the ""12-13"" age group, but lower than the average for the ""18+"" age group. Additionally, the book description includes elements of anticipation, disgust, joy, sadness, and surprise, all of which are present in varying degrees across all the listed age groups, but the levels align most closely with the ""16-17"" group. However, it's important to note that this analysis is based solely on emotion vectors and may not account for other factors such as reading level or personal preference. Ultimately, the best book recommendation would require a more nuanced understanding of the individual reader's preferences and abilities.",16-17,16-17
+mistral:7b,0,Selected Tales,"Based on the normalized emotion vector of the book description, it seems that ""Selected Tales"" by Edgar Allan Poe would be most appealing to the 16-17 age group. The high levels of 'Fear', 'Disgust', and 'Anticipation' in the emotion vector suggest that this book may contain elements of suspense, horror, and mystery which are typically enjoyed by older teenagers. However, it's important to remember that individual preferences can vary widely within each age group.",16-17,16-17
+mistral:7b,0,Selected Tales,"Based on the normalized emotion vector of the book description for ""Selected Tales"", it seems to align most closely with the age group of ""14-15"". This is due to its high levels of Anticipation, Fear, and Sadness, as well as moderate levels of Disgust and Surprise. These emotions are generally more appealing to this age group, according to the provided emotion vectors for each age group. However, it's important to note that individual preferences can vary greatly, so it's always a good idea to consider the specific interests and tastes of the individual teenager when making reading recommendations.",16-17,14-15
+mistral:7b,0,Selected Tales,"Based on the normalized emotion vector of the book description, ""Selected Tales"" by Edgar Allan Poe appears to have a higher fear (0.22603670972127807) and disgust (0.12070199291566781) scores compared to the average for all age groups. However, it also has a relatively high anticipation score (0.0897169845074958). If we compare this vector with the average emotion vectors of the different age groups, the description seems to align most closely with the 14-15 and 16-17 age group's preferences. Therefore, it can be recommended for teenagers aged between 14 and 17.",16-17,14-15
+mistral:7b,0,Selected Tales,"Based on the normalized emotion vector of the book description, it seems that ""Selected Tales"" by Edgar Allan Poe has a high level of 'Fear' and 'Disgust', moderate levels of 'Anticipation' and 'Sadness', and relatively low levels of 'Joy', 'Surprise', and 'Trust'. This emotion vector is most similar to the one associated with the 14-15 age group. Therefore, I would recommend this book to teenagers aged 14-15.",16-17,14-15
+mistral:7b,1,Selected Tales,14-15,16-17,14-15
+mistral:7b,1,Selected Tales,"Based on the normalized emotion vector of the book description for ""Selected Tales"", I would recommend this book to the age group of 14-15. The high scores in 'Anticipation', 'Fear', 'Disgust', and 'Sadness' suggest that the book may appeal to teenagers who are interested in mystery, horror, and suspense. However, the moderate levels of 'Trust' indicate that it might not be too intense or disturbing for younger readers. Therefore, I would recommend it for ages 14 and up.",16-17,14-15
+mistral:7b,1,Selected Tales,"""14-15""",16-17,14-15
+mistral:7b,1,Selected Tales,"Based on the emotion vector analysis of the book description for ""Selected Tales"", it appears to be most closely aligned with the age group of 14-15. The high scores in 'Fear' and 'Anticipation' indicate that this book may contain elements of suspense, mystery, and terror, which are common themes in Edgar Allan Poe's works and might appeal to older teenagers. However, the 'Disgust' and 'Sadness' levels aren't particularly high, suggesting that it may not be excessively gruesome or emotionally intense, making it potentially suitable for this age group. Nonetheless, it's essential to consider individual readers' preferences and maturity level when recommending books.",16-17,14-15
+mistral:7b,1,Selected Tales,"""14-15""",16-17,14-15
+mistral:7b,3,Selected Tales,"The book ""Selected Tales"" would be suitable for the 18+ age group.",16-17,18+
+mistral:7b,3,Selected Tales,The normalized emotion vector of the description suggests that it is more suited for an older audience (18+).,16-17,18+
+mistral:7b,3,Selected Tales,Answer: 18+,16-17,18+
+mistral:7b,3,Selected Tales,"Based on the normalized emotion vector of the book description, the recommended age group for ""Selected Tales"" by Edgar Allan Poe would be 18+. This is due to the high levels of fear and disgust in the text, which are emotions typically preferred by older teenagers and adults.",16-17,18+
+mistral:7b,3,Selected Tales,Answer: 18+,16-17,18+
+mistral:7b,5,Selected Tales,Answer: 14-15,16-17,14-15
+mistral:7b,5,Selected Tales,Answer: 16-17,16-17,16-17
+mistral:7b,5,Selected Tales,"Based on the emotion vector analysis, I would recommend the book ""Selected Tales"" to the age group of 16-17.",16-17,16-17
+mistral:7b,5,Selected Tales,"Based on the normalized emotion vector of the description, I would recommend the book ""Selected Tales"" to the age group of 16-17.",16-17,16-17
+mistral:7b,5,Selected Tales,"Based on the provided emotion vector, the book ""Selected Tales"" would likely be recommended for the age group of 14-15. The high scores in fear and anticipation, along with the moderate levels of disgust and surprise, indicate that this book may appeal to teenagers who enjoy suspenseful and slightly unsettling narratives. However, it's important to note that individual preferences can vary widely, so it's always a good idea to also consider other factors such as the maturity level of the content and the specific interests of the intended reader when making recommendations.",16-17,14-15
+gemma3:12b,0,Selected Tales,16-17,16-17,16-17
+gemma3:12b,0,Selected Tales,16-17,16-17,16-17
+gemma3:12b,0,Selected Tales,16-17,16-17,16-17
+gemma3:12b,0,Selected Tales,16-17,16-17,16-17
+gemma3:12b,0,Selected Tales,16-17,16-17,16-17
+gemma3:12b,1,Selected Tales,16-17,16-17,16-17
+gemma3:12b,1,Selected Tales,16-17,16-17,16-17
+gemma3:12b,1,Selected Tales,16-17,16-17,16-17
+gemma3:12b,1,Selected Tales,16-17,16-17,16-17
+gemma3:12b,1,Selected Tales,16-17,16-17,16-17
+gemma3:12b,3,Selected Tales,16-17,16-17,16-17
+gemma3:12b,3,Selected Tales,16-17,16-17,16-17
+gemma3:12b,3,Selected Tales,16-17,16-17,16-17
+gemma3:12b,3,Selected Tales,16-17,16-17,16-17
+gemma3:12b,3,Selected Tales,16-17,16-17,16-17
+gemma3:12b,5,Selected Tales,16-17,16-17,16-17
+gemma3:12b,5,Selected Tales,16-17,16-17,16-17
+gemma3:12b,5,Selected Tales,16-17,16-17,16-17
+gemma3:12b,5,Selected Tales,16-17,16-17,16-17
+gemma3:12b,5,Selected Tales,16-17,16-17,16-17
+llama3.2:1b,0,Smoke and Mirrors: Short Fiction and Illusions,"The book description ""Smoke and Mirrors: Short Fiction and Illusions"" seems to match well with teenagers in their teenage years (14-15). The overall tone of the book appears to be exciting, imaginative, and suspenseful, which is typical of what many young readers enjoy. However, it's worth noting that Neil Gaiman's work often deals with mature themes and complex ideas, so younger teenagers might find certain parts challenging or disturbing.",16-17,14-15
+llama3.2:1b,0,Smoke and Mirrors: Short Fiction and Illusions,"""18+""",16-17,18+
+llama3.2:1b,0,Smoke and Mirrors: Short Fiction and Illusions,"""16-17"":",16-17,16-17
+llama3.2:1b,0,Smoke and Mirrors: Short Fiction and Illusions,"16-17 year olds would likely be interested in this book description due to its themes of magic, illusions, and a blend of fantasy and reality.",16-17,16-17
+llama3.2:1b,0,Smoke and Mirrors: Short Fiction and Illusions,"The age group that would recommend ""Smoke and Mirrors: Short Fiction and Illusions"" is ""16-17"".",16-17,16-17
+llama3.2:1b,1,Smoke and Mirrors: Short Fiction and Illusions,18+,16-17,18+
+llama3.2:1b,1,Smoke and Mirrors: Short Fiction and Illusions,16+,16-17,16+
+llama3.2:1b,1,Smoke and Mirrors: Short Fiction and Illusions,18+,16-17,18+
+llama3.2:1b,1,Smoke and Mirrors: Short Fiction and Illusions,18+,16-17,18+
+llama3.2:1b,1,Smoke and Mirrors: Short Fiction and Illusions,18+,16-17,18+
+llama3.2:1b,3,Smoke and Mirrors: Short Fiction and Illusions,18+,16-17,18+
+llama3.2:1b,3,Smoke and Mirrors: Short Fiction and Illusions,16+,16-17,16+
+llama3.2:1b,3,Smoke and Mirrors: Short Fiction and Illusions,18+,16-17,18+
+llama3.2:1b,3,Smoke and Mirrors: Short Fiction and Illusions,16+,16-17,16+
+llama3.2:1b,3,Smoke and Mirrors: Short Fiction and Illusions,18+,16-17,18+
+llama3.2:1b,5,Smoke and Mirrors: Short Fiction and Illusions,18+,16-17,18+
+llama3.2:1b,5,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+llama3.2:1b,5,Smoke and Mirrors: Short Fiction and Illusions,16-17.,16-17,16-17
+llama3.2:1b,5,Smoke and Mirrors: Short Fiction and Illusions,16-17.,16-17,16-17
+llama3.2:1b,5,Smoke and Mirrors: Short Fiction and Illusions,16-17.,16-17,16-17
+mistral:7b,0,Smoke and Mirrors: Short Fiction and Illusions,"Based on the emotion vector of the book description for ""Smoke and Mirrors: Short Fiction and Illusions"", it seems to resonate most closely with the 14-15 and 16-17 age groups, as they prefer a higher level of anticipation, fear, joy, sadness, and trust, which are the dominant emotions in this description. However, it's important to note that the preferences can vary greatly among individuals within these age groups, and the best choice ultimately depends on the specific interests and reading levels of the reader.",16-17,14-15
+mistral:7b,0,Smoke and Mirrors: Short Fiction and Illusions,"Based on the normalized emotion vector of the book description, it appears that ""Smoke and Mirrors: Short Fiction and Illusions"" leans more towards the 14-15 or 16-17 age groups. However, since the exact emotions scored are slightly higher than those of the 14-15 group and closer to the 16-17 group, I would recommend this book for teenagers aged 16-17.",16-17,14-15
+mistral:7b,0,Smoke and Mirrors: Short Fiction and Illusions,"Based on the normalized emotion vector of the book description, ""Smoke and Mirrors: Short Fiction and Illusions"" appears to be most aligned with the 14-15 age group. The high scores in Anticipation, Joy, Fear, and Sadness indicate a preference for books with emotional depth and suspense, which aligns more closely with this age group compared to the others. However, it's essential to consider that individual preferences may vary significantly within each age group.",16-17,14-15
+mistral:7b,0,Smoke and Mirrors: Short Fiction and Illusions,"Based on the normalized emotion vector of the book description, I would recommend ""Smoke and Mirrors: Short Fiction and Illusions"" to the 16-17 age group as it most closely matches their preference for emotion context in book descriptions. However, it could also be suitable for older teenagers (14-15 and 18+). The book's content seems to evoke feelings of anticipation, fear, joy, sadness, surprise, and trust, which align well with the preferences of these age groups.",16-17,16-17
+mistral:7b,0,Smoke and Mirrors: Short Fiction and Illusions,"Based on the normalized emotion vector of the book description, ""Smoke and Mirrors: Short Fiction and Illusions"" seems to appeal to the age group of 14-15. The higher values in Anticipation, Joy, Fear, and Trust align well with this group's preferences. However, it's essential to consider that individual preferences may vary, and some teenagers from other age groups might enjoy this book as well.",16-17,14-15
+mistral:7b,1,Smoke and Mirrors: Short Fiction and Illusions,"Based on the emotion vector of the description for ""Smoke and Mirrors: Short Fiction and Illusions"", I would recommend the book to the age group 14-15. The normalized emotion values for 'Anticipation' (0.0896), 'Fear' (0.1813), 'Joy' (0.2100), and 'Sadness' (0.1287) are quite close to the average emotion vectors for this age group, making it an appropriate match.",16-17,14-15
+mistral:7b,1,Smoke and Mirrors: Short Fiction and Illusions,"""18+""",16-17,18+
+mistral:7b,1,Smoke and Mirrors: Short Fiction and Illusions,"Based on the normalized emotion vector of the book description, I would recommend the book ""Smoke and Mirrors: Short Fiction and Illusions"" to the 14-15 age group. The high scores in 'Fear' (0.181280), 'Anticipation' (0.089605), and 'Sadness' (0.128682) align well with this age group's preferences. However, it is important to note that individual readers may enjoy books outside of their recommended age range.",16-17,14-15
+mistral:7b,1,Smoke and Mirrors: Short Fiction and Illusions,"Based on the normalized emotion vector of the book description for ""Smoke and Mirrors: Short Fiction and Illusions"", it seems to align most closely with the emotion preferences of the 14-15 age group. However, it's important to note that literary preference can be quite subjective and may vary greatly among individuals within each age group. Therefore, I would recommend this book for teenagers aged 14-18, as it should appeal to a wide range of tastes within those age brackets.",16-17,14-15
+mistral:7b,1,Smoke and Mirrors: Short Fiction and Illusions,"Based on the normalized emotion vector of the book description for ""Smoke and Mirrors: Short Fiction and Illusions"", it appears to have higher scores in 'Fear' and 'Sadness', which are emotions that teenagers between 14-17 tend to enjoy more compared to younger age groups. However, it also has a relatively high score in 'Anticipation' and 'Surprise', which are enjoyed by the older age group (18+). Therefore, I would recommend this book to both the 14-17 and 18+ age groups.",16-17,14-17
+mistral:7b,3,Smoke and Mirrors: Short Fiction and Illusions,"""16-17""",16-17,16-17
+mistral:7b,3,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+mistral:7b,3,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+mistral:7b,3,Smoke and Mirrors: Short Fiction and Illusions,"Based on the provided emotion vector, I would recommend the book ""Smoke and Mirrors: Short Fiction and Illusions"" to the 16-17 age group.",16-17,16-17
+mistral:7b,3,Smoke and Mirrors: Short Fiction and Illusions,Answer: 16-17,16-17,16-17
+mistral:7b,5,Smoke and Mirrors: Short Fiction and Illusions,Answer: 16-17,16-17,16-17
+mistral:7b,5,Smoke and Mirrors: Short Fiction and Illusions,Answer: 16-17,16-17,16-17
+mistral:7b,5,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+mistral:7b,5,Smoke and Mirrors: Short Fiction and Illusions,"Based on the normalized emotion vector provided, I would recommend the book ""Smoke and Mirrors: Short Fiction and Illusions"" to the 16-17 age group.",16-17,16-17
+mistral:7b,5,Smoke and Mirrors: Short Fiction and Illusions,"Based on the emotion vector provided, the recommended age group for ""Smoke and Mirrors: Short Fiction and Illusions"" would be 16-17.",16-17,16-17
+gemma3:12b,0,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,0,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,0,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,0,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,0,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,1,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,1,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,1,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,1,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,1,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,3,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,3,Smoke and Mirrors: Short Fiction and Illusions,14-15,16-17,14-15
+gemma3:12b,3,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,3,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,3,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,5,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,5,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,5,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,5,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+gemma3:12b,5,Smoke and Mirrors: Short Fiction and Illusions,16-17,16-17,16-17
+llama3.2:1b,0,The Tale Of Mrs. Tiggy Winkle,"The age group that would recommend ""The Tale Of Mrs. Tiggy Winkle"" is 14-15 years old.",18+,14-15
+llama3.2:1b,0,The Tale Of Mrs. Tiggy Winkle,"""18+"":",18+,18+
+llama3.2:1b,0,The Tale Of Mrs. Tiggy Winkle,"The age group that would recommend ""The Tale Of Mrs. Tiggy Winkle"" is ""16-17"".",18+,16-17
+llama3.2:1b,0,The Tale Of Mrs. Tiggy Winkle,"The age group that would recommend ""The Tale Of Mrs. Tiggy Winkle"" is the 16-17 year old age group.",18+,16-17
+llama3.2:1b,0,The Tale Of Mrs. Tiggy Winkle,"The age group that would recommend ""The Tale Of Mrs. Tiggy Winkle"" is 16-17 years old.",18+,16-17
+llama3.2:1b,1,The Tale Of Mrs. Tiggy Winkle,18+,18+,18+
+llama3.2:1b,1,The Tale Of Mrs. Tiggy Winkle,16-17.,18+,16-17
+llama3.2:1b,1,The Tale Of Mrs. Tiggy Winkle,The Tale Of Mrs. Tiggy Winkle would be recommended to 18+.,18+,18+
+llama3.2:1b,1,The Tale Of Mrs. Tiggy Winkle,18+,18+,18+
+llama3.2:1b,1,The Tale Of Mrs. Tiggy Winkle,18+,18+,18+
+llama3.2:1b,3,The Tale Of Mrs. Tiggy Winkle,18+,18+,18+
+llama3.2:1b,3,The Tale Of Mrs. Tiggy Winkle,18+,18+,18+
+llama3.2:1b,3,The Tale Of Mrs. Tiggy Winkle,16-17,18+,16-17
+llama3.2:1b,3,The Tale Of Mrs. Tiggy Winkle,The Man Who Loved Clowns would be recommended for teenagers aged 18+.,18+,18+
+llama3.2:1b,3,The Tale Of Mrs. Tiggy Winkle,18+,18+,18+
+llama3.2:1b,5,The Tale Of Mrs. Tiggy Winkle,18+,18+,18+
+llama3.2:1b,5,The Tale Of Mrs. Tiggy Winkle,18+,18+,18+
+llama3.2:1b,5,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+llama3.2:1b,5,The Tale Of Mrs. Tiggy Winkle,18+,18+,18+
+llama3.2:1b,5,The Tale Of Mrs. Tiggy Winkle,18+,18+,18+
+mistral:7b,0,The Tale Of Mrs. Tiggy Winkle,"Based on the normalized emotion vector of the book description for ""The Tale Of Mrs. Tiggy Winkle"", it appears to be most similar to the emotion vectors of books that the 12-13, 14-15, and 16-17 age groups enjoyed. However, the emotion vector of this specific book leans more towards the ""Joy"" and ""Anticipation"" emotions, which are slightly higher in the descriptions of books that the 14-15 and 16-17 age groups enjoyed. Therefore, I would recommend this book to the 14-17 age group.",18+,12-13
+mistral:7b,0,The Tale Of Mrs. Tiggy Winkle,"Based on the normalized emotion vector of the book description for ""The Tale Of Mrs. Tiggy Winkle"", it appears to align most closely with the age group ""12-13"". This is because the values for Anticipation, Joy, and Trust are relatively higher compared to other age groups, while the value for Anger, Disgust, Fear, Sadness, and Surprise are lower. However, it's important to note that book preferences can vary greatly among individuals within each age group, so this recommendation should be taken as a general guideline rather than a definitive one.",18+,12-13
+mistral:7b,0,The Tale Of Mrs. Tiggy Winkle,"Based on the normalized emotion vector of the book description for ""The Tale Of Mrs. Tiggy Winkle"", it appears that the book leans more towards joy, anticipation, and trust, which aligns well with the emotion vectors of the 12-13, 14-15, 16-17, and 18+ age groups. However, the emotions of fear and disgust are relatively low compared to these age groups, making it more suitable for the younger end of the spectrum (12-13 or 14-15). A closer look at the book's content and tone might further help in narrowing down the age group recommendation. However, considering the classic nature of the story and the fact that it is an original Beatrix Potter tale, it could be appealing to a wide range of ages within the teenage spectrum.",18+,12-13
+mistral:7b,0,The Tale Of Mrs. Tiggy Winkle,"Based on the normalized emotion vector of the book description for ""The Tale Of Mrs. Tiggy Winkle"", the book seems to be most suited for the age group of 12-13 years old, as it aligns closest with their preferred emotion vectors. However, given the timeless nature and popularity of Beatrix Potter's work, readers of all ages might find enjoyment in this classic tale.",18+,12-13
+mistral:7b,0,The Tale Of Mrs. Tiggy Winkle,"Based on the normalized emotion vector of the description, it appears that ""The Tale Of Mrs. Tiggy Winkle"" leans more towards the age group of 12-13 and 14-15 due to the high levels of Anticipation, Joy, and Trust, as well as moderate levels of Fear and Disgust. However, since the emotional tone is generally light and whimsical, it could also appeal to older teenagers (16-17 and 18+). Ultimately, the book's content and suitability for a specific age group may vary depending on individual readers.",18+,12-13
+mistral:7b,1,The Tale Of Mrs. Tiggy Winkle,"""12-13""",18+,12-13
+mistral:7b,1,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+mistral:7b,1,The Tale Of Mrs. Tiggy Winkle,"""12-13""",18+,12-13
+mistral:7b,1,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+mistral:7b,1,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+mistral:7b,3,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+mistral:7b,3,The Tale Of Mrs. Tiggy Winkle,"Based on the normalized emotion vector of the book description for ""The Tale Of Mrs. Tiggy Winkle"", it appears to be most suitable for the age group of 12-13.",18+,12-13
+mistral:7b,3,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+mistral:7b,3,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+mistral:7b,3,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+mistral:7b,5,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+mistral:7b,5,The Tale Of Mrs. Tiggy Winkle,Answer: 12-13,18+,12-13
+mistral:7b,5,The Tale Of Mrs. Tiggy Winkle,Answer: 12-13,18+,12-13
+mistral:7b,5,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+mistral:7b,5,The Tale Of Mrs. Tiggy Winkle,"The age group I would recommend ""The Tale Of Mrs. Tiggy Winkle"" for is 12-13.",18+,12-13
+gemma3:12b,0,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,0,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,0,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,0,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,0,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,1,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,1,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,1,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,1,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,1,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,3,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,3,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,3,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,3,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,3,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,5,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,5,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,5,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,5,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+gemma3:12b,5,The Tale Of Mrs. Tiggy Winkle,12-13,18+,12-13
+llama3.2:1b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the emotion vector of the book description, I would recommend the book to teenagers aged 16 and above, particularly those in the ""18+"" age group, as it appears to be a more mature and complex story that explores themes of love, revenge, and Native American culture. However, it's worth noting that this is just an analysis based on emotion vectors, and individual tastes may vary.",16-17,18+
+llama3.2:1b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the emotion vectors of the book description, I would recommend the ""16-17"" age group for the book ""Call Down the Stars (Storyteller Trilogy, Book 3)"".",16-17,16-17
+llama3.2:1b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the emotion vector analysis, I would recommend the book ""Call Down the Stars (Storyteller Trilogy, Book 3)"" to teenagers aged 16-17.",16-17,16-17
+llama3.2:1b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)",The emotion vectors suggest that the book is a sweeping epic and not suitable for the younger teenagers.,16-17,18+
+llama3.2:1b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the emotion vectors provided, I would recommend the book ""Call Down the Stars (Storyteller Trilogy, Book 3)"" to teenagers in the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)","The normalized emotion vector of the description for ""Call Down the Stars (Storyteller Trilogy, Book 3)"" is:
+ 
+{'Anger': 0.10816532412148629, 'Anticipation': 0.15564098252908004, 'Disgust': 0.042271066750225454, 'Fear': 0.17493847729391804, 'Joy': 0.16835058007122874, 'Sadness': 0.10480259236048485, 'Surprise': 0.05535515032939485, 'Trust': 0.19047582654418166}
+
+Comparing this to the emotion vectors of different age groups, I would recommend the book ""Call Down the Stars (Storyteller Trilogy, Book 3)"" for teenagers aged 16-17.",16-17,16-17
+llama3.2:1b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)","The emotion vector of the book description for ""Call Down the Stars (Storyteller Trilogy, Book 3)"" seems to align more closely with emotions from teenagers aged 16-17. The normalized emotion vectors suggest a strong emphasis on:
+
+* Fear: As evidenced by the descriptions of the Bear-god warriors and the dangers faced by characters like Daughter.
+* Surprise: The unexpected nature of the plot twists and the way the story unfolds.
+* Sadness: Involving characters like Kos, who seek revenge, and Aqamdax's brother Ghaden, whose actions lead to a devastating consequence.
+
+These emotions are more commonly associated with this age group.",16-17,16-17
+llama3.2:1b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+llama3.2:1b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)","The normalized emotion vector of the description suggests that the recommended book for a teenager would be ""Call Down the Stars (Storyteller Trilogy, Book 3)"". The age group that would enjoy this book is 16-17.",16-17,16-17
+llama3.2:1b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)","The age group that would recommend ""Call Down the Stars (Storyteller Trilogy, Book 3)"" is 16-17 years old.",16-17,16-17
+llama3.2:1b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)","The book description seems to have a tone that appeals to younger readers, particularly those in the ""14-15"" age group based on their emotional vector. The mention of being the fastest runner in grade and creating Terabithia evokes a sense of excitement and adventure, which is more typically associated with this age group's reading preferences.",16-17,14-15
+llama3.2:1b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)","The age group that would recommend the book ""Call Down the Stars"" is 18+.",16-17,18+
+llama3.2:1b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the emotion vectors provided, I would recommend the book ""Call Down the Stars (Storyteller Trilogy, Book 3)"" to be recommended to teenagers in the age range of 14-15. The normalized emotion vector shows that this age group is most likely to experience anticipation, disgust, joy, sadness, surprise, and trust as emotions, with anticipation and surprise being particularly prominent. This age group would also likely appreciate the epic storytelling and detailed world-building depicted in the description, which aligns with their preferred book description style for young adult fiction.",16-17,14-15
+llama3.2:1b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the emotion vectors provided for each book description, I would recommend ""Call Down the Stars (Storyteller Trilogy, Book 3)"" to be suitable for teenagers aged 16 and above. The normalized emotion vector of this description contains a high level of 'Joy', 'Surprise', and a moderate level of 'Anger' and 'Fear'. These emotions align with the typical emotional responses experienced by older teenagers who are more likely to appreciate complex stories, themes, and character development in literature.",16-17,16-17
+llama3.2:1b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)",The user has described a book that they think is suitable for 18-year-olds.,16-17,18+
+llama3.2:1b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",18+,16-17,18+
+llama3.2:1b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+llama3.2:1b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+llama3.2:1b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",18+,16-17,18+
+llama3.2:1b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+mistral:7b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the normalized emotion vector of the book description and comparing it to the average emotion vectors of books that each age group enjoyed, it appears that ""Call Down the Stars (Storyteller Trilogy, Book 3)"" would be most suitable for the 14-15 age group. The emotions in the description have a higher emphasis on Anticipation, Fear, Joy, and Trust which are more prominent in the 14-15 age group compared to other age groups according to the provided data. However, it's essential to remember that individual preferences may vary, and this recommendation should be considered as a general guideline rather than an absolute rule.",16-17,14-15
+mistral:7b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the normalized emotion vector of the book description and comparing it to the average emotion vectors of books that each age group enjoyed, the recommended age group for ""Call Down the Stars (Storyteller Trilogy, Book 3)"" is the ""14-15"" age group. The reason being that this age group has a higher preference for Anticipation, Joy, Fear, and Trust emotions in their book descriptions, which are present in the description of ""Call Down the Stars"".",16-17,14-15
+mistral:7b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)","The book ""Call Down the Stars (Storyteller Trilogy, Book 3)"" seems to have a normalized emotion vector that aligns closely with the preferences of the 14-15 age group and the 16-17 age group. However, it is slightly more oriented towards the 'Joy' and 'Anticipation' emotions compared to the 16-17 age group's average. Given the complexity and depth of the storytelling, I would recommend this book to teenagers aged between 14-17.",16-17,14-15
+mistral:7b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the normalized emotion vector of the book description for ""Call Down the Stars (Storyteller Trilogy, Book 3)"", the recommended age group appears to be the ""14-15"" age group as it closely matches their preferred emotion vectors in terms of Anticipation, Fear, Joy, and Trust. However, it should be noted that the description also contains elements of Sadness, which is more prominent in the ""12-13"" age group's preferences. Therefore, both age groups could potentially enjoy this book.",16-17,14-15
+mistral:7b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the normalized emotion vector of the book description provided, the book ""Call Down the Stars (Storyteller Trilogy, Book 3)"" seems to have a higher appeal for the 14-15 and 16-17 age groups. However, it's important to note that this recommendation is based on the emotion context of the book description alone, and other factors such as reading level, themes, and personal preferences should also be considered when recommending books to teenagers.",16-17,14-15
+mistral:7b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the normalized emotion vector of the book description for ""Call Down the Stars (Storyteller Trilogy, Book 3)"", it seems to align closest with the emotion vectors preferred by the ""14-15"" age group. The high levels of Anticipation, Fear, Joy, and Sadness in the normalized emotion vector suggest that this book may be engaging and emotionally resonant for teenagers within that age range. However, it's important to note that individual preferences can vary widely, so it's always a good idea to consult with the teenager directly to ensure the book is a good fit for their interests and reading level.",16-17,14-15
+mistral:7b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)",14-15,16-17,14-15
+mistral:7b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the normalized emotion vector provided for the book description of ""Call Down the Stars (Storyteller Trilogy, Book 3)"", it seems to align most closely with the ""14-15"" age group. The emotion vectors for this age group have higher values for Anticipation, Fear, Joy, Sadness, and Trust compared to other age groups, which are prominent in the book's description. However, it's important to note that individual preferences may vary within each age group, and the recommendation should also take into account other factors such as genre, reading level, and personal interest.",16-17,14-15
+mistral:7b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the normalized emotion vector of the book description for ""Call Down the Stars (Storyteller Trilogy, Book 3)"", the recommended age group would be ""14-15"".",16-17,14-15
+mistral:7b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)",14-15,16-17,14-15
+mistral:7b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the normalized emotion vector provided, I would recommend the book ""Call Down the Stars (Storyteller Trilogy, Book 3)"" to the 16-17 age group. The high values of 'Anticipation', 'Fear', and 'Joy' suggest a captivating and adventurous narrative, while the presence of 'Sadness' indicates some emotional depth that could resonate with older teenagers. The relatively low 'Anger' and 'Disgust' scores, as well as the absence of 'Surprise' and 'Trust', further support this recommendation for the 16-17 age group.",16-17,16-17
+mistral:7b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the normalized emotion vector of the book description for ""Call Down the Stars"", the recommended age group would be ""16-17"".",16-17,16-17
+mistral:7b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)","The recommended age group for ""Call Down the Stars (Storyteller Trilogy, Book 3)"" would be ""16-17"". This is based on the normalized emotion vector of the description which shows higher values in Anticipation, Fear, Joy, and Sadness compared to other age groups, suggesting a book that could appeal to older teenagers.",16-17,16-17
+mistral:7b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)","""16-17""",16-17,16-17
+mistral:7b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)","""16-17""",16-17,16-17
+mistral:7b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)","Based on the normalized emotion vector provided for the book description of ""Call Down the Stars (Storyteller Trilogy, Book 3)"", it appears to align most closely with the 14-15 age group according to the provided average emotion vectors for each age group. However, the book may also be suitable for older teenagers as well, depending on their individual preferences and maturity levels.",16-17,14-15
+mistral:7b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",Answer: 14-15,16-17,14-15
+mistral:7b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",14-15,16-17,14-15
+mistral:7b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",Answer: 14-15,16-17,14-15
+mistral:7b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",Answer: 14-15,16-17,14-15
+gemma3:12b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,0,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)",18+,16-17,18+
+gemma3:12b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)",18+,16-17,18+
+gemma3:12b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)",18+,16-17,18+
+gemma3:12b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)",18+,16-17,18+
+gemma3:12b,1,"Call Down the Stars (Storyteller Trilogy, Book 3)",18+,16-17,18+
+gemma3:12b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,3,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+gemma3:12b,5,"Call Down the Stars (Storyteller Trilogy, Book 3)",16-17,16-17,16-17
+llama3.2:1b,0,"Rooman portit (Keisari, #1)","The emotion vector of the book description suggests that it is likely to appeal to teenagers in the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,0,"Rooman portit (Keisari, #1)","Based on the normalized emotion vector of the book description, I would recommend recommending ""Emperor, The Gates of Rome"" to teenagers in the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,0,"Rooman portit (Keisari, #1)","""18+"":",16-17,18+
+llama3.2:1b,0,"Rooman portit (Keisari, #1)","The emotion vector of the description indicates that the book is expected to be exciting, gripping, and possibly a bit intense, which would suggest that it might appeal more to older teenagers. However, none of the provided emotion vectors specifically indicate that the book is about ancient Rome or aimed at an age group other than 16-17.
+
+Based on the given average emotion vectors of books enjoyed by each age group, I would recommend that the book ""Rooman portit (Keisari, #1)"" is intended for teenagers aged 16 and above.",16-17,16-17
+llama3.2:1b,0,"Rooman portit (Keisari, #1)","The emotion vector of the book description indicates a strong interest in historical fiction, adventure, and epic stories, which is more prevalent among readers in their teens to early twenties. The average emotion vectors for books that this age group enjoys also suggest a preference for complex characters, moral ambiguity, and themes of power and ambition.",16-17,18+
+llama3.2:1b,1,"Rooman portit (Keisari, #1)",The emotion vector of the description suggests that this book is most suitable for teenagers aged 16-17.,16-17,16-17
+llama3.2:1b,1,"Rooman portit (Keisari, #1)","""16-17""",16-17,16-17
+llama3.2:1b,1,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+llama3.2:1b,1,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+llama3.2:1b,1,"Rooman portit (Keisari, #1)",16-17.,16-17,16-17
+llama3.2:1b,3,"Rooman portit (Keisari, #1)",18+,16-17,18+
+llama3.2:1b,3,"Rooman portit (Keisari, #1)",18+,16-17,18+
+llama3.2:1b,3,"Rooman portit (Keisari, #1)",18+,16-17,18+
+llama3.2:1b,3,"Rooman portit (Keisari, #1)",18+,16-17,18+
+llama3.2:1b,3,"Rooman portit (Keisari, #1)",18+,16-17,18+
+llama3.2:1b,5,"Rooman portit (Keisari, #1)",12-13,16-17,12-13
+llama3.2:1b,5,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+llama3.2:1b,5,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+llama3.2:1b,5,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+llama3.2:1b,5,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+mistral:7b,0,"Rooman portit (Keisari, #1)","Based on the normalized emotion vector of the book description, ""Rooman portit (Keisari, #1)"" seems to align closest with the emotional preferences of the 14-15 and 16-17 age groups. However, it's important to note that literary taste can vary significantly among individuals, and this recommendation should be considered as a general guideline rather than a definitive answer. It might still be enjoyable for readers outside these age ranges as well.",16-17,14-15
+mistral:7b,0,"Rooman portit (Keisari, #1)","Based on the normalized emotion vector of the book description for ""Rooman portit (Keisari, #1)"", it seems to be most aligned with the books that are enjoyed by the 14-15 and 16-17 age groups. The higher scores in Anticipation, Joy, Fear, and Trust indicate an exciting, engaging, and emotional story that many teenagers might find appealing. However, it's important to note that individual preferences can vary greatly, so I would recommend considering other factors such as reading level and content appropriateness when making a final recommendation.",16-17,14-15
+mistral:7b,0,"Rooman portit (Keisari, #1)","Based on the normalized emotion vector of the book description for ""Rooman portit (Keisari, #1)"", it seems to align most closely with the 14-15 and 16-17 age groups. The higher scores in Anticipation, Joy, Fear, and Trust indicate that this book could potentially appeal to older teenagers. However, I would recommend checking reviews or feedback from actual readers in these age groups for a more accurate assessment.",16-17,14-15
+mistral:7b,0,"Rooman portit (Keisari, #1)","The book ""Rooman portit (Keisari, #1)"" seems to have a higher emotional appeal for the older teenagers, particularly those aged 16-17. The normalized emotion vector of the description shows a high level of Anticipation (0.1394), Joy (0.2092), and Fear (0.1562), which aligns more with the preferences of this age group according to the provided data. However, it's essential to keep in mind that individual preferences may vary, and some 14-15 or 18+ readers might also enjoy this book based on their personal interests.",16-17,16-17
+mistral:7b,0,"Rooman portit (Keisari, #1)","Based on the emotion vector of the book description for ""Rooman portit (Keisari, #1)"", it seems to align most closely with the emotional preferences of the 14-15 and 16-17 age groups. The high scores in 'Anticipation', 'Joy', and 'Fear' indicate an adventure or action-oriented story, which are popular among both age groups. The presence of 'Anger' and 'Sadness' suggests a more complex narrative with elements of conflict and emotional depth, also appealing to these age groups. However, it's important to note that individual preferences can vary greatly within each age group, so the book might be enjoyed by readers outside of these specific age ranges as well.",16-17,14-15
+mistral:7b,1,"Rooman portit (Keisari, #1)","Based on the emotion vector of the book description for ""Rooman portit (Keisari, #1)"", I would recommend the book to the ""14-15"" age group. The normalized emotion vector shows a higher level of Anticipation, Joy, and Fear which aligns well with this age group's preference in books. However, it is essential to consider individual preferences as well, as some teenagers might enjoy books outside their preferred age range.",16-17,14-15
+mistral:7b,1,"Rooman portit (Keisari, #1)","""14-15""",16-17,14-15
+mistral:7b,1,"Rooman portit (Keisari, #1)","""14-15""",16-17,14-15
+mistral:7b,1,"Rooman portit (Keisari, #1)","Based on the emotion vector of the description for ""Rooman portit (Keisari, #1)"", it appears to be most closely aligned with the ""14-15"" and ""16-17"" age groups. However, since both age groups have similar scores, it could potentially appeal to either. It's essential to consider individual preferences as well when making recommendations.",16-17,14-15
+mistral:7b,1,"Rooman portit (Keisari, #1)","""14-15""",16-17,14-15
+mistral:7b,3,"Rooman portit (Keisari, #1)",14-15,16-17,14-15
+mistral:7b,3,"Rooman portit (Keisari, #1)",Answer: 16-17,16-17,16-17
+mistral:7b,3,"Rooman portit (Keisari, #1)","Based on the normalized emotion vector of the description, I would recommend the book ""Rooman portit (Keisari, #1)"" to the age group of 14-15. The high scores in Anticipation, Joy, Fear, and Trust suggest that this book might appeal to older teenagers who enjoy action, adventure, and historical fiction with a touch of romance.",16-17,14-15
+mistral:7b,3,"Rooman portit (Keisari, #1)",Answer: 16-17,16-17,16-17
+mistral:7b,3,"Rooman portit (Keisari, #1)",Answer: 16-17,16-17,16-17
+mistral:7b,5,"Rooman portit (Keisari, #1)",Answer: 16-17,16-17,16-17
+mistral:7b,5,"Rooman portit (Keisari, #1)","Based on the normalized emotion vector of the description, I would recommend the book ""Rooman portit (Keisari, #1)"" to the age group of 16-17.",16-17,16-17
+mistral:7b,5,"Rooman portit (Keisari, #1)",Answer: 14-15,16-17,14-15
+mistral:7b,5,"Rooman portit (Keisari, #1)","Based on the normalized emotion vector of the book description, I would recommend the book ""Rooman portit (Keisari, #1)"" to the age group of 16-17. The high scores in Anticipation and Joy indicate that the story is engaging and exciting, while the moderate scores in Anger, Fear, Disgust, Sadness, Surprise, and Trust suggest a balanced mix of emotions that would appeal to older teenagers.",16-17,16-17
+mistral:7b,5,"Rooman portit (Keisari, #1)",Answer: 14-15,16-17,14-15
+gemma3:12b,0,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,0,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,0,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,0,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,0,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,1,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,1,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,1,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,1,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,1,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,3,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,3,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,3,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,3,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,3,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,5,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,5,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,5,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,5,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+gemma3:12b,5,"Rooman portit (Keisari, #1)",16-17,16-17,16-17
+llama3.2:1b,0,The Little Prince,"""16-17"": {'Anger': 7.961, 'Anticipation': 12.758, 'Disgust': 4.934, 'Fear': 13.352, 'Joy': 15.926, 'Sadness': 9.764, 'Surprise': 5.474, 'Trust': 16.686}",18+,16-17
+llama3.2:1b,0,The Little Prince,"The Little Prince would be recommended for readers in the ""16-17"" age group based on their preference for books that describe love and loneliness, as well as satire, whimsy, and a tender tone.",18+,16-17
+llama3.2:1b,0,The Little Prince,"The Little Prince would be recommended for an ""18+"" age group due to its mature themes and language.",18+,18+
+llama3.2:1b,0,The Little Prince,"The Little Prince is recommended for teenagers in the ""14-15"" age group.",18+,14-15
+llama3.2:1b,0,The Little Prince,"""16-17"":",18+,16-17
+llama3.2:1b,1,The Little Prince,16-17,18+,16-17
+llama3.2:1b,1,The Little Prince,16-17.,18+,16-17
+llama3.2:1b,1,The Little Prince,16-17.,18+,16-17
+llama3.2:1b,1,The Little Prince,16-17,18+,16-17
+llama3.2:1b,1,The Little Prince,16-17.,18+,16-17
+llama3.2:1b,3,The Little Prince,16-17.,18+,16-17
+llama3.2:1b,3,The Little Prince,The Little Prince would be recommended for children in the 16-17 age group.,18+,16-17
+llama3.2:1b,3,The Little Prince,16-17,18+,16-17
+llama3.2:1b,3,The Little Prince,16-17,18+,16-17
+llama3.2:1b,3,The Little Prince,16-17.,18+,16-17
+llama3.2:1b,5,The Little Prince,12-13,18+,12-13
+llama3.2:1b,5,The Little Prince,12-13,18+,12-13
+llama3.2:1b,5,The Little Prince,12-13,18+,12-13
+llama3.2:1b,5,The Little Prince,12-13,18+,12-13
+llama3.2:1b,5,The Little Prince,12-13,18+,12-13
+mistral:7b,0,The Little Prince,"Based on the normalized emotion vector of the book description, ""The Little Prince"", it appears that the book would be most suitable for the ""14-15"" age group. This is because the emotion vector closely matches the preferences of this age group in terms of Anticipation (0.1571), Joy (0.1532), Sadness (0.1146), and Trust (0.2302). However, it's important to note that literature can be enjoyed by various age groups, and the final decision should also consider individual preferences and maturity levels.",18+,14-15
+mistral:7b,0,The Little Prince,"Based on the emotion vector analysis of the book description for ""The Little Prince"", it appears that the book description aligns most closely with the emotion vectors preferred by the 14-15 age group. However, it's important to note that the actual experience of reading the book and individual preferences may vary. Therefore, I would recommend ""The Little Prince"" to teenagers aged 14-17 as it seems to resonate with a wide range of emotions that are generally appreciated by this age group.",18+,14-15
+mistral:7b,0,The Little Prince,"The book ""The Little Prince"" would be most suited for the age group of 12-13 based on the emotion vector analysis of the provided description. This is because the normalized emotion vector of the description falls within the range of the average emotion vectors of books that the 12-13 age group enjoys, particularly in the emotions of 'Joy', 'Anticipation', and 'Sadness'.",18+,12-13
+mistral:7b,0,The Little Prince,"Based on the normalized emotion vector of the book description for ""The Little Prince"", it seems to align best with the age groups of 12-13 and 14-15. The emotions expressed in the description, such as joy, anticipation, fear, sadness, and trust, are present in all four age group's average emotion vectors, but the levels are particularly high for the younger age groups (12-13 and 14-15). Additionally, the theme of the book, which involves a downed pilot encountering a mysterious little prince, is more likely to appeal to younger teenagers. However, as always, individual preferences may vary, so it's important to consider the specific tastes and reading levels of the intended reader when making recommendations.",18+,12-13
+mistral:7b,0,The Little Prince,"Based on the emotion vector analysis of the book description for ""The Little Prince,"" it appears that the book resonates strongly with the emotions of 'Joy', 'Anticipation', and 'Trust', which are highest among all emotions in the normalized emotion vector. These emotions are most preferred by the age group of 12-13, 14-15, and 16-17 according to the provided data. However, it's important to note that books can appeal to readers across various age groups, and individual preferences might differ. Therefore, ""The Little Prince"" could potentially be enjoyed by any of the mentioned age groups, but it seems particularly suited for younger teenagers (12-17).",18+,12-13
+mistral:7b,1,The Little Prince,12-13,18+,12-13
+mistral:7b,1,The Little Prince,"The recommended age group for ""The Little Prince"" would be 12-13. Despite some mature themes and complex language, the story's emphasis on imagination, friendship, and morality appeals to a wide range of ages. However, its normalized emotion vector, which includes high levels of Joy, Sadness, Anticipation, and Trust, aligns closely with the preferences of younger teenagers (12-13).",18+,12-13
+mistral:7b,1,The Little Prince,"The recommended age group for ""The Little Prince"" would be 12-13. Despite the complex themes and language, the book's emphasis on imagination, wonder, friendship, and morality aligns more closely with the emotional preferences of younger teenagers as compared to older age groups.",18+,12-13
+mistral:7b,1,The Little Prince,"""12-13""",18+,12-13
+mistral:7b,1,The Little Prince,"Based on the normalized emotion vector of the description for ""The Little Prince"", I would recommend this book to the age group of 12-13. The emotion vectors suggest a mix of emotions that are generally appreciated by younger teenagers, such as Joy, Anticipation, and Sadness, with relatively low levels of Anger, Disgust, Fear, Surprise, and Trust. This aligns well with the typical preferences of 12-13 year olds. However, it's important to note that individual preferences may vary, so it's always a good idea to ask for specific recommendations based on a teenager's interests.",18+,12-13
+mistral:7b,3,The Little Prince,"The age group I would recommend ""The Little Prince"" to is ""14-15"".",18+,14-15
+mistral:7b,3,The Little Prince,12-13,18+,12-13
+mistral:7b,3,The Little Prince,12-13,18+,12-13
+mistral:7b,3,The Little Prince,"The recommended age group for ""The Little Prince"" would be 14-15.",18+,14-15
+mistral:7b,3,The Little Prince,"Based on the provided book description and its normalized emotion vector, I would recommend ""The Little Prince"" to the age group of 14-15. The normalized emotion vector shows a relatively high level of 'Joy' (0.1532), 'Anticipation' (0.1571), and 'Sadness' (0.1146) which aligns more with the preferences of the 14-15 age group compared to other age groups.",18+,14-15
+mistral:7b,5,The Little Prince,Answer: 12-13,18+,12-13
+mistral:7b,5,The Little Prince,12-13,18+,12-13
+mistral:7b,5,The Little Prince,"Based on the provided normalized emotion vector, the book ""The Little Prince"" would be recommended for the age group of 12-13.",18+,12-13
+mistral:7b,5,The Little Prince,Answer: 12-13,18+,12-13
+mistral:7b,5,The Little Prince,"Based on the normalized emotion vector of the description for ""The Little Prince"", it appears to be most suitable for the age group of ""14-15"". However, it's important to note that this book is widely appreciated by people of all ages due to its universal themes and timeless storytelling.",18+,14-15
+gemma3:12b,0,The Little Prince,16-17,18+,16-17
+gemma3:12b,0,The Little Prince,16-17,18+,16-17
+gemma3:12b,0,The Little Prince,16-17,18+,16-17
+gemma3:12b,0,The Little Prince,16-17,18+,16-17
+gemma3:12b,0,The Little Prince,16-17,18+,16-17
+gemma3:12b,1,The Little Prince,18+,18+,18+
+gemma3:12b,1,The Little Prince,18+,18+,18+
+gemma3:12b,1,The Little Prince,18+,18+,18+
+gemma3:12b,1,The Little Prince,18+,18+,18+
+gemma3:12b,1,The Little Prince,18+,18+,18+
+gemma3:12b,3,The Little Prince,12-13,18+,12-13
+gemma3:12b,3,The Little Prince,12-13,18+,12-13
+gemma3:12b,3,The Little Prince,12-13,18+,12-13
+gemma3:12b,3,The Little Prince,12-13,18+,12-13
+gemma3:12b,3,The Little Prince,12-13,18+,12-13
+gemma3:12b,5,The Little Prince,12-13,18+,12-13
+gemma3:12b,5,The Little Prince,12-13,18+,12-13
+gemma3:12b,5,The Little Prince,12-13,18+,12-13
+gemma3:12b,5,The Little Prince,12-13,18+,12-13
+gemma3:12b,5,The Little Prince,12-13,18+,12-13
+llama3.2:1b,0,The Bluest Eye,"The Bluest Eye falls into the ""14-15"" age group's preferred emotion vectors.",16-17,14-15
+llama3.2:1b,0,The Bluest Eye,"""16-17"": {'Anger': 7.961, 'Anticipation': 12.758, 'Disgust': 4.934, 'Fear': 13.352, 'Joy': 15.926, 'Sadness': 9.764, 'Surprise': 5.474, 'Trust': 16.686}",16-17,16-17
+llama3.2:1b,0,The Bluest Eye,"The age group that would recommend ""The Bluest Eye"" is ""16-17"".",16-17,16-17
+llama3.2:1b,0,The Bluest Eye,"The age group that would recommend ""The Bluest Eye"" is ""16-17"".",16-17,16-17
+llama3.2:1b,0,The Bluest Eye,"The age group that would recommend ""The Bluest Eye"" is ""16-17"".",16-17,16-17
+llama3.2:1b,1,The Bluest Eye,The Bluest Eye would be recommended for teenagers in the 16-17 age group.,16-17,16-17
+llama3.2:1b,1,The Bluest Eye,"The Bluest Eye would be recommended for the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,1,The Bluest Eye,16-17,16-17,16-17
+llama3.2:1b,1,The Bluest Eye,16-17.,16-17,16-17
+llama3.2:1b,1,The Bluest Eye,16-17.,16-17,16-17
+llama3.2:1b,3,The Bluest Eye,18+,16-17,18+
+llama3.2:1b,3,The Bluest Eye,16-17,16-17,16-17
+llama3.2:1b,3,The Bluest Eye,16-17.,16-17,16-17
+llama3.2:1b,3,The Bluest Eye,18+,16-17,18+
+llama3.2:1b,3,The Bluest Eye,"The Bluest Eye would be recommended for teenagers in the ""16-17"" age group based on its sophisticated language and narrative structure, as well as its exploration of complex themes such as racial hatred, historical memory, and the destructive power of beauty myths.",16-17,16-17
+llama3.2:1b,5,The Bluest Eye,18+,16-17,18+
+llama3.2:1b,5,The Bluest Eye,18+,16-17,18+
+llama3.2:1b,5,The Bluest Eye,18+,16-17,18+
+llama3.2:1b,5,The Bluest Eye,16-17,16-17,16-17
+llama3.2:1b,5,The Bluest Eye,18+,16-17,18+
+mistral:7b,0,The Bluest Eye,"Based on the normalized emotion vector of the book description for ""The Bluest Eye"", it seems to align most closely with the emotion preferences of the 16-17 age group. This is due to its high scores in Anger, Anticipation, Disgust, Fear, Joy, Sadness, and Trust, which are similar to or greater than the average scores for that age group in all categories except Surprise, where it has a lower score compared to the 16-17 age group. However, it's important to note that book preference can vary greatly among individuals, so this recommendation is based on the average emotion preferences of the age groups. It's always a good idea to consider other factors such as maturity level and personal interest when recommending books to teenagers.",16-17,16-17
+mistral:7b,0,The Bluest Eye,"Based on the emotion vector of the book description for ""The Bluest Eye"", it appears to have a higher preference for emotions that are more relatable to older teenagers, such as Sadness, Fear, and Disgust. Therefore, I would recommend this book to the 16-17 age group. However, it's important to note that the emotional impact of a book can vary greatly among readers, regardless of their age. Thus, it's always a good idea for parents or educators to preview books before recommending them to ensure they are appropriate for each individual reader.",16-17,16-17
+mistral:7b,0,The Bluest Eye,"Based on the normalized emotion vector of the book description, ""The Bluest Eye"" appears to align most closely with the 16-17 age group in terms of emotions expressed. This is due to its higher values for Anger (0.1061), Anticipation (0.1345), Disgust (0.1014), Fear (0.1275), Joy (0.1604), Sadness (0.1278), and Trust (0.2034) compared to the other age groups. However, it's important to note that the emotions in a book description may not always perfectly match the emotional preferences of readers within each age group, as personal taste can vary significantly. It would be best to consult with a teenager or educator who is familiar with Toni Morrison's work and the specific themes discussed in ""The Bluest Eye"" to make an informed recommendation.",16-17,16-17
+mistral:7b,0,The Bluest Eye,"Based on the emotion vector analysis of the book description for ""The Bluest Eye"", it appears that the book's description leans more towards emotions such as Sadness (0.1278), Fear (0.1275), and Disgust (0.1014). These are emotions that resonate more with older teenagers, particularly the 16-17 age group. However, it's important to note that the emotional impact of a book can vary greatly among readers, regardless of their age. Therefore, I would suggest ""The Bluest Eye"" for mature readers aged 16 and above.",16-17,16-17
+mistral:7b,0,The Bluest Eye,"The book ""The Bluest Eye"" can be recommended to teenagers aged 14-17 based on the normalized emotion vector of its description, which aligns closely with the emotion vectors that this age group tends to prefer in their book descriptions.",16-17,14-17
+mistral:7b,1,The Bluest Eye,14-15,16-17,14-15
+mistral:7b,1,The Bluest Eye,"The recommended age group for ""The Bluest Eye"" would be 18+. The book's description has a higher level of Anticipation, Disgust, Fear, Joy, Sadness, and Trust compared to the younger age groups, indicating it may contain mature themes and complex language that are better suited for older readers.",16-17,18+
+mistral:7b,1,The Bluest Eye,"""18+""",16-17,18+
+mistral:7b,1,The Bluest Eye,"The age group I would recommend for ""The Bluest Eye"" is 18+.",16-17,18+
+mistral:7b,1,The Bluest Eye,"Based on the normalized emotion vector of the book description for ""The Bluest Eye"", it appears that the book has a high level of Sadness (0.1278174316531789), Joy (0.16040842811493775) and Fear (0.12751135542795577). The age group that tends to enjoy books with higher levels of these emotions are the older teenagers, specifically the ""16-17"" age group.",16-17,16-17
+mistral:7b,3,The Bluest Eye,"Based on the provided emotion vector of the book description for ""The Bluest Eye"", the recommended age group would be ""16-17"".",16-17,16-17
+mistral:7b,3,The Bluest Eye,"Based on the emotion vector analysis, the recommended age group for ""The Bluest Eye"" would be 16-17. The high values of 'Anger' and 'Disgust' indicate a more mature subject matter, while the presence of 'Anticipation', 'Fear', and 'Joy' suggest an engaging storyline that appeals to older teenagers. However, it's essential to consider context and individual preferences when making recommendations, as some younger readers may also find interest in this novel due to its powerful themes and literary merit.",16-17,16-17
+mistral:7b,3,The Bluest Eye,16-17,16-17,16-17
+mistral:7b,3,The Bluest Eye,"The recommended age group for ""The Bluest Eye"" would be 16-17 based on its normalized emotion vector.",16-17,16-17
+mistral:7b,3,The Bluest Eye,"The book ""The Bluest Eye"" would be recommended for the ""16-17"" age group.",16-17,16-17
+mistral:7b,5,The Bluest Eye,16-17,16-17,16-17
+mistral:7b,5,The Bluest Eye,"Based on the normalized emotion vector of the description provided for ""The Bluest Eye"", I would recommend this book to the age group of 16-17. The higher values in the 'Anger', 'Fear', 'Sadness', and 'Joy' categories suggest a more mature and thought-provoking read that aligns with the preferences of older teenagers.",16-17,16-17
+mistral:7b,5,The Bluest Eye,"The answer is 16-17. The normalized emotion vector for the book description of ""The Bluest Eye"" has a higher average score for Anticipation, Fear, Joy, Sadness, and Trust, which are emotions preferred by older teenagers in the 16-17 age group, according to the provided emotion vectors.",16-17,16-17
+mistral:7b,5,The Bluest Eye,16-17,16-17,16-17
+mistral:7b,5,The Bluest Eye,"Based on the normalized emotion vector of the book description for ""The Bluest Eye"", I would recommend this book to the age group of ""16-17"". The high values in 'Fear' and 'Sadness', along with a relatively lower 'Anticipation' score, align with the preferences of older teenagers.",16-17,16-17
+gemma3:12b,0,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,0,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,0,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,0,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,0,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,1,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,1,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,1,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,1,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,1,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,3,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,3,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,3,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,3,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,3,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,5,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,5,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,5,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,5,The Bluest Eye,16-17,16-17,16-17
+gemma3:12b,5,The Bluest Eye,16-17,16-17,16-17
+llama3.2:1b,0,Love in the Driest Season,"Based on the emotion vectors provided for each age group, it seems that ""Love in the Driest Season"" would be most appealing to teenagers aged 14-15 and 16-17. The emotional context of the description, such as the anticipation and surprise at meeting a critically ill infant, matches well with the emotions typically experienced by this age group. Additionally, the themes of love, determination, and overcoming adversity are likely to resonate with pre-teens who are often navigating complex social relationships and trying to make sense of their place in the world.",16-17,14-15
+llama3.2:1b,0,Love in the Driest Season,"Based on the emotion vectors provided, I would recommend the book to teenagers in the ""14-15"" age group, as their normalized emotion vector shows a strong anticipation for the story and a sense of excitement (e.g., 'Anticipation: 10.844') that is similar to what younger teenagers might experience while reading about new adventures or relatable situations.",16-17,14-15
+llama3.2:1b,0,Love in the Driest Season,"Based on the emotion vector of the book description, I would recommend ""Love in the Driest Season"" to the ""16-17"" age group.",16-17,16-17
+llama3.2:1b,0,Love in the Driest Season,"Based on the emotion vector of the book description, I would recommend ""Love in the Driest Season"" to teenagers in the ""16-17"" age group. The vectors suggest a gripping and emotional story that explores themes of love, family, adoption, and social norms, which are all relevant to this age group.",16-17,16-17
+llama3.2:1b,0,Love in the Driest Season,"Based on the emotion vector of the book description, I would recommend the ""18+"" age group for the book ""Love in the Driest Season"". The normalized emotion vector indicates a low level of disgust and high levels of joy, sadness, surprise, trust, and anticipation. These emotions suggest that the book is likely to be engaging, emotionally resonant, and possibly even uplifting.",16-17,18+
+llama3.2:1b,1,Love in the Driest Season,"Based on the emotion vectors provided for each age group, I would recommend the book ""Love in the Driest Season"" to an 18-year-old or older because their normalized emotion vector indicates a strong interest in emotional stories and relationships. The high levels of Joy, Sadness, Surprise, Trust, and Anticipation suggest that this age group enjoys reading about personal growth, family dynamics, and overcoming adversity with hope and optimism.",16-17,18+
+llama3.2:1b,1,Love in the Driest Season,"The normalized emotion vector of the description for ""Love in the Driest Season"" is {'Anger': 0.09460356709480962, 'Anticipation': 0.1324495730018087, 'Disgust': 0.04854957987041234, 'Fear': 0.18498294296769466, 'Joy': 0.15144126199143712, 'Sadness': 0.16137784188474485, 'Surprise': 0.03246559974357213, 'Trust': 0.19412963344552053}. 
+
+The age group that would likely enjoy this book the most is ""16-17"".",16-17,16-17
+llama3.2:1b,1,Love in the Driest Season,"The normalized emotion vector of the description for ""Love in the Driest Season"" indicates a sense of Sadness and Surprise. 
+
+Comparing this to the average emotion vectors provided for different age groups, it's clear that ""18+"" is likely the most suitable recommendation for the book. This age group tends to prefer stories about overcoming adversity and challenging social norms, which are reflected in the emotions indicated by the vector (Sadness and Surprise).",16-17,18+
+llama3.2:1b,1,Love in the Driest Season,"The normalized emotion vector of the description indicates that the book is emotionally resonant and potentially moving for adults. The emotions represented suggest a strong sense of empathy, compassion, and understanding, which may appeal to adult readers.",16-17,18+
+llama3.2:1b,1,Love in the Driest Season,"The emotion vector of the book description for ""Love in the Driest Season"" is similar to that of books preferred by teenagers in general, but slightly more intense. It lacks the ""Fear"" and ""Sadness"" emotions compared to other age groups.
+
+While it also lacks the higher intensity of ""Anger"", with lower values in comparison to those of other age groups (e.g., 0.09460356709480962 for Anger), its absence is somewhat compensated by an increase in the ""Joy"" and ""Surprise"" emotions, suggesting that this book may resonate with teenagers.",16-17,12-18
+llama3.2:1b,3,Love in the Driest Season,"Based on the emotion vectors provided for each age group, it appears that ""Love in the Driest Season"" would be most appealing to teenagers aged 12-13, as it deals with themes of love, family, and social responsibility, which are common interests among this age group. The normalized emotion vector also shows a strong sense of anticipation, joy, and trust, suggesting that this book may capture their imagination and emotions.",16-17,12-13
+llama3.2:1b,3,Love in the Driest Season,"Based on the emotion vectors provided, I would recommend the book ""Love in the Driest Season"" to the 12-13 year old age group. The normalized emotion vector suggests a strong sense of hope and determination, which are characteristic of this age group's emotional responses to life challenges.",16-17,12-13
+llama3.2:1b,3,Love in the Driest Season,"The age group that would most recommend the book ""Love in the Driest Season"" is the 12-13 age range.",16-17,12-13
+llama3.2:1b,3,Love in the Driest Season,"The book ""Love in the Driest Season"" would be recommended for adults aged 16 and above.",16-17,16-17
+llama3.2:1b,3,Love in the Driest Season,"The emotion vector of the book description suggests that the recommended age group for ""Love in the Driest Season"" is likely 16-17 years old.",16-17,16-17
+llama3.2:1b,5,Love in the Driest Season,18+,16-17,18+
+llama3.2:1b,5,Love in the Driest Season,16-17.,16-17,16-17
+llama3.2:1b,5,Love in the Driest Season,16-17,16-17,16-17
+llama3.2:1b,5,Love in the Driest Season,16-17.,16-17,16-17
+llama3.2:1b,5,Love in the Driest Season,16-17,16-17,16-17
+mistral:7b,0,Love in the Driest Season,"Based on the normalized emotion vector of the book description, it seems to align most closely with the emotion preferences of the ""16-17"" age group. The high scores in 'Fear', 'Sadness', and 'Joy' suggest a dramatic and emotional narrative that would likely appeal to this age group. However, it's important to note that personal taste can vary greatly among individuals, so this recommendation should be taken as a general guideline rather than a definitive one.",16-17,16-17
+mistral:7b,0,Love in the Driest Season,"Based on the normalized emotion vector of the book description, ""Love in the Driest Season"", it appears to resonate most strongly with the emotions that teenagers aged 16-17 tend to prefer in their book descriptions. This is because the book description has a high score for 'Anticipation', 'Fear', 'Joy', 'Sadness' and 'Trust', which aligns closely with the emotion vectors of books that this age group enjoys.",16-17,16-17
+mistral:7b,0,Love in the Driest Season,"Based on the normalized emotion vector of the book description, it seems that ""Love in the Driest Season"" may be most appealing to the age groups of 14-15 and 16-17, as their preferred emotion vectors for books contain higher values for Anticipation, Fear, Joy, Sadness, and Trust compared to other age groups. However, it's important to note that the interpretation of emotions in a book can be subjective and vary from reader to reader. Therefore, I would recommend considering this recommendation alongside other factors such as reading level and personal preferences when deciding which age group might enjoy ""Love in the Driest Season"" the most.",16-17,14-15
+mistral:7b,0,Love in the Driest Season,"Based on the normalized emotion vector of the book description, it seems to align most closely with the books enjoyed by the 16-17 and 18+ age groups. However, due to the sensitive nature of the topics discussed (war, terrorism, disease, and adoption), it might be more suitable for older teenagers (16-17) to read this book. Parental guidance or teacher recommendations would be advisable to ensure the material is appropriate for the individual reader.",16-17,16-17
+mistral:7b,0,Love in the Driest Season,"The book ""Love in the Driest Season"" is most closely aligned with the emotion vectors of books enjoyed by the ""16-17"" age group, as it has high scores for 'Anticipation', 'Fear', 'Joy', 'Sadness', and 'Trust'. However, it also shares similarities with the ""14-15"" and ""18+"" age groups, particularly in terms of 'Anger' and 'Disgust'. Therefore, it could potentially be enjoyed by any of these three age groups.",16-17,16-17
+mistral:7b,1,Love in the Driest Season,"Based on the normalized emotion vector of the book description for ""Love in the Driest Season"", it appears to have a higher emphasis on Sadness and Fear compared to other age groups, but closer to the 16-17 age group. However, it also has a significant amount of Joy and Anticipation. Given the complex emotional landscape of the book, I would recommend it for the 14-15 or 16-17 age groups, as they may be able to engage with and understand its depth.",16-17,16-17
+mistral:7b,1,Love in the Driest Season,"Based on the normalized emotion vector of ""Love in the Driest Season"", the book appears to have a higher score for Anticipation, Joy, Fear, and Sadness compared to the other age groups. However, it also has a relatively lower score for Anger and Disgust, which are emotions more preferred by older teenagers. Therefore, I would recommend this book to the 14-15 age group.",16-17,14-15
+mistral:7b,1,Love in the Driest Season,14-15,16-17,14-15
+mistral:7b,1,Love in the Driest Season,14-15,16-17,14-15
+mistral:7b,1,Love in the Driest Season,14-15,16-17,14-15
+mistral:7b,3,Love in the Driest Season,Answer: 18+,16-17,18+
+mistral:7b,3,Love in the Driest Season,14-15,16-17,14-15
+mistral:7b,3,Love in the Driest Season,18+,16-17,18+
+mistral:7b,3,Love in the Driest Season,"Based on the emotion vector provided for the book description ""Love in the Driest Season"", the recommended age group would be: ""14-15""",16-17,14-15
+mistral:7b,3,Love in the Driest Season,"Based on the emotion vector provided for the book ""Love in the Driest Season"", it appears to have a higher score in Sadness (0.16137784188474485) and Fear (0.18498294296769466) compared to the other emotions, which suggests that the book may have a more emotional and dramatic tone. This aligns with the ""18+"" age group's preference for books with higher levels of Sadness and Fear, as indicated in the emotion vectors provided earlier. Therefore, I would recommend the book for teenagers aged 18+.",16-17,18+
+mistral:7b,5,Love in the Driest Season,16-17,16-17,16-17
+mistral:7b,5,Love in the Driest Season,14-15,16-17,14-15
+mistral:7b,5,Love in the Driest Season,14-15,16-17,14-15
+mistral:7b,5,Love in the Driest Season,"Based on the normalized emotion vector of the description for ""Love in the Driest Season"", it would be recommended for the ""14-15"" age group.",16-17,14-15
+mistral:7b,5,Love in the Driest Season,"The recommended age group for ""Love in the Driest Season"" is 14-15 based on its normalized emotion vector.",16-17,14-15
+gemma3:12b,0,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,0,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,0,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,0,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,0,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,1,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,1,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,1,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,1,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,1,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,3,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,3,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,3,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,3,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,3,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,5,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,5,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,5,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,5,Love in the Driest Season,16-17,16-17,16-17
+gemma3:12b,5,Love in the Driest Season,16-17,16-17,16-17
+llama3.2:1b,0,"Rainbow Six (John Clark, #2)","The emotion vector of the description suggests that the book would appeal most to teenagers in the ""14-15"" age group due to its themes of action, technology, and morality.",18+,14-15
+llama3.2:1b,0,"Rainbow Six (John Clark, #2)","The recommended age group for the book description is ""16-17"".",18+,16-17
+llama3.2:1b,0,"Rainbow Six (John Clark, #2)","The emotion vector of the description suggests that the book would appeal to readers who enjoy action, suspense, and complex characters, particularly those in their late teens or early twenties. Given this, I would recommend the book ""Rainbow Six (John Clark, #2)"" to teenagers aged 16-17.",18+,16-17
+llama3.2:1b,0,"Rainbow Six (John Clark, #2)","The recommended age group for ""Rainbow Six (John Clark, #2)"" is likely ""16-17"".",18+,16-17
+llama3.2:1b,0,"Rainbow Six (John Clark, #2)","Based on the emotion vectors provided, I would recommend the book ""Rainbow Six (John Clark, #2)"" to teenagers in the ""14-15"" age group.",18+,14-15
+llama3.2:1b,1,"Rainbow Six (John Clark, #2)",16-17.,18+,16-17
+llama3.2:1b,1,"Rainbow Six (John Clark, #2)",16-17.,18+,16-17
+llama3.2:1b,1,"Rainbow Six (John Clark, #2)",16-17.,18+,16-17
+llama3.2:1b,1,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+llama3.2:1b,1,"Rainbow Six (John Clark, #2)",16-17.,18+,16-17
+llama3.2:1b,3,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+llama3.2:1b,3,"Rainbow Six (John Clark, #2)",16-17.,18+,16-17
+llama3.2:1b,3,"Rainbow Six (John Clark, #2)",18+,18+,18+
+llama3.2:1b,3,"Rainbow Six (John Clark, #2)",16-17.,18+,16-17
+llama3.2:1b,3,"Rainbow Six (John Clark, #2)",16-17.,18+,16-17
+llama3.2:1b,5,"Rainbow Six (John Clark, #2)",16-17.,18+,16-17
+llama3.2:1b,5,"Rainbow Six (John Clark, #2)",12-13,18+,12-13
+llama3.2:1b,5,"Rainbow Six (John Clark, #2)",12-13.,18+,12-13
+llama3.2:1b,5,"Rainbow Six (John Clark, #2)","The age group that would most likely recommend ""Rainbow Six"" is 16-17 years old.",18+,16-17
+llama3.2:1b,5,"Rainbow Six (John Clark, #2)",12-13.,18+,12-13
+mistral:7b,0,"Rainbow Six (John Clark, #2)","Based on the normalized emotion vector of the book description for ""Rainbow Six (John Clark, #2)"", it seems to align most closely with the emotions preferred by the 16-17 age group, given its higher scores in 'Anticipation', 'Fear', 'Joy', and 'Trust'. However, it's essential to remember that individual preferences can vary significantly within each age group. Therefore, it would be best if you encouraged potential readers to sample the book and decide based on their personal preferences.",18+,16-17
+mistral:7b,0,"Rainbow Six (John Clark, #2)","Based on the normalized emotion vector of the book description, it seems that ""Rainbow Six (John Clark, #2)"" would be most appealing to teenagers aged 16-17, as their preference vector has the highest similarity to the given vector. The high levels of Anticipation, Fear, and Joy, along with the emphasis on action and violence, align well with this age group's preferences. However, it is essential to consider that individual tastes may vary, and some teenagers might find enjoyment in books from other age groups as well.",18+,16-17
+mistral:7b,0,"Rainbow Six (John Clark, #2)","Based on the emotion vector analysis of the book description for ""Rainbow Six (John Clark, #2)"", it seems to have a higher score in Anger, Anticipation, Fear, Joy, and Trust, which aligns most closely with the preferences of teenagers aged 16-17. However, it's important to note that this is just an estimate based on the emotion vectors and not a definitive recommendation. The actual appeal of the book may vary depending on individual readers' tastes and preferences.",18+,16-17
+mistral:7b,0,"Rainbow Six (John Clark, #2)","Based on the normalized emotion vector of the book description for ""Rainbow Six (John Clark, #2)"", the book seems to have a higher preference towards the emotions 'Trust', 'Anticipation', and 'Fear' which are more dominant in older teenagers and adults. Therefore, I would recommend this book to the age group of 14-18+.",18+,14-18
+mistral:7b,0,"Rainbow Six (John Clark, #2)","Based on the normalized emotion vector of the book description, the recommended age group for ""Rainbow Six (John Clark, #2)"" would be the ""16-17"" age group as its emotions align best with this age group's preference in book descriptions.",18+,16-17
+mistral:7b,1,"Rainbow Six (John Clark, #2)","""16-17""",18+,16-17
+mistral:7b,1,"Rainbow Six (John Clark, #2)","""16-17""",18+,16-17
+mistral:7b,1,"Rainbow Six (John Clark, #2)","Based on the normalized emotion vector of the book description for ""Rainbow Six (John Clark, #2)"", it seems to align more closely with the emotional preferences of the 16-17 age group. However, it's important to note that this is not a definitive recommendation as individual preferences can vary greatly within each age group. Always consider additional factors like content appropriateness and personal reading level when recommending books to young readers.",18+,16-17
+mistral:7b,1,"Rainbow Six (John Clark, #2)","""16-17""",18+,16-17
+mistral:7b,1,"Rainbow Six (John Clark, #2)","""16-17""",18+,16-17
+mistral:7b,3,"Rainbow Six (John Clark, #2)","Based on the normalized emotion vector of the description for ""Rainbow Six (John Clark, #2)"", it seems to align most closely with the 16-17 age group. The high scores in Anticipation, Fear, and Joy, along with a moderate level of Anger and Trust, suggest that this book could be engaging and exciting for older teenagers. However, as always, individual preferences may vary, so it's essential to consider the specific interests and reading levels of the intended reader when making recommendations.",18+,16-17
+mistral:7b,3,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+mistral:7b,3,"Rainbow Six (John Clark, #2)","Based on the normalized emotion vector of the description for ""Rainbow Six (John Clark, #2)"", I would recommend this book to the age group ""16-17"".",18+,16-17
+mistral:7b,3,"Rainbow Six (John Clark, #2)","The age group I would recommend for ""Rainbow Six (John Clark, #2)"" is 16-17. This recommendation is based on the high values of Anticipation and Joy in the emotion vector, which aligns with the level of excitement and action that this book description suggests. Additionally, the presence of Fear and Anger indicates a thrilling and suspenseful plot, which appeals to older teenagers.",18+,16-17
+mistral:7b,3,"Rainbow Six (John Clark, #2)",Answer: 16-17,18+,16-17
+mistral:7b,5,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+mistral:7b,5,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+mistral:7b,5,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+mistral:7b,5,"Rainbow Six (John Clark, #2)","Based on the normalized emotion vector of the book description for ""Rainbow Six (John Clark, #2)"", the recommended age group would be 16-17.",18+,16-17
+mistral:7b,5,"Rainbow Six (John Clark, #2)","Based on the emotion vector analysis, I would recommend the book ""Rainbow Six (John Clark, #2)"" to the age group of 16-17.",18+,16-17
+gemma3:12b,0,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,0,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,0,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,0,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,0,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,1,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,1,"Rainbow Six (John Clark, #2)",18+,18+,18+
+gemma3:12b,1,"Rainbow Six (John Clark, #2)",18+,18+,18+
+gemma3:12b,1,"Rainbow Six (John Clark, #2)",18+,18+,18+
+gemma3:12b,1,"Rainbow Six (John Clark, #2)",18+,18+,18+
+gemma3:12b,3,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,3,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,3,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,3,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,3,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,5,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,5,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,5,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,5,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+gemma3:12b,5,"Rainbow Six (John Clark, #2)",16-17,18+,16-17
+llama3.2:1b,0,The Survivors Club,"The age group that would recommend ""The Survivors Club"" is ""16-17"".",16-17,16-17
+llama3.2:1b,0,The Survivors Club,"Based on the emotion vectors provided for each age group, it seems that the book ""The Survivors Club"" would be most appealing to teenagers in their 16-17 years old age range. The normalized emotion vector of the description indicates a sense of anticipation (0.10499454124246647) and excitement (0.11008938160709374), which are typical emotions for this age group. Additionally, the tone of the book description suggests that it may deal with themes of revenge, survival, and suspense, which are common in young adult fiction.",16-17,16-17
+llama3.2:1b,0,The Survivors Club,"Based on the emotion vector of the book description, I would recommend ""The Survivors Club"" to teenagers in the age range of ""16-17"". The normalized emotion vector suggests that this age group will likely be drawn to the thriller aspect of the story, with a focus on suspense, action, and possibly some elements of revenge.",16-17,16-17
+llama3.2:1b,0,The Survivors Club,"Based on the emotion vector of the book description, I would recommend ""The Survivors Club"" to teenagers in the age group of ""14-15"". The normalized emotion vector indicates a sense of anticipation and excitement from Jillian Hayes and Detective Griffin, suggesting that they are both engaged in a thrilling investigation. Additionally, there is a sense of danger and urgency, which may appeal to this age group's natural curiosity and sense of adventure.",16-17,14-15
+llama3.2:1b,0,The Survivors Club,"Based on the emotion vector of the book description, I would recommend the book to teenagers in the ""14-15"" age group. The normalized emotion vector suggests that this age group is likely to enjoy books that contain a mix of anger (e.g., frustration with the system), anticipation (e.g., curiosity about the plot and its twists), disgust (e.g., morally repulsive elements, but also thrilling or shocking moments), fear (e.g., suspenseful scenes, danger), joy (e.g., emotional connections to characters or unexpected happy outcomes), sadness (e.g., character's emotional pain), surprise (e.g., unexpected revelations or plot twists), and trust (e.g., the character's desire for closure or justice).
+
+For this age group, books that blend action, suspense, and complex moral themes may appeal. They are also likely to enjoy characters with strong motivations, relationships, and conflicts, which can make for engaging reading experiences.",16-17,14-15
+llama3.2:1b,1,The Survivors Club,"The age group that would recommend ""The Survivors Club"" is 16-17.",16-17,16-17
+llama3.2:1b,1,The Survivors Club,"Based on the normalized emotion vectors of the book descriptions provided, it seems that ""The Survivors Club"" would be most appealing to the 16-17 age group as they tend to prefer books with strong emotions such as anger, fear, and joy.",16-17,16-17
+llama3.2:1b,1,The Survivors Club,"Based on the emotion vectors provided for each book description and comparing them to the preferred age groups' emotional tendencies, I would recommend ""The Survivors Club"" to teenagers in the 16-17 age group. The normalized emotion vector of the description is closer to that of the 16-17 age group, with higher values for 'Fear', 'Anger', and 'Sadness'.",16-17,16-17
+llama3.2:1b,1,The Survivors Club,"Based on the emotion vectors of the book descriptions provided, I would recommend ""The Survivors Club"" to teenagers in the 16-17 age group.",16-17,16-17
+llama3.2:1b,1,The Survivors Club,"""16-17""",16-17,16-17
+llama3.2:1b,3,The Survivors Club,16-17,16-17,16-17
+llama3.2:1b,3,The Survivors Club,12-13,16-17,12-13
+llama3.2:1b,3,The Survivors Club,16-17,16-17,16-17
+llama3.2:1b,3,The Survivors Club,16-17.,16-17,16-17
+llama3.2:1b,3,The Survivors Club,"The age group that would recommend the book ""The Survivors Club"" is 16-17.",16-17,16-17
+llama3.2:1b,5,The Survivors Club,16-17,16-17,16-17
+llama3.2:1b,5,The Survivors Club,16-17.,16-17,16-17
+llama3.2:1b,5,The Survivors Club,16-17,16-17,16-17
+llama3.2:1b,5,The Survivors Club,16-17.,16-17,16-17
+llama3.2:1b,5,The Survivors Club,16-17,16-17,16-17
+mistral:7b,0,The Survivors Club,"Based on the normalized emotion vector of the book description for ""The Survivors Club"", it seems to have a higher emphasis on 'Fear' (0.22269067928246183), 'Anticipation' (0.10499454124246647), and 'Disgust' (0.08726911230838874) compared to the average for all age groups. However, it also has a noticeable 'Sadness' component (0.14377390980179833). When comparing this vector to the provided emotion vectors of each age group, the description seems to align most closely with the 14-15 and 16-17 age groups, as they have higher averages for 'Fear', 'Anticipation', and 'Disgust'. Therefore, I would recommend ""The Survivors Club"" to teenagers aged 14-17.",16-17,14-15
+mistral:7b,0,The Survivors Club,"Based on the normalized emotion vector of the book description for ""The Survivors Club,"" it appears to have a high level of Fear (0.22269067928246183) and Anticipation (0.10499454124246647), which are emotions that are more preferred by the 14-15 age group according to the provided data. Therefore, I would recommend this book to teenagers aged 14-15.",16-17,14-15
+mistral:7b,0,The Survivors Club,"Based on the normalized emotion vector of the book description for ""The Survivors Club"", it aligns most closely with the emotion vectors preferred by the 14-15 and 16-17 age groups. However, it's important to note that the preferences of teenagers can vary greatly, and the final recommendation should take into account other factors such as reading level, themes, and personal interests. Therefore, I would recommend this book for both the 14-15 and 16-17 age groups but encourage careful consideration of each individual reader's suitability.",16-17,14-15
+mistral:7b,0,The Survivors Club,"The book ""The Survivors Club"" seems to have a higher emphasis on emotions such as Fear (0.22269067928246183) and Anticipation (0.10499454124246647), which are more preferred by the older age group of teenagers (16-17 and 18+). However, it also contains some elements of Sadness (0.14377390980179833) that might be appealing to the younger age groups as well. Therefore, I would recommend this book to both the 16-17 and 18+ age groups.",16-17,16-17
+mistral:7b,0,The Survivors Club,"Based on the normalized emotion vector of ""The Survivors Club"" description, it appears to have a higher Fear (0.22269067928246183) and Anticipation (0.10499454124246647) compared to the average of all age groups. However, it has lower Anger (0.18494980605877714), Sadness (0.14377390980179833), Joy (0.05654917763595858), Surprise (0.11008938160709374), and Trust (0.08968339206305533) scores compared to the average of all age groups except for the 12-13 age group.
+
+Given these findings, it seems that ""The Survivors Club"" could be most appealing to the 12-13 age group as its emotion profile is closest to their preference in book descriptions. However, it's essential to consider individual preferences and maturity levels when making reading recommendations for teenagers.",16-17,12-13
+mistral:7b,1,The Survivors Club,"""16-17""",16-17,16-17
+mistral:7b,1,The Survivors Club,14-15,16-17,14-15
+mistral:7b,1,The Survivors Club,"Based on the normalized emotion vector of the book description for ""The Survivors Club,"" I would recommend this book to the ""14-15"" age group. This recommendation is made because, although there is a significant level of fear (0.22269067928246183) which can be common in thriller genres, there are also high levels of anticipation (0.10499454124246647), disgust (0.08726911230838874), and anger (0.18494980605877714) which are emotions that the 14-15 age group tends to enjoy in their book descriptions, according to the provided emotion vectors.",16-17,14-15
+mistral:7b,1,The Survivors Club,14-15,16-17,14-15
+mistral:7b,1,The Survivors Club,"I would recommend the book ""The Survivors Club"" to the age group of 16-17 or 18+ due to the presence of high levels of 'Anger' (0.1849), 'Fear' (0.2227) and 'Sadness' (0.1438). These emotions are typically more relatable for older teenagers and adults, as they often involve complex themes and mature content. However, it is always essential to consider individual preferences when recommending books to readers.",16-17,16-17
+mistral:7b,3,The Survivors Club,Answer: 16-17,16-17,16-17
+mistral:7b,3,The Survivors Club,Answer: 16-17,16-17,16-17
+mistral:7b,3,The Survivors Club,"The normalized emotion vector for ""The Survivors Club"" is closest to the one of the ""16-17"" age group, but considering the mature themes and intense suspense, I would recommend this book to the ""18+"" age group.",16-17,16-17
+mistral:7b,3,The Survivors Club,16-17,16-17,16-17
+mistral:7b,3,The Survivors Club,Answer: 16-17,16-17,16-17
+mistral:7b,5,The Survivors Club,16-17,16-17,16-17
+mistral:7b,5,The Survivors Club,18+,16-17,18+
+mistral:7b,5,The Survivors Club,18+,16-17,18+
+mistral:7b,5,The Survivors Club,"Based on the emotion vector of the book description, I would recommend ""The Survivors Club"" for the age group of 16-17. The normalized emotion vector is as follows: {'Anger': 0.18494980605877714, 'Anticipation': 0.10499454124246647, 'Disgust': 0.08726911230838874, 'Fear': 0.22269067928246183, 'Joy': 0.05654917763595858, 'Sadness': 0.14377390980179833, 'Surprise': 0.11008938160709374, 'Trust': 0.08968339206305533}. The emotion vectors for the age group of 16-17 have a higher average in Anticipation, Fear, Sadness, and Surprise compared to other age groups. This book's description aligns well with these emotions, making it suitable for teenagers aged 16-17.",16-17,16-17
+mistral:7b,5,The Survivors Club,18+,16-17,18+
+gemma3:12b,0,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,0,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,0,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,0,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,0,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,1,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,1,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,1,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,1,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,1,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,3,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,3,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,3,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,3,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,3,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,5,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,5,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,5,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,5,The Survivors Club,16-17,16-17,16-17
+gemma3:12b,5,The Survivors Club,16-17,16-17,16-17
+llama3.2:1b,0,Still Me,"Based on the emotion vectors provided, it seems that ""Still Me"" would be most appealing to teenagers in the ""16-17"" age group. The description has a tone of optimism and determination, particularly when discussing Christopher Reeve's journey from paralysis to advocacy for spinal cord repair research. This suggests that this book may resonate with younger readers who are looking for inspiration and motivation, which is typical among this age group.",18+,16-17
+llama3.2:1b,0,Still Me,"""18+""",18+,18+
+llama3.2:1b,0,Still Me,"The emotion vector of the description is very similar to that of ""Still Me"" for the 16-17 year old demographic. The text expresses a sense of inspiration and hope, as well as a desire to challenge negative stereotypes. However, it also contains some anger and frustration, particularly towards societal pressures and expectations placed on individuals with disabilities.
+
+Therefore, I would recommend ""Still Me"" to the 16-17 year old age group.",18+,16-17
+llama3.2:1b,0,Still Me,"Based on the emotion vectors of the book description, I would recommend the book ""Still Me"" to the ""16-17"" age group.",18+,16-17
+llama3.2:1b,0,Still Me,"The age group that would recommend ""Still Me"" is ""16-17"".",18+,16-17
+llama3.2:1b,1,Still Me,12-13,18+,12-13
+llama3.2:1b,1,Still Me,12-13.,18+,12-13
+llama3.2:1b,1,Still Me,12-13,18+,12-13
+llama3.2:1b,1,Still Me,"The age group that would recommend ""Still Me"" is 16-17.",18+,16-17
+llama3.2:1b,1,Still Me,12-13,18+,12-13
+llama3.2:1b,3,Still Me,16-17,18+,16-17
+llama3.2:1b,3,Still Me,12-13,18+,12-13
+llama3.2:1b,3,Still Me,12-13,18+,12-13
+llama3.2:1b,3,Still Me,12-13.,18+,12-13
+llama3.2:1b,3,Still Me,12-13,18+,12-13
+llama3.2:1b,5,Still Me,16-17,18+,16-17
+llama3.2:1b,5,Still Me,12-13,18+,12-13
+llama3.2:1b,5,Still Me,18+,18+,18+
+llama3.2:1b,5,Still Me,12-13,18+,12-13
+llama3.2:1b,5,Still Me,18+,18+,18+
+mistral:7b,0,Still Me,"Based on the normalized emotion vector of the book description for ""Still Me"", it appears to have a higher emphasis on Anticipation, Fear, Joy, and Trust, with moderate levels of Sadness and Surprise, and relatively low levels of Anger and Disgust. This matches best with the 16-17 age group, as they tend to prefer books with higher levels of these emotions. However, it's important to note that individual preferences may vary, and the book might also appeal to older teenagers in the 14-15 or 18+ age groups.",18+,16-17
+mistral:7b,0,Still Me,"Based on the normalized emotion vector of the book description for ""Still Me,"" it appears to have a higher score in Anticipation (0.167), Joy (0.092), and Trust (0.251) compared to the average emotion vectors of all age groups provided. However, it has lower scores in Anger (0.081), Fear (0.155), Disgust (0.048), Surprise (0.073), and Sadness (0.133) compared to the ""12-13"" age group's average emotion vector, but slightly higher scores than the other age groups.
+
+Given these findings, I would recommend this book to the 12-13 age group as it seems to align better with their preferred emotions in book descriptions. However, individual preferences may vary, and it's always a good idea to ask for recommendations from librarians or teachers who are familiar with young readers' tastes.",18+,12-13
+mistral:7b,0,Still Me,"Based on the normalized emotion vector of the book description for ""Still Me"" and comparing it to the average emotion vectors of books that each age group enjoyed, the book seems most suitable for the 16-17 age group. This is because the emotion vector of the book description aligns best with the average emotion vector of the 16-17 age group in terms of Anger, Anticipation, Fear, Joy, Sadness, Surprise, and Trust.",18+,16-17
+mistral:7b,0,Still Me,"Based on the normalized emotion vector of the book description for ""Still Me"" and the provided age groups' average emotion vectors, the book seems to align most closely with the 16-17 age group. The high scores for 'Anticipation', 'Fear', 'Joy', 'Sadness', and 'Trust' suggest that this book might appeal to older teenagers in this range. However, it's essential to note that individual preferences can vary significantly among readers of any age, so it's always best to consult personal taste as well when recommending books.",18+,16-17
+mistral:7b,0,Still Me,"Based on the normalized emotion vector of the book description for ""Still Me"", it seems to have a higher score in anticipation, fear, and trust which aligns closely with the preferences of older teenagers (16-17 and 18+). However, the joy and sadness scores are relatively lower compared to the younger age groups. Therefore, I would recommend this book for readers aged 16-18.",18+,16-17
+mistral:7b,1,Still Me,"""18+""",18+,18+
+mistral:7b,1,Still Me,"Based on the normalized emotion vector of the book description for ""Still Me"", I would recommend this book to the ""18+"" age group. This recommendation is based on the high scores in Trust (0.2507) and Joy (0.0917), which are emotions that tend to be more appreciated by older teenagers and adults. The low levels of Anger, Fear, Disgust, and Sadness also suggest that this book might appeal to a broader audience, including the 18+ age group.",18+,18+
+mistral:7b,1,Still Me,"Based on the normalized emotion vector of the book description for ""Still Me"", I would recommend this book to the 18+ age group. The values for 'Anticipation' and 'Trust' are relatively high, while 'Anger', 'Disgust', 'Fear', 'Sadness', and 'Surprise' have lower values. This suggests that the description appeals more to older teenagers or adults due to its inspirational and hopeful tone.",18+,18+
+mistral:7b,1,Still Me,18+,18+,18+
+mistral:7b,1,Still Me,"Based on the emotion vector of ""Still Me"", it appears to resonate more with the older teenagers and adults. The normalized values for Anticipation, Fear, Joy, Sadness, and Trust are relatively high, which aligns more with the 16-17 and 18+ age groups. Therefore, I would recommend this book to either the 16-17 or 18+ age group.",18+,16-17
+mistral:7b,3,Still Me,Answer: 18+,18+,18+
+mistral:7b,3,Still Me,18+,18+,18+
+mistral:7b,3,Still Me,18+,18+,18+
+mistral:7b,3,Still Me,"The recommended age group for the book ""Still Me"" is 18+.",18+,18+
+mistral:7b,3,Still Me,18+,18+,18+
+mistral:7b,5,Still Me,18+,18+,18+
+mistral:7b,5,Still Me,"Based on the normalized emotion vector of the book description for ""Still Me"", I would recommend it for the age group of 18+.",18+,18+
+mistral:7b,5,Still Me,"The book ""Still Me"" would be most suitable for the 16-17 age group.",18+,16-17
+mistral:7b,5,Still Me,18+,18+,18+
+mistral:7b,5,Still Me,18+,18+,18+
+gemma3:12b,0,Still Me,16-17,18+,16-17
+gemma3:12b,0,Still Me,16-17,18+,16-17
+gemma3:12b,0,Still Me,16-17,18+,16-17
+gemma3:12b,0,Still Me,16-17,18+,16-17
+gemma3:12b,0,Still Me,16-17,18+,16-17
+gemma3:12b,1,Still Me,18+,18+,18+
+gemma3:12b,1,Still Me,18+,18+,18+
+gemma3:12b,1,Still Me,18+,18+,18+
+gemma3:12b,1,Still Me,18+,18+,18+
+gemma3:12b,1,Still Me,18+,18+,18+
+gemma3:12b,3,Still Me,18+,18+,18+
+gemma3:12b,3,Still Me,18+,18+,18+
+gemma3:12b,3,Still Me,18+,18+,18+
+gemma3:12b,3,Still Me,18+,18+,18+
+gemma3:12b,3,Still Me,18+,18+,18+
+gemma3:12b,5,Still Me,16-17,18+,16-17
+gemma3:12b,5,Still Me,16-17,18+,16-17
+gemma3:12b,5,Still Me,16-17,18+,16-17
+gemma3:12b,5,Still Me,16-17,18+,16-17
+gemma3:12b,5,Still Me,16-17,18+,16-17
+llama3.2:1b,0,Rise to Rebellion,"Based on the normalized emotion vector of the book description, I would recommend ""Rise to Rebellion"" to teenagers in the age group of ""16-17"". This age group seems to be particularly interested in historical events and stories about the American Revolution. The vivid account of the Boston Tea Party, battles of Concord and Bunker Hill, and the characters from the Founding Family are all likely to captivate them.",16-17,16-17
+llama3.2:1b,0,Rise to Rebellion,"Based on the emotion vectors provided for each age group, I would recommend ""Rise to Rebellion"" to teenagers in the ""14-15"" age group. The normalized emotion vector indicates that this age group is most likely drawn to emotions such as anticipation (0.11061553709969582), excitement or surprise (0.06440753272497352), and a sense of discovery or revelation, which are all present in the description of ""Rise to Rebellion"".",16-17,14-15
+llama3.2:1b,0,Rise to Rebellion,"Based on the emotion vectors provided, I would recommend the book ""Rise to Rebellion"" to teenagers in the ""14-15"" age group. The normalized emotion vector suggests that this age group is leaning towards a positive emotional response (Joy and Surprise), but also shows signs of Disgust and Sadness.",16-17,14-15
+llama3.2:1b,0,Rise to Rebellion,"The emotion vector of the book description closely matches the ""16-17"" age group's preferred emotions. The descriptions of characters like John Adams, Ben Franklin, and Thomas Gage evoke strong positive emotions such as ""Anger"", ""Joy"", and ""Trust"". This aligns with the emotional intensity and historical significance often associated with this age group.",16-17,16-17
+llama3.2:1b,0,Rise to Rebellion,"The emotion vector of the description for ""Rise to Rebellion"" falls under the {'Anger': 0.16834136505007008, 'Anticipation': 0.11061553709969582, 'Disgust': 0.07126866946922315, 'Fear': 0.20543251649065242, 'Joy': 0.13759014320380056, 'Sadness': 0.08216275334085238, 'Surprise': 0.06440753272497352, 'Trust': 0.16018148262073212}.
+
+Comparing this to the average emotion vectors of different age groups:
+
+""12-13"": {'Anger': 5.928, 'Anticipation': 11.774, 'Disgust': 3.710, 'Fear': 10.412, 'Joy': 15.148, 'Sadness': 6.429, 'Surprise': 5.140, 'Trust': 16.259}
+
+""14-15"": {'Anger': 6.907, 'Anticipation': 10.844, 'Disgust': 4.491, 'Fear': 11.033, 'Joy': 14.164, 'Sadness': 7.528, 'Surprise': 4.784, 'Trust': 15.062}
+
+""16-17"": {'Anger': 7.961, 'Anticipation': 12.758, 'Disgust': 4.934, 'Fear': 13.352, 'Joy': 15.926, 'Sadness': 9.764, 'Surprise': 5.474, 'Trust': 16.686}
+
+""18+"": {'Anger': 6.049, 'Anticipation': 10.697, 'Disgust': 3.925, 'Fear': 10.116, 'Joy': 14.021, 'Sadness': 7.400, 'Surprise': 4.871, 'Trust': 16.471}
+
+""12-13"": The emotion vector for ""Rise to Rebellion"" has a stronger {'Anger'} and{'Fear'} component than their average, suggesting that the book may be more appealing to this age group due to its dark and intense portrayal of historical events.
+
+""14-15"": This age group tends towards higher levels of excitement (Anticipation), surprise, and satisfaction with the emotion vectors compared to the general averages. ""Rise to Rebellion"" seems well-suited for their interest in stories about leaders, revolutionaries, and pivotal events.
+
+""16-17"": The average emotions for this age group show a strong balance between anger and fear, which is consistent with this group's interests. However, they also prefer a mix of action (Anticipation), surprise, and satisfaction.
+
+""18+"": This age group prefers more moderate levels of excitement and satisfaction, indicating that ""Rise to Rebellion"" may be too intense or dark for them.
+
+Based on the emotion vectors, recommending ""Rise to Rebellion"" to this 12-13 year old student might not align with their preferred reading preferences.",16-17,12-13
+llama3.2:1b,1,Rise to Rebellion,"Based on the emotion vectors provided for each age group, I would recommend ""Rise to Rebellion"" to teenagers in the 16-17 age group. The normalized emotion vector for this description has a high level of 'Anger' (0.16834136505007008), indicating that the book might contain intense or dramatic scenes, which could appeal to teenagers who enjoy reading about historical events and complex themes.",16-17,16-17
+llama3.2:1b,1,Rise to Rebellion,"The emotion vector of the book description for ""Rise to Rebellion"" suggests that it would be most appealing to teenagers in the 16-17 age group due to its vivid portrayal of historical events, memorable characters, and action-packed storyline.",16-17,16-17
+llama3.2:1b,1,Rise to Rebellion,"Based on the emotion vectors provided for each age group, I would recommend ""Rise to Rebellion"" to teenagers in the 16-17 age range. The normalized emotion vector suggests a high level of anticipation and excitement about the story, as well as a sense of anger and disgust towards King George III's treatment of colonists. These emotions are also present in a moderate to high degree for sadness and surprise. Overall, these factors suggest that teenagers in this age group would be highly engaged and invested in the story.",16-17,16-17
+llama3.2:1b,1,Rise to Rebellion,"Based on the emotion vectors provided, I would recommend ""Rise to Rebellion"" to teenagers in the 16-17 age group. The normalized emotion vector suggests a high level of anticipation and joy, indicating that this book is likely to captivate young readers with its vivid portrayal of historical events and characters.",16-17,16-17
+llama3.2:1b,1,Rise to Rebellion,"Based on the emotion vectors provided for each age group, I would recommend ""Rise to Rebellion"" to teenagers in the 16-17 age range. The normalized emotion vector suggests that this book will evoke strong emotions such as ""Anger"", ""Fear"", and ""Joy"", which are common among younger readers who have experienced or witnessed similar events like the Boston Tea Party and the American Revolution.",16-17,16-17
+llama3.2:1b,3,Rise to Rebellion,18+,16-17,18+
+llama3.2:1b,3,Rise to Rebellion,18+,16-17,18+
+llama3.2:1b,3,Rise to Rebellion,16-17,16-17,16-17
+llama3.2:1b,3,Rise to Rebellion,18+,16-17,18+
+llama3.2:1b,3,Rise to Rebellion,"Based on the emotion vectors provided for each book description, it seems that the following age groups would prefer the recommendations:
+
+- ""The Summoning God (The Anasazi Mysteries, #2)"" and ""Rise to Rebellion"": 16-17
+- ""Mysterious Skin"" and ""Ruby Holler"": 12-13
+- ""Gone for Soldiers"", ""Gods"", ""The Last Full Measure"", and ""Fire!"" from the book description: 18+",16-17,16-17
+llama3.2:1b,5,Rise to Rebellion,16-17,16-17,16-17
+llama3.2:1b,5,Rise to Rebellion,16+,16-17,16+
+llama3.2:1b,5,Rise to Rebellion,16-17,16-17,16-17
+llama3.2:1b,5,Rise to Rebellion,16-17,16-17,16-17
+llama3.2:1b,5,Rise to Rebellion,18+,16-17,18+
+mistral:7b,0,Rise to Rebellion,"Based on the normalized emotion vector of the book description for ""Rise to Rebellion"" and comparing it to the average emotion vectors of books that each age group enjoyed, it seems the book might appeal most to the 16-17 age group as its emotional profile matches their preference the closest. However, it could also be appealing to the 14-15 and 18+ age groups due to similarities in some emotions such as Anticipation, Fear, Joy, Surprise, and Trust.",16-17,16-17
+mistral:7b,0,Rise to Rebellion,"Based on the normalized emotion vector of the book description for ""Rise to Rebellion"" and comparing it to the average emotion vectors of books that each age group enjoyed, it seems that the book description aligns best with the 14-15 age group. The relatively high values for 'Anticipation', 'Fear', 'Joy', and 'Trust' suggest a book that could appeal to this age group. However, it's important to note that individual preferences may vary, and the actual reader's experience might differ.",16-17,14-15
+mistral:7b,0,Rise to Rebellion,"Based on the emotion vector of the book description for ""Rise to Rebellion"" and comparing it to the average emotion vectors of books that each age group enjoyed, the book seems to align most closely with the ""14-15"" age group. However, it's important to note that this analysis is based solely on emotional content, and other factors such as reading level and complexity should also be considered when recommending books to teenagers.",16-17,14-15
+mistral:7b,0,Rise to Rebellion,"Based on the emotion vector of the book description for ""Rise to Rebellion"" and comparing it to the average emotion vectors of books that each age group enjoyed, the book seems to have a higher alignment with the 14-15 and 16-17 age groups. However, it's important to note that emotions are subjective and can vary among individuals. Therefore, it would be best to suggest this book to teenagers aged between 14 and 17.",16-17,14-15
+mistral:7b,0,Rise to Rebellion,"Based on the normalized emotion vector of the book description for ""Rise to Rebellion"" and comparing it to the average emotion vectors of books that each age group enjoys, it seems that this book would be most suitable for the 14-15 age group. The normalization results in a higher value for 'Anticipation', 'Fear', 'Joy', and 'Trust' compared to other age groups, which aligns closely with the preferences of the 14-15 age group. However, it is important to note that individual preferences can vary widely within these age groups, and the book might still be enjoyed by readers outside this age range.",16-17,14-15
+mistral:7b,1,Rise to Rebellion,14-15,16-17,14-15
+mistral:7b,1,Rise to Rebellion,"""16-17""",16-17,16-17
+mistral:7b,1,Rise to Rebellion,"Based on the normalized emotion vector provided, I would recommend the book ""Rise to Rebellion"" for the age group of 16-17. This is because the emotion vectors for this age group have higher scores in 'Anger', 'Anticipation', 'Fear' and 'Joy' which are emotions present in the description of the book, making it more appealing to this age group.",16-17,16-17
+mistral:7b,1,Rise to Rebellion,"""16-17""",16-17,16-17
+mistral:7b,1,Rise to Rebellion,16-17,16-17,16-17
+mistral:7b,3,Rise to Rebellion,16-17,16-17,16-17
+mistral:7b,3,Rise to Rebellion,"Based on the normalized emotion vector of the description for ""Rise to Rebellion"", it seems that this book would be most suitable for the age group ""16-17"".",16-17,16-17
+mistral:7b,3,Rise to Rebellion,16-17,16-17,16-17
+mistral:7b,3,Rise to Rebellion,16-17,16-17,16-17
+mistral:7b,3,Rise to Rebellion,Answer: 14-15,16-17,14-15
+mistral:7b,5,Rise to Rebellion,12-13,16-17,12-13
+mistral:7b,5,Rise to Rebellion,"Based on the normalized emotion vector provided, I would recommend the book ""Rise to Rebellion"" for the age group of 16-17.",16-17,16-17
+mistral:7b,5,Rise to Rebellion,16-17,16-17,16-17
+mistral:7b,5,Rise to Rebellion,16-17,16-17,16-17
+mistral:7b,5,Rise to Rebellion,12-13,16-17,12-13
+gemma3:12b,0,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,0,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,0,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,0,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,0,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,1,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,1,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,1,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,1,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,1,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,3,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,3,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,3,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,3,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,3,Rise to Rebellion,16-17,16-17,16-17
+gemma3:12b,5,Rise to Rebellion,14-15,16-17,14-15
+gemma3:12b,5,Rise to Rebellion,14-15,16-17,14-15
+gemma3:12b,5,Rise to Rebellion,14-15,16-17,14-15
+gemma3:12b,5,Rise to Rebellion,14-15,16-17,14-15
+gemma3:12b,5,Rise to Rebellion,14-15,16-17,14-15

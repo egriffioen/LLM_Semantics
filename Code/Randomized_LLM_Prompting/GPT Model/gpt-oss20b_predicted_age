@@ -1,0 +1,107 @@
+model,shots,book,answer,ground_truth_age,predicted_age
+gpt-oss:20b,0,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,0,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,0,"Scarecrow (Shane Schofield, #3)","""16-17""",16-17,16-17
+gpt-oss:20b,0,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,0,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,1,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,1,"Scarecrow (Shane Schofield, #3)",18+,16-17,18+
+gpt-oss:20b,1,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,1,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,1,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,3,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,3,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,3,"Scarecrow (Shane Schofield, #3)",18+,16-17,18+
+gpt-oss:20b,3,"Scarecrow (Shane Schofield, #3)",14-15,16-17,14-15
+gpt-oss:20b,3,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,5,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,5,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,5,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,5,"Scarecrow (Shane Schofield, #3)",18+,16-17,18+
+gpt-oss:20b,5,"Scarecrow (Shane Schofield, #3)",16-17,16-17,16-17
+gpt-oss:20b,0,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,14‑15,18+,14-15
+gpt-oss:20b,0,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,0,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,18+,18+,18+
+gpt-oss:20b,0,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,0,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,18+,18+,18+
+gpt-oss:20b,1,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,1,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,1,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,1,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,1,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,16-17,18+,16-17
+gpt-oss:20b,3,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,3,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,3,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,3,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,3,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,5,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,18+,18+,18+
+gpt-oss:20b,5,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,5,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,5,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,18+,18+,18+
+gpt-oss:20b,5,The Four Agreements Companion Book: Using the Four Agreements to Master the Dream of Your Life,12-13,18+,12-13
+gpt-oss:20b,0,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",16-17,12-13,16-17
+gpt-oss:20b,0,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",16‑17,12-13,16-17
+gpt-oss:20b,0,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",12-13,12-13,12-13
+gpt-oss:20b,0,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",14-15,12-13,14-15
+gpt-oss:20b,0,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",18+,12-13,18+
+gpt-oss:20b,1,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",12-13,12-13,12-13
+gpt-oss:20b,1,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",12-13,12-13,12-13
+gpt-oss:20b,1,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",12-13,12-13,12-13
+gpt-oss:20b,1,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",14-15,12-13,14-15
+gpt-oss:20b,1,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",18+,12-13,18+
+gpt-oss:20b,3,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",16-17,12-13,16-17
+gpt-oss:20b,3,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)","```json
+{
+  ""predicted age group"": ""Teenager 12-15 years old"",
+  ""average age"": 13.5,
+  ""emotion vector"": [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+}
+```",12-13,12-15
+gpt-oss:20b,3,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",12-13,12-13,12-13
+gpt-oss:20b,3,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",16-17,12-13,16-17
+gpt-oss:20b,3,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",**12-13**,12-13,12-13
+gpt-oss:20b,5,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",16-17,12-13,16-17
+gpt-oss:20b,5,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)","[""12-13"", ""12-13"", ""12-13"", ""12-13"", ""12-13""]",12-13,12-13
+gpt-oss:20b,5,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",12-13,12-13,12-13
+gpt-oss:20b,5,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",12-13,12-13,12-13
+gpt-oss:20b,5,"Brothers in Arms (Dragonlance: Raistlin Chronicles, #2)",12-13,12-13,12-13
+gpt-oss:20b,0,The A.B.C. Murders,14-15,16-17,14-15
+gpt-oss:20b,0,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,0,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,0,The A.B.C. Murders,18+,16-17,18+
+gpt-oss:20b,0,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,1,The A.B.C. Murders,18+,16-17,18+
+gpt-oss:20b,1,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,1,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,1,The A.B.C. Murders,18+,16-17,18+
+gpt-oss:20b,1,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,3,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,3,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,3,The A.B.C. Murders,14‑15,16-17,14-15
+gpt-oss:20b,3,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,3,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,5,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,5,The A.B.C. Murders,14-15,16-17,14-15
+gpt-oss:20b,5,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,5,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,5,The A.B.C. Murders,16-17,16-17,16-17
+gpt-oss:20b,0,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,0,"Cry of the Wolf (Avalon: Web of Magic, #3)",14‑15,12-13,14-15
+gpt-oss:20b,0,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,0,"Cry of the Wolf (Avalon: Web of Magic, #3)",14-15,12-13,14-15
+gpt-oss:20b,0,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,1,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,1,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,1,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,1,"Cry of the Wolf (Avalon: Web of Magic, #3)",16-17,12-13,16-17
+gpt-oss:20b,1,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,3,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,3,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,3,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,3,"Cry of the Wolf (Avalon: Web of Magic, #3)",16-17,12-13,16-17
+gpt-oss:20b,3,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,5,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,5,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,5,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,5,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13
+gpt-oss:20b,5,"Cry of the Wolf (Avalon: Web of Magic, #3)",12-13,12-13,12-13

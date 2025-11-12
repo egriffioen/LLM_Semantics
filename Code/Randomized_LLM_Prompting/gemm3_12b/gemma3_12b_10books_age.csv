@@ -1,0 +1,201 @@
+model,shots,book,answer,ground_truth_age,predicted_age
+gemma3:12b,0,"The Keeping Place (The Obernewtyn Chronicles, #4)",14-15,16-17,14-15
+gemma3:12b,0,"The Keeping Place (The Obernewtyn Chronicles, #4)",14-15,16-17,14-15
+gemma3:12b,0,"The Keeping Place (The Obernewtyn Chronicles, #4)",14-15,16-17,14-15
+gemma3:12b,0,"The Keeping Place (The Obernewtyn Chronicles, #4)",14-15,16-17,14-15
+gemma3:12b,0,"The Keeping Place (The Obernewtyn Chronicles, #4)",14-15,16-17,14-15
+gemma3:12b,1,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,1,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,1,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,1,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,1,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,3,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,3,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,3,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,3,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,3,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,5,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,5,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,5,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,5,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,5,"The Keeping Place (The Obernewtyn Chronicles, #4)",16-17,16-17,16-17
+gemma3:12b,0,The Scarlet Pimpernel,14-15,16-17,14-15
+gemma3:12b,0,The Scarlet Pimpernel,16-17,16-17,16-17
+gemma3:12b,0,The Scarlet Pimpernel,14-15,16-17,14-15
+gemma3:12b,0,The Scarlet Pimpernel,14-15,16-17,14-15
+gemma3:12b,0,The Scarlet Pimpernel,14-15,16-17,14-15
+gemma3:12b,1,The Scarlet Pimpernel,14-15,16-17,14-15
+gemma3:12b,1,The Scarlet Pimpernel,14-15,16-17,14-15
+gemma3:12b,1,The Scarlet Pimpernel,14-15,16-17,14-15
+gemma3:12b,1,The Scarlet Pimpernel,14-15,16-17,14-15
+gemma3:12b,1,The Scarlet Pimpernel,14-15,16-17,14-15
+gemma3:12b,3,The Scarlet Pimpernel,16-17,16-17,16-17
+gemma3:12b,3,The Scarlet Pimpernel,16-17,16-17,16-17
+gemma3:12b,3,The Scarlet Pimpernel,16-17,16-17,16-17
+gemma3:12b,3,The Scarlet Pimpernel,16-17,16-17,16-17
+gemma3:12b,3,The Scarlet Pimpernel,16-17,16-17,16-17
+gemma3:12b,5,The Scarlet Pimpernel,16-17,16-17,16-17
+gemma3:12b,5,The Scarlet Pimpernel,16-17,16-17,16-17
+gemma3:12b,5,The Scarlet Pimpernel,16-17,16-17,16-17
+gemma3:12b,5,The Scarlet Pimpernel,16-17,16-17,16-17
+gemma3:12b,5,The Scarlet Pimpernel,16-17,16-17,16-17
+gemma3:12b,0,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,0,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,0,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,0,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,0,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,1,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,1,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,1,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,1,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,1,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,3,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,3,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,3,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,3,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,3,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,5,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,5,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,5,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,5,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,5,"Highland Heather (Highland, #2)",16-17,18+,16-17
+gemma3:12b,0,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,0,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,0,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,0,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,0,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,1,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,1,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,1,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,1,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,1,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,3,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,3,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,3,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,3,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,3,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,5,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,5,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,5,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,5,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,5,Pet Sematary,16-17,16-17,16-17
+gemma3:12b,0,The China Garden,14-15,16-17,14-15
+gemma3:12b,0,The China Garden,16-17,16-17,16-17
+gemma3:12b,0,The China Garden,14-15,16-17,14-15
+gemma3:12b,0,The China Garden,16-17,16-17,16-17
+gemma3:12b,0,The China Garden,14-15,16-17,14-15
+gemma3:12b,1,The China Garden,18+,16-17,18+
+gemma3:12b,1,The China Garden,16-17,16-17,16-17
+gemma3:12b,1,The China Garden,18+,16-17,18+
+gemma3:12b,1,The China Garden,16-17,16-17,16-17
+gemma3:12b,1,The China Garden,16-17,16-17,16-17
+gemma3:12b,3,The China Garden,16-17,16-17,16-17
+gemma3:12b,3,The China Garden,16-17,16-17,16-17
+gemma3:12b,3,The China Garden,16-17,16-17,16-17
+gemma3:12b,3,The China Garden,16-17,16-17,16-17
+gemma3:12b,3,The China Garden,16-17,16-17,16-17
+gemma3:12b,5,The China Garden,14-15,16-17,14-15
+gemma3:12b,5,The China Garden,14-15,16-17,14-15
+gemma3:12b,5,The China Garden,14-15,16-17,14-15
+gemma3:12b,5,The China Garden,14-15,16-17,14-15
+gemma3:12b,5,The China Garden,14-15,16-17,14-15
+gemma3:12b,0,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,0,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,0,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,0,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,0,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,1,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,1,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,1,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,1,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,1,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,3,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,3,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,3,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,3,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,3,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,5,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,5,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,5,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,5,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,5,Tales of a Fourth Grade Nothing,12-13,12-13,12-13
+gemma3:12b,0,Dark Forces,16-17,16-17,16-17
+gemma3:12b,0,Dark Forces,16-17,16-17,16-17
+gemma3:12b,0,Dark Forces,16-17,16-17,16-17
+gemma3:12b,0,Dark Forces,16-17,16-17,16-17
+gemma3:12b,0,Dark Forces,16-17,16-17,16-17
+gemma3:12b,1,Dark Forces,16-17,16-17,16-17
+gemma3:12b,1,Dark Forces,16-17,16-17,16-17
+gemma3:12b,1,Dark Forces,16-17,16-17,16-17
+gemma3:12b,1,Dark Forces,16-17,16-17,16-17
+gemma3:12b,1,Dark Forces,16-17,16-17,16-17
+gemma3:12b,3,Dark Forces,18+,16-17,18+
+gemma3:12b,3,Dark Forces,18+,16-17,18+
+gemma3:12b,3,Dark Forces,18+,16-17,18+
+gemma3:12b,3,Dark Forces,16-17,16-17,16-17
+gemma3:12b,3,Dark Forces,18+,16-17,18+
+gemma3:12b,5,Dark Forces,18+,16-17,18+
+gemma3:12b,5,Dark Forces,18+,16-17,18+
+gemma3:12b,5,Dark Forces,18+,16-17,18+
+gemma3:12b,5,Dark Forces,18+,16-17,18+
+gemma3:12b,5,Dark Forces,18+,16-17,18+
+gemma3:12b,0,The Picture of Dorian Gray,16-17,14-15,16-17
+gemma3:12b,0,The Picture of Dorian Gray,16-17,14-15,16-17
+gemma3:12b,0,The Picture of Dorian Gray,16-17,14-15,16-17
+gemma3:12b,0,The Picture of Dorian Gray,16-17,14-15,16-17
+gemma3:12b,0,The Picture of Dorian Gray,16-17,14-15,16-17
+gemma3:12b,1,The Picture of Dorian Gray,18+,14-15,18+
+gemma3:12b,1,The Picture of Dorian Gray,18+,14-15,18+
+gemma3:12b,1,The Picture of Dorian Gray,16-17,14-15,16-17
+gemma3:12b,1,The Picture of Dorian Gray,16-17,14-15,16-17
+gemma3:12b,1,The Picture of Dorian Gray,18+,14-15,18+
+gemma3:12b,3,The Picture of Dorian Gray,18+,14-15,18+
+gemma3:12b,3,The Picture of Dorian Gray,18+,14-15,18+
+gemma3:12b,3,The Picture of Dorian Gray,18+,14-15,18+
+gemma3:12b,3,The Picture of Dorian Gray,18+,14-15,18+
+gemma3:12b,3,The Picture of Dorian Gray,18+,14-15,18+
+gemma3:12b,5,The Picture of Dorian Gray,18+,14-15,18+
+gemma3:12b,5,The Picture of Dorian Gray,18+,14-15,18+
+gemma3:12b,5,The Picture of Dorian Gray,18+,14-15,18+
+gemma3:12b,5,The Picture of Dorian Gray,16-17,14-15,16-17
+gemma3:12b,5,The Picture of Dorian Gray,18+,14-15,18+
+gemma3:12b,0,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,0,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,0,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,0,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,0,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,1,"The Daybreakers (The Sacketts, #6)",18+,18+,18+
+gemma3:12b,1,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,1,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,1,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,1,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,3,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,3,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,3,"The Daybreakers (The Sacketts, #6)",18+,18+,18+
+gemma3:12b,3,"The Daybreakers (The Sacketts, #6)",18+,18+,18+
+gemma3:12b,3,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,5,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,5,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,5,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,5,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,5,"The Daybreakers (The Sacketts, #6)",16-17,18+,16-17
+gemma3:12b,0,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",14-15,16-17,14-15
+gemma3:12b,0,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",14-15,16-17,14-15
+gemma3:12b,0,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",14-15,16-17,14-15
+gemma3:12b,0,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",14-15,16-17,14-15
+gemma3:12b,0,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",14-15,16-17,14-15
+gemma3:12b,1,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",14-15,16-17,14-15
+gemma3:12b,1,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",14-15,16-17,14-15
+gemma3:12b,1,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",14-15,16-17,14-15
+gemma3:12b,1,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",14-15,16-17,14-15
+gemma3:12b,1,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",14-15,16-17,14-15
+gemma3:12b,3,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",16-17,16-17,16-17
+gemma3:12b,3,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",16-17,16-17,16-17
+gemma3:12b,3,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",14-15,16-17,14-15
+gemma3:12b,3,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",16-17,16-17,16-17
+gemma3:12b,3,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",16-17,16-17,16-17
+gemma3:12b,5,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",16-17,16-17,16-17
+gemma3:12b,5,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",14-15,16-17,14-15
+gemma3:12b,5,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",16-17,16-17,16-17
+gemma3:12b,5,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",14-15,16-17,14-15
+gemma3:12b,5,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",16-17,16-17,16-17
